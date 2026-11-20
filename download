@@ -1,0 +1,15 @@
+# Arquivos temporários e caches
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+~$*
+__pycache__/
+.venv/
+node_modules/
+.env
+.env.*
+# Ferramentas de edição e exportação
+*.part
+*.lock
