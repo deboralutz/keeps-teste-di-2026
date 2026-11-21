@@ -1,45 +1,34 @@
-# Planejamento e conferência
+# Checklist — avaliação técnica Keeps
 
-Prazo externo: **23/11/2026 às 9h**. Meta interna sugerida: materiais finalizados no domingo, reservando a manhã de segunda apenas para imprevistos e envio.
+**Prazo:** 23/11/2026, até 9h. **Retrato:** 21/11/2026, conforme [Notion](https://app.notion.com/p/41e60d80450680bfa717e840777920d1). Esta lista não se atualiza automaticamente.
 
-## Organização por etapas (proposta, ajustável)
+## Respostas
 
-- **Sexta, 20/11:** decidir estrutura da ementa; responder item 1; selecionar e consultar bibliografia; registrar pressupostos.
-- **Sábado, 21/11:** concluir versões de trabalho dos itens 2 e 3; planejar a mensagem dos três objetos do item 5.
-- **Domingo, 22/11:** finalizar PDF, vídeo e PPT; conferir conteúdos, arquivos, links, duração, páginas e slides; preparar envio.
-- **Segunda, 23/11:** conferir anexos e enviar **antes das 9h**.
+- [x] Briefing redigido (etapa 1).
+- [x] Ementa e cronograma preliminares redigidos (etapa 2).
+- [x] Reação à reunião e gestão de escopo redigidas (etapa 3).
+- [ ] Consolidar e revisar respostas em PDF de entrega.
 
-## Critérios de aceite
+## Objetos obrigatórios do Módulo 1
 
-### Item 1 — Briefing
-- [ ] Informações recebidas separadas das ausentes.
-- [ ] Perguntas iniciais priorizadas, sem excesso.
-- [ ] Primeiros passos do DI explicitados.
+- [x] PDF de boas-vindas produzido (`02_Boas_Vindas_Habilidades_do_Futuro.pdf`).
+- [ ] Comparar PDF existente com storyboard e inspecionar visualmente a exportação (limite: 2 páginas; ideal 1).
+- [ ] Aprovar roteiro e produzir vídeo Panorama atual (até 60 s; ideal 30 s); testar narração, legendas, fontes e reprodução.
+- [ ] Aprovar roteiro e produzir PPT Globalização (até 5 slides com capa inicial/final, ou 3 sem); testar o PPTX final.
+- [ ] Verificar alinhamento com a matriz v1.1 e com a estrutura curricular.
 
-### Item 2 — Ementa e cronograma
-- [ ] Objetivo/proposta claramente descritos, marcando hipóteses necessárias.
-- [ ] Público e formato sinalizados como parâmetros a validar, se não fornecidos.
-- [ ] Módulos, temas, tópicos e sequência compreensíveis.
-- [ ] Cronograma explícito com caráter proposto.
-- [ ] Referências consultadas e registradas.
-- [ ] Não inserir critérios obrigatórios de avaliação/certificação (dispensados).
+## Curadoria, qualidade e envio
 
-### Item 3 — Reunião com cliente
-- [ ] Reação ao feedback descrita profissionalmente.
-- [ ] Pontos de discordância traduzidos em critérios e consequências.
-- [ ] Mudanças de escopo, viabilidade e validação de fontes abordadas.
-- [ ] Próximos passos definidos.
+- [ ] Verificar números, datas, atribuições e direitos de uso nas fontes originais; consultar `links-e-notas.md`.
+- [ ] Revisar clareza, fontes, acessibilidade, páginas, duração, slides e arquivos exportados.
+- [ ] Deixar apenas versões finais verificadas em `entrega/`.
+- [ ] Preparar envio e entregar antes das 9h de 23/11.
 
-### Item 5 — Objetos introdutórios
-- [ ] PDF de boas-vindas final: ideal 1 página, máximo 2.
-- [ ] Vídeo *Panorama atual* final: ideal 30 segundos, máximo 60.
-- [ ] PPT *Globalização* final: máximo 5 slides incluindo abertura e encerramento, ou 3 sem.
-- [ ] Correspondência com a ementa aprovada ou pressuposta explicitamente.
-- [ ] Ortografia, legibilidade, créditos e fontes verificados.
-- [ ] Arquivos finais abrem corretamente.
+## Complementos
 
-## Decisões pendentes
-- Formato do arquivo ou dos arquivos dos itens 1–3.
-- Hipóteses de público, contexto e duração para a ementa fictícia (a definir pela candidata).
-- Estratégia de produção do vídeo e da apresentação.
-- Meio de envio conforme as orientações recebidas por e-mail.
+- [x] Diagnósticos escritos e simulação didática documentados no Notion (**sem coleta real**).
+- [ ] Aula demonstrativa de comunicação: opcional, após conclusão do obrigatório.
+- [ ] Protótipo interativo para liderança: **suspenso**.
+- [ ] Protótipo interativo para colaboradores: **suspenso**.
+
+**Observação:** 20 minutos para o Módulo 1 é estimativa curricular ainda não verificada pela duração real das peças. Não adicionar atividades só para preencher tempo.

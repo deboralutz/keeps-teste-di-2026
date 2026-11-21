@@ -1,15 +1,11 @@
-# 5.1 PDF — Boas-vindas
+# Objeto 1 — PDF de boas-vindas
 
-**Escopo oficial:** contextualização sobre o tema geral *Habilidades do Futuro*. Ideal 1 página; máximo 2.
+**Estado em 21/11/2026:** PDF já produzido e marcado como revisado no Notion. Arquivo existente: `02_Boas_Vindas_Habilidades_do_Futuro.pdf`. Não substituir sem autorização.
 
-## Texto de base
+**Versão editável indicada pela Wiki:** [Figma — PRUMO Gestão Integrada](https://www.figma.com/design/yZhQ5IcVqprZfsqRN9o1OA/PRUMO-Gestao-Integrada?node-id=7-30).
 
-_A desenvolver pela candidata após decidir a ementa._
+**Storyboard posterior:** `docs/STORYBOARD_PDF_BOAS_VINDAS_v1.md` (proposta editorial, ainda pendente de comparação com o PDF existente).
 
-## Conferência
+**Escopo oficial:** uma página é ideal; duas páginas é o máximo.
 
-- [ ] Fala ao participante de maneira clara e breve.
-- [ ] Contextualiza o curso sem promessas não fundamentadas.
-- [ ] Mantém coerência com a ementa proposta.
-- [ ] Exportado para PDF e conferido visualmente.
-- [ ] 1–2 páginas.
+Antes de alterar: comparar os textos e a identidade visual, apontar diferenças, conferir página e leitura, e solicitar aprovação editorial. Este arquivo registra o estado do objeto e não autoriza regeneração.

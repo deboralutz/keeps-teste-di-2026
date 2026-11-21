@@ -1,41 +1,41 @@
 # Avaliação técnica — Design Instrucional | Keeps
 
-Projeto de trabalho para a avaliação técnica recebida em novembro de 2026.
+Repositório **privado** para estudo, planejamento e produção de *Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho*.
 
-**Prazo informado:** segunda-feira, 23/11/2026, às 9h.
+**Prazo:** 23/11/2026, às 9h. **Mapa conferido:** 21/11/2026. O projeto não é um curso HTML/SCORM: os formatos obrigatórios seguem `avaliacao-tecnica-keeps.pdf`.
 
-Este repositório é **privado** e reúne o enunciado, o planejamento, os rascunhos, as fontes e os materiais finais. Não é um curso em HTML/SCORM: os objetos solicitados estão indicados no PDF original.
+## Entregas oficiais
 
-## Entregas solicitadas
+- **Etapa 1:** resposta ao briefing incompleto.
+- **Etapa 2:** ementa e cronograma preliminar (o teste dispensa critérios de avaliação e certificação).
+- **Etapa 3:** resposta às mudanças solicitadas pelo gestor.
+- **Etapa 5:** PDF de boas-vindas (ideal 1 página, máximo 2); vídeo *Panorama atual* (ideal 30 segundos, máximo 60); PPT *Globalização* (máximo 5 slides com abertura/encerramento ou 3 sem capas).
 
-1. **Briefing** — organizar informações disponíveis, identificar lacunas iniciais e descrever os primeiros passos de DI.
-2. **Ementa e cronograma** — estruturar a proposta de curso *Habilidades do Futuro*, com breve curadoria de fontes. O enunciado dispensa critérios de avaliação e certificação.
-3. **Reunião com o cliente** — descrever reação e encaminhamentos diante de mudanças importantes de escopo e materiais sem fonte.
-5. **Roteirização** — criar os três objetos de introdução: PDF de boas-vindas (ideal 1 página, máximo 2), vídeo sobre *Panorama atual* (ideal 30 segundos, máximo 1 minuto) e PPT de *Globalização* (máximo 5 slides com capa e encerramento, ou 3 sem esses slides).
+A numeração 1, 2, 3, 5 corresponde à do enunciado.
 
-A numeração 1, 2, 3 e 5 acompanha o documento original.
+## Onde está cada referência
 
-## Pastas
+- **Instruções do Codex:** `AGENTS.md`.
+- **Respostas escritas:** `01-briefing.md`, `02-ementa-cronograma.md`, `03-reuniao-com-cliente.md` (versões de trabalho).
+- **Andamento:** `checklist.md`; contexto no [Notion](https://app.notion.com/p/41e60d80450680bfa717e840777920d1).
+- **Matriz atual:** `docs/MATRIZ_DI_MODULO_1_v1_1.md`. `docs/MATRIZ_DI_MODULO_1_v1.md` permanece como histórico.
+- **Storyboard PDF:** `docs/STORYBOARD_PDF_BOAS_VINDAS_v1.md` (proposto, requer confronto com artefato existente).
+- **Guia e catálogo:** `docs/GUIA_DI_KEEPS.md`, `docs/CRITERIOS_DI_PRODUCAO_KEEPS.md`.
+- **Estrutura curricular e fontes:** `referencias/estrutura_curricular.md`, `referencias/Artigo_01.md`, `referencias/Artigo_02.md`, `referencias/Artigo_03.md`; conferir `links-e-notas.md`.
+- **PDF produzido:** `02_Boas_Vindas_Habilidades_do_Futuro.pdf`, com versão editável do Figma indicada em `01-boas-vindas.md`. Não substituir automaticamente.
+- **Vídeo e slides:** `02-video-panorama-atual.md` e `03-slides-globalizacao.md` são templates, não roteiros finais.
+- **Entrega:** `entrega/LEIA-ME.md`; usar a pasta apenas para versões finais revisadas.
 
-- `referencias/`: enunciado original e bibliografia linkada no PDF.
-- `planejamento/`: verificação do escopo e acompanhamento.
-- `trabalho/`: textos-fonte, ementa, decisões e roteiros em elaboração.
-- `entrega/`: colocar aqui somente os arquivos finais revisados. Os formatos finais serão definidos na produção.
-- `AGENTS.md`: instruções para o Codex quando atuar sobre este repositório.
+## Status resumido — 21/11/2026
 
-## Primeiro uso do Codex
+PDF existente e revisado segundo o Notion, mas inspeção e comparação final com storyboard ainda pendentes. Vídeo e PPT não concluídos; respostas escritas ainda precisam ser consolidadas e verificadas. Protótipos interativos diagnósticos suspensos; aula demonstrativa de comunicação opcional.
 
-Abra o projeto no Codex e dê a instrução abaixo:
+## Como iniciar com o Codex
 
-> Leia `AGENTS.md`, o enunciado em `referencias/` e `planejamento/checklist.md`. Faça apenas um diagnóstico de leitura: identifique as entregas, os limites formais e as decisões ainda pendentes. Não gere o conteúdo do teste nem altere arquivos nesta primeira tarefa. Apresente até cinco próximos passos, priorizados pelo prazo.
+Leia `AGENTS.md`, `checklist.md` e o enunciado. Identifique a tarefa concreta, a matriz, o storyboard e as fontes pertinentes. Não edite diante de conflito de versões, pendência de aprovação ou arquivo existente sem autorização. Registre os testes que realmente executou.
 
-Depois, execute tarefas pequenas, uma por vez, validando os resultados antes de incorporá-los à entrega.
+**Exemplo de primeiro pedido:** “Leia os arquivos de referência e liste as dependências para aprovar o roteiro do PPT de Globalização. Não modifique arquivos nem gere slides nessa tarefa.”
 
-## Princípios de trabalho
+## Convenções
 
-- O PDF original é a fonte do escopo da avaliação.
-- Distinguir informações dadas no caso hipotético, hipóteses propostas pela candidata e informações verificadas em fontes externas.
-- Verificar materiais externos antes de citar; guardar URL e data da consulta.
-- Não acrescentar exigências que o enunciado dispensa.
-- Preservar a autoria, as decisões e a voz da candidata. O Codex apoia organização, versões, edição técnica e verificações.
-- Manter o repositório privado; revisar antes de qualquer compartilhamento.
+A Prumo Gestão Integrada e os diagnósticos são simulações didáticas, não dados de uma empresa real. O Notion guarda histórico e acompanhamento; o GitHub contém arquivos versionados para execução. Não há sincronização automática garantida. Preservar autoria, privacidade, direitos de uso e documentos já produzidos.

@@ -38,3 +38,30 @@ Atuar como apoio técnico à produção do projeto. Implementar artefatos defini
 
 ## Relatório de conclusão de cada tarefa
 Informar: (a) arquivos criados/alterados; (b) requisitos atendidos; (c) testes executados e seus resultados; (d) pontos que exigem revisão humana. Não declarar testes ou validações que não tenham sido feitos.
+
+## Caminhos e versões vigentes — 21/11/2026
+
+- Fonte do escopo obrigatório: `avaliacao-tecnica-keeps.pdf`.
+- Ementa proposta: `02-ementa-cronograma.md`; estrutura curricular: `referencias/estrutura_curricular.md`.
+- Matriz **vigente**: `docs/MATRIZ_DI_MODULO_1_v1_1.md`; `v1.md` é histórico.
+- Storyboard do PDF: `docs/STORYBOARD_PDF_BOAS_VINDAS_v1.md`, ainda sujeito à comparação e aprovação.
+- Guia de apoio: `docs/GUIA_DI_KEEPS.md`; catálogo consultivo: `docs/CRITERIOS_DI_PRODUCAO_KEEPS.md`.
+- Fontes: `referencias/Artigo_01.md`, `referencias/Artigo_02.md`, `referencias/Artigo_03.md`; verificar ressalvas em `links-e-notas.md`.
+- Estado de trabalho: `checklist.md`, snapshot da [Wiki do Notion](https://app.notion.com/p/41e60d80450680bfa717e840777920d1). Não presumir sincronização automática.
+
+## Proteger materiais já existentes
+
+- O PDF `02_Boas_Vindas_Habilidades_do_Futuro.pdf` **já existe** e consta como produzido/revisado no Notion. Antes de qualquer alteração, comparar com o storyboard e o Figma; não sobrescrever nem mover sem autorização.
+- O vídeo e o PPT estão pendentes. `02-video-panorama-atual.md` e `03-slides-globalizacao.md` são templates iniciais, não roteiros aprovados.
+- `01-briefing.md`, `02-ementa-cronograma.md` e `03-reuniao-com-cliente.md` são versões de trabalho, ainda não consolidadas em PDF de entrega.
+- Diagnósticos interativos para líderes/colaboradores: **suspensos**. Aula extra de comunicação: **opcional**, após as exigências do teste.
+
+## Hierarquia para execução
+
+1. Prevalece o enunciado oficial da Keeps.
+2. Depois, a ementa e estrutura curricular propostas e, para cada objeto, a matriz vigente e o storyboard aprovado.
+3. Guia e catálogo são referências de decisão e revisão, **não** autorização de escopo adicional.
+4. Se o material já estiver produzido ou houver versões conflitantes, comparar, documentar discrepâncias e pedir decisão antes de editar.
+5. Notion e Figma são referências externas; o Codex não deve presumir acesso ou sincronização. Não inventar validações, pesquisas, dados ou resultados.
+
+Antes de implementar, declarar arquivos de entrada e arquivos que serão preservados. Após a tarefa, informar alterações e testes efetivamente realizados.
