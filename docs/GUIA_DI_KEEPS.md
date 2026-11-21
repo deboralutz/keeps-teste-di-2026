@@ -73,7 +73,7 @@ A seção 1.4 (competências para o futuro) foi planejada como síntese integrad
 | ID | Informação/decisão | Tipo | Fonte/justificativa | Status | Impacto se mudar |
 |---|---|---|---|---|---|
 | PRE-001 | Tema do curso: Habilidades do Futuro | Fato do enunciado | Avaliação técnica | Confirmado | Alto |
-| PRE-002 | Estrutura curricular em 5 módulos | Decisão preliminar do projeto | `estrutura_curricular.txt` v1 | Em uso; validar se houve revisão posterior | Alto |
+| PRE-002 | Estrutura curricular em 5 módulos | Decisão preliminar do projeto | `referencias/estrutura_curricular.md` v1 | Em uso; validar se houve revisão posterior | Alto |
 | PRE-003 | Empresa fictícia de gestão de processos | Simulação | Hipótese para o estudo de caso | Validar | Médio |
 | PRE-004 | Público-alvo e necessidades específicas | Premissa em aberto | Briefing insuficiente | Não confirmado | Alto |
 
@@ -88,8 +88,8 @@ A seção 1.4 (competências para o futuro) foi planejada como síntese integrad
 | ID | Função e objetivo proposto | Conteúdo essencial | Experiência ou evidência | Formato e limite | Fontes |
 |---|---|---|---|---|---|
 | M1-O1 | Acolher e orientar; participante reconhece o percurso e a pertinência do curso | tema, percurso, questão mobilizadora | pergunta inicial para reflexão, sem necessidade de coleta de resposta | PDF, ideal 1 página, máximo 2 | briefing e ementa |
-| M1-O2 | Contextualizar; participante identifica que mudanças tecnológicas e competências humanas coexistem | panorama do trabalho e competências em destaque | contraste visual entre transformação do trabalho e capacidades necessárias | vídeo, ideal 30 s, máximo 60 s | `Artigo_01.md` e `Artigo_02.md` |
-| M1-O3 | Introduzir conceito; participante consegue explicar uma relação entre globalização e trabalho | conceito, oportunidades, riscos e necessidade de adaptação | exemplo concreto e síntese dos dois tipos de impacto | PPT, até 5 slides com capas ou 3 sem | `Artigo_03.md` |
+| M1-O2 | Contextualizar; participante identifica que mudanças tecnológicas e competências humanas coexistem | panorama do trabalho e competências em destaque | contraste visual entre transformação do trabalho e capacidades necessárias | vídeo, ideal 30 s, máximo 60 s | `referencias/Artigo_01.md` e `referencias/Artigo_02.md` |
+| M1-O3 | Introduzir conceito; participante consegue explicar uma relação entre globalização e trabalho | conceito, oportunidades, riscos e necessidade de adaptação | exemplo concreto e síntese dos dois tipos de impacto | PPT, até 5 slides com capas ou 3 sem | `referencias/Artigo_03.md` |
 
 **Nota:** as funções e os objetivos da tabela são propostas de design derivadas dos materiais disponíveis, não requisitos literais do enunciado nem decisões de cliente real.
 
@@ -105,10 +105,10 @@ A seção 1.4 (competências para o futuro) foi planejada como síntese integrad
 
 | ID | Afirmação a usar | Fonte, título, URL e data | Local de uso | Verificação | Observações |
 |---|---|---|---|---|---|
-| F-001 | Projeção sobre transformação de habilidades até 2030 | FIESC / *Future of Jobs 2025*, conforme `Artigo_01.md` | vídeo ou PDF, se necessário | Conferir atribuição e formulação exata | Não fundir com projeções de outra metodologia |
-| F-002 | Interdependência econômica pode gerar e eliminar empregos | Parlamento Europeu, conforme `Artigo_03.md` | slides de globalização | Verificar trecho, data e contexto geográfico | Contexto da União Europeia; não generalizar automaticamente para o Brasil |
+| F-001 | Projeção sobre transformação de habilidades até 2030 | FIESC / *Future of Jobs 2025*, conforme `referencias/Artigo_01.md` | vídeo ou PDF, se necessário | Conferir atribuição e formulação exata | Não fundir com projeções de outra metodologia |
+| F-002 | Interdependência econômica pode gerar e eliminar empregos | Parlamento Europeu, conforme `referencias/Artigo_03.md` | slides de globalização | Verificar trecho, data e contexto geográfico | Contexto da União Europeia; não generalizar automaticamente para o Brasil |
 
-**Alertas documentados nas fontes do projeto:** `Artigo_01.md` menciona transformação/obsolescência de **39%** das habilidades; `Artigo_02.md` relata outra projeção de **75%** em contextos diversos. Não tratar como o mesmo indicador. `Artigo_03.md` contém a expressão **“701 milhões de postos de trabalho em Portugal”**; há forte suspeita de erro de unidade ou transcrição: **não utilizar esse número sem checagem na origem.**
+**Alertas documentados nas fontes do projeto:** `referencias/Artigo_01.md` menciona transformação/obsolescência de **39%** das habilidades; `referencias/Artigo_02.md` relata outra projeção de **75%** em contextos diversos. Não tratar como o mesmo indicador. `referencias/Artigo_03.md` contém a expressão **“701 milhões de postos de trabalho em Portugal”**; há forte suspeita de erro de unidade ou transcrição: **não utilizar esse número sem checagem na origem.**
 
 Em estatísticas, distinguir **dado observado**, **estimativa**, **projeção**, **opinião de autor** e **exemplo didático**. Não inventar fontes, URLs, datas ou citações.
 
@@ -186,7 +186,7 @@ Antes de modificar artefatos, solicitar ou identificar qual versão é a fonte d
 
 ## 10. Leituras e referências
 
-**Arquivos do projeto:** `[Keeps] Avaliação Técnica para Designer Instrucional.pdf`, `Vaga_Designer_Instrucional.pdf`, `estrutura_curricular.txt`, `Artigo_01.md`, `Artigo_02.md`, `Artigo_03.md`, `Referencia_metodologica_ADDIE_6Ds_Kirkpatrick_Phillips_Keeps.md`.
+**Arquivos do projeto:** `[Keeps] Avaliação Técnica para Designer Instrucional.pdf`, `Vaga_Designer_Instrucional.pdf`, `referencias/estrutura_curricular.md`, `referencias/Artigo_01.md`, `referencias/Artigo_02.md`, `referencias/Artigo_03.md`, `referencias/Referencia_metodologica_ADDIE_6Ds_Kirkpatrick_Phillips_Keeps.md`.
 
 **Referências externas de estudo:**
 

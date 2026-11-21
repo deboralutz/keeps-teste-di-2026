@@ -326,7 +326,7 @@ A estrutura curricular v1 do projeto preserva cinco módulos. O Módulo 1 — **
 - `STORYBOARD_PDF_BOAS_VINDAS_v1.md`: conteúdo e instruções do primeiro objeto, **pendentes da aprovação editorial final**.
 - `GUIA_DI_KEEPS.md`: fundamentos metodológicos e fluxo mínimo.
 - `../AGENTS.md`: instruções vigentes para o agente; este arquivo **não substitui** `AGENTS.md`.
-- `estrutura_curricular.txt`, se incorporado ao repositório: estrutura curricular do projeto em sua versão indicada.
+- `referencias/estrutura_curricular.md`, se incorporado ao repositório: estrutura curricular do projeto em sua versão indicada.
 
 ### Sugestões de consulta por objeto (não são comandos)
 
@@ -411,8 +411,8 @@ Fontes selecionadas para apoiar definições e ressalvas. A lista é **orientado
 
 - Avaliação técnica para Designer Instrucional — Keeps (arquivo do projeto).
 - Vaga de Designer Instrucional — Keeps (arquivo do projeto).
-- `estrutura_curricular.txt` — Estrutura curricular v1.
-- `Referencia_metodologica_ADDIE_6Ds_Kirkpatrick_Phillips_Keeps.md` — estudo complementar anterior.
+- `referencias/estrutura_curricular.md` — Estrutura curricular v1.
+- `referencias/Referencia_metodologica_ADDIE_6Ds_Kirkpatrick_Phillips_Keeps.md` — estudo complementar anterior.
 - `GUIA_DI_KEEPS.md` — guia existente.
 - `MATRIZ_DI_MODULO_1_v1_1.md` — alinhamento do módulo 1.
 - `STORYBOARD_PDF_BOAS_VINDAS_v1.md` — storyboard do PDF v1.

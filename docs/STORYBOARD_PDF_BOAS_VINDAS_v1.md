@@ -5,8 +5,9 @@
 **Módulo:** 1. O trabalho em transformação  
 **Unidade:** 1.1. Boas-vindas e apresentação do curso  
 **Versão:** 1.0 — 21/11/2026  
+**Aviso de sincronização:** já existe PDF de trabalho em `02_Boas_Vindas_Habilidades_do_Futuro.pdf`; comparar os arquivos antes de qualquer alteração ou substituição.  
 **Status:** roteiro editorial e visual proposto; requer aprovação humana antes da produção final  
-**Documentos de referência:** `estrutura_curricular.txt`; `MATRIZ_DI_MODULO_1_v1_1.md`; enunciado da avaliação técnica.
+**Documentos de referência:** `referencias/estrutura_curricular.md`; `MATRIZ_DI_MODULO_1_v1_1.md`; enunciado da avaliação técnica.
 
 ## 1. Função instrucional
 
@@ -80,9 +81,9 @@ Pense em uma mudança que você observou no seu trabalho ou em sua área de atua
 
 ## 6. Rastreabilidade editorial
 
-- **Estrutura do percurso e pergunta inicial:** `estrutura_curricular.txt` (estrutura curricular, versão 1).
+- **Estrutura do percurso e pergunta inicial:** `referencias/estrutura_curricular.md` (estrutura curricular, versão 1).
 - **Enunciado de formato e dimensão:** `[Keeps] Avaliação Técnica para Designer Instrucional.pdf`, seção 5 (Objeto 1: boas-vindas, 1 página ideal, 2 máximas).
-- **Contexto geral sobre mudanças profissionais e competências:** `Artigo_01.md` (FIESC, 27/01/2025) e `Artigo_02.md` (versão de estudo de artigo de Milton Beck, Forbes Brasil, 29/04/2025). **Nenhuma estatística desses textos é usada no PDF.**
+- **Contexto geral sobre mudanças profissionais e competências:** `referencias/Artigo_01.md` (FIESC, 27/01/2025) e `referencias/Artigo_02.md` (versão de estudo de artigo de Milton Beck, Forbes Brasil, 29/04/2025). **Nenhuma estatística desses textos é usada no PDF.**
 - **Texto autoral do PDF:** redação sintética construída para este material a partir do escopo curricular; não apresenta citações literais nem resultados de diagnóstico do cliente.
 
 ## 7. Aceite e pendências
