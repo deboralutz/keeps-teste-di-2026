@@ -1,80 +1,159 @@
-> **Fonte:** [Estrutura curricular v1 no Notion](https://app.notion.com/p/41e60d80450680c4943bd84f5ae74024). Proposta preliminar, não currículo validado por cliente real.
+> **Status:** espelho de consulta da Parte II de [02-ementa-cronograma.md](../02-ementa-cronograma.md), versão curricular de 22/11/2026. Em caso de divergência, prevalece a ementa principal. Proposta preliminar, sujeita à validação com o cliente fictício.
+>
+> **Histórico:** o [documento v1 no Notion](https://app.notion.com/p/41e60d80450680c4943bd84f5ae74024) descrevia cinco módulos; foi substituído nesta versão. O histórico também permanece acessível nos commits do GitHub.
 
-# ESTRUTURA CURRICULAR · VERSÃO 1
+## Parte II — Estrutura curricular
 
-# **Habilidades do Futuro**
+### Curso: Habilidades do Futuro
+**Comunicação, inteligência artificial e adaptabilidade no trabalho**
 
-Comunicação, inteligência artificial e adaptabilidade no trabalho
+**Modalidade proposta:** digital, autoinstrucional e assíncrona.  
+**Carga horária estimada:** 3 horas.
 
-**1. O trabalho em transformação** — 20 minutos
+### Módulo 1 — O trabalho em transformação
+**Duração estimada: 20 minutos**
 
-**1.1. Boas-vindas e apresentação do curso**
+#### 1.1. Boas-vindas e apresentação do curso
 
-PDF de uma página. Apresentar a proposta, o percurso de aprendizagem e uma pergunta inicial: quais transformações estão modificando a maneira como trabalhamos?
+**Formato:** PDF de uma página, com protótipo interativo complementar de abertura.
 
-**1.2. Panorama atual do mercado de trabalho**
+Apresentar a proposta e o percurso de aprendizagem. Introduzir uma reflexão sobre as transformações que estão modificando a maneira como trabalhamos.
 
-Vídeo de aproximadamente 30 segundos. Apresentar as mudanças tecnológicas e a crescente relevância de competências humanas e digitais.
+#### 1.2. Panorama atual do mercado de trabalho
 
-**1.3. Globalização e transformações profissionais**
+**Formato:** vídeo de até um minuto.
 
-Apresentação de até cinco slides. Explicar a globalização, apresentar efeitos positivos e negativos sobre o trabalho e relacioná-los às competências profissionais.
+Apresentar as mudanças tecnológicas e a crescente relevância de competências humanas e digitais.
 
-**1.4. Competências para o futuro**
+#### 1.3. Globalização e transformações profissionais
 
-Síntese integradora, incorporada à apresentação e à experiência de encerramento do módulo. Fazer a ligação com comunicação, IA, gestão da informação e aprendizagem contínua.
+**Formato:** apresentação de até cinco slides.
 
----
+Explicar a globalização, apresentar efeitos positivos e negativos sobre o trabalho e relacioná-los às competências profissionais.
 
-#### **2. Comunicação no ambiente profissional** — 35 minutos
+#### 1.4. Competências para o futuro
 
-**2.1. Comunicação e colaboração entre equipes**
+**Formato:** síntese integradora, incorporada ao encerramento da apresentação de Globalização.
 
-**2.2. Como reconhecer demandas incompletas**
+Estabelecer relações entre comunicação, inteligência artificial, gestão da informação e aprendizagem contínua.
 
-**2.3. Perguntas de esclarecimento e escuta ativa**
+### Módulo 2 — Comunicação no ambiente profissional
+**Duração estimada: 35 minutos**
 
-**2.4. Comunicação assertiva e alinhamento de expectativas**
+**Objetivo:** identificar informações ausentes em demandas profissionais, formular perguntas de esclarecimento e produzir solicitações claras e completas.
 
-**2.5. Aplicação prática: reformulando uma solicitação**
+#### 2.1. Comunicação e colaboração entre equipes
 
----
+Como informações são transmitidas, interpretadas e utilizadas nas atividades profissionais.
 
-#### **3. Inteligência artificial aplicada ao trabalho** — 40 minutos
+#### 2.2. Como reconhecer demandas incompletas
 
-**3.1. O que a IA generativa pode e não pode fazer**
+Identificação de informações insuficientes, ambiguidades e expectativas não esclarecidas.
 
-**3.2. Quando utilizar inteligência artificial**
+#### 2.3. Escuta ativa e perguntas de esclarecimento
 
-**3.3. Como formular instruções claras e contextualizadas**
+Estratégias para compreender necessidades, verificar interpretações e obter informações relevantes.
 
-**3.4. Confiabilidade, segurança e revisão dos resultados**
+#### 2.4. Comunicação assertiva e alinhamento de expectativas
 
-**3.5. Aplicação prática: uma tarefa com apoio de IA**
+Formulação de solicitações com finalidade, responsáveis, prazo, formato e critérios de entrega.
 
----
+#### 2.5. Aplicação prática: reformulando uma solicitação
 
-#### **4 . Organização e gestão da informação** — 30 minutos
+Análise de uma demanda fictícia, elaboração de perguntas e reescrita da solicitação com critérios de conferência.
 
-**4.1. Informação e documentação nos processos**
+### Módulo 3 — Organização e gestão da informação
+**Duração estimada: 30 minutos**
 
-**4.2. Fontes, versões e registros confiáveis**
+**Objetivo:** identificar informações e documentos confiáveis, reconhecer versões válidas e registrar decisões de forma rastreável.
 
-**4.3. Rastreabilidade de decisões**
+#### 3.1. Informação e documentação no trabalho
 
-**4.4. Aplicação prática: organizando uma entrega**
+Importância dos registros, da disponibilidade e da organização das informações para a continuidade das atividades.
 
----
+#### 3.2. Fontes e confiabilidade da informação
 
-#### **5. Adaptabilidade e aprendizagem contínua** — 25 minutos
+Critérios para identificar origem, autoria, atualização e adequação das informações utilizadas.
 
-**5.1. Mudanças nas práticas profissionais**
+#### 3.3. Controle de versões e rastreabilidade de decisões
 
-**5.2. Pensamento crítico e criatividade**
+Identificação de documentos atualizados, estados de aprovação, responsáveis e encaminhamentos.
 
-**5.3. Identificação de necessidades de aprendizagem**
+#### 3.4. Aplicação prática: conferindo informações para uma entrega
 
-**5.4. Aplicação prática: um próximo passo de desenvolvimento**
+Comparação entre documentos simulados, seleção da versão válida e registro de uma decisão.
 
+### Módulo 4 — Análise e melhoria de processos
+**Duração estimada: 30 minutos**
 
+**Objetivo:** reconhecer elementos de um processo de trabalho, identificar dificuldades e utilizar um instrumento introdutório para analisar oportunidades de melhoria.
 
+#### 4.1. Como compreender um processo de trabalho
+
+Atividades, entradas, saídas, responsáveis, sequência de execução e pontos de decisão.
+
+#### 4.2. Identificação de dificuldades nos processos
+
+Retrabalho, atrasos, falhas de comunicação, informações incompletas e ausência de procedimentos claros.
+
+#### 4.3. Ferramentas introdutórias de análise
+
+Apresentação das possibilidades de entrevista, observação, análise documental e mapeamento de processos, com foco prático em um mapa simplificado.
+
+#### 4.4. Da situação atual às oportunidades de melhoria
+
+Representação do fluxo existente, identificação de um ponto problemático e discussão de possíveis alternativas.
+
+#### 4.5. Aplicação prática: analisando um processo da Prumo
+
+Construção ou interpretação de um mapa simplificado do processo de revisão e aprovação de documentos, identificando uma dificuldade e uma oportunidade de melhoria.
+
+### Módulo 5 — Inteligência artificial aplicada ao trabalho
+**Duração estimada: 40 minutos**
+
+**Objetivo:** avaliar quando o uso de IA generativa é adequado, formular instruções contextualizadas e revisar criticamente os resultados obtidos.
+
+#### 5.1. O que a IA generativa pode e não pode fazer
+
+Possibilidades de utilização, características gerais e limitações da tecnologia.
+
+#### 5.2. Identificação de oportunidades para utilizar IA
+
+Análise de atividades e processos, considerando finalidade, qualidade das informações disponíveis, riscos e alternativas de execução.
+
+#### 5.3. Como formular instruções claras e contextualizadas
+
+Definição de contexto, objetivo, informações de referência, formato esperado e restrições.
+
+#### 5.4. Confiabilidade, segurança e supervisão humana
+
+Verificação de respostas, possíveis erros, confidencialidade, permissões e responsabilidade pelas decisões.
+
+#### 5.5. Aplicação prática: uma tarefa com apoio de IA
+
+Avaliação de uma oportunidade de uso de IA no processo analisado anteriormente, elaboração de uma instrução quando pertinente e revisão crítica de uma resposta simulada.
+
+### Módulo 6 — Adaptabilidade e aprendizagem contínua
+**Duração estimada: 25 minutos**
+
+**Objetivo:** analisar mudanças nas atividades profissionais e propor uma ação viável de desenvolvimento ou melhoria, considerando recursos, condições de aplicação e acompanhamento.
+
+#### 6.1. Adaptabilidade diante das transformações do trabalho
+
+Mudanças tecnológicas, novos procedimentos e necessidade de atualização das práticas profissionais.
+
+#### 6.2. Pensamento crítico e criatividade na resolução de problemas
+
+Análise de alternativas, questionamento de práticas existentes e consideração de diferentes possibilidades de solução.
+
+#### 6.3. Aprendizagem contínua e desenvolvimento de competências
+
+Identificação de conhecimentos a desenvolver, recursos disponíveis e oportunidades de aprendizagem.
+
+#### 6.4. Da proposta à aplicação: condições para a mudança
+
+Responsabilidades, recursos, alinhamento com a equipe, experimentos de baixo risco e acompanhamento de resultados.
+
+#### 6.5. Aplicação integradora: propondo uma melhoria
+
+Retomar a situação apresentada ao longo do curso e formular uma proposta sintética que contemple a dificuldade identificada, a mudança sugerida, a eventual contribuição da IA, as condições necessárias e um critério de acompanhamento.
