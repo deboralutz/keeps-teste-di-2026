@@ -35,7 +35,7 @@ Explicar a globalização, apresentar efeitos positivos e negativos sobre o trab
 
 **Formato:** síntese integradora, incorporada ao encerramento da apresentação de Globalização.
 
-Estabelecer relações entre comunicação, inteligência artificial, gestão da informação e aprendizagem contínua.
+Estabelecer relações entre comunicação, inteligência artificial, gestão da informação e aprendizagem contínua, considerando sua aplicação na análise e melhoria de processos de trabalho.
 
 ### Módulo 2 — Comunicação no ambiente profissional
 **Duração estimada: 35 minutos**
@@ -144,7 +144,7 @@ Mudanças tecnológicas, novos procedimentos e necessidade de atualização das 
 
 #### 6.2. Pensamento crítico e criatividade na resolução de problemas
 
-Análise de alternativas, questionamento de práticas existentes e consideração de diferentes possibilidades de solução.
+Análise de alternativas e identificação de dificuldades que exigem aprendizagem ou mudança nos processos de trabalho.
 
 #### 6.3. Aprendizagem contínua e desenvolvimento de competências
 
