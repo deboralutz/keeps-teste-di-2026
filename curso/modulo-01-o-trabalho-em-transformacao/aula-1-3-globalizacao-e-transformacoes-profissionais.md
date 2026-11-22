@@ -3,7 +3,7 @@
 **Curso:** Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho  
 **Módulo 1:** O trabalho em transformação (20 minutos estimados para o módulo inteiro)  
 **Status:** planejamento da aula; objeto associado já existente quando indicado  
-**Fonte curricular:** [Ementa vigente — Parte II](../../../02-ementa-cronograma.md)
+**Fonte curricular:** [Ementa vigente — Parte II](../../02-ementa-cronograma.md)
 
 ## Finalidade no percurso
 
@@ -25,6 +25,6 @@ Explicar a globalização, apresentar efeitos positivos e negativos sobre o trab
 
 ## Materiais relacionados
 
-- [Apresentação PPTX](../../../05.3-globalizacao-habilidades-do-futuro.pptx)
+- [Apresentação PPTX](../../05.3-globalizacao-habilidades-do-futuro.pptx)
 
 **Observação:** ficha estrutural criada a partir da ementa, sem desenvolvimento adicional de conteúdo. 

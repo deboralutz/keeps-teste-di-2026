@@ -3,7 +3,7 @@
 **Curso:** Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho  
 **Módulo 1:** O trabalho em transformação (20 minutos estimados para o módulo inteiro)  
 **Status:** planejamento da aula; objeto associado já existente quando indicado  
-**Fonte curricular:** [Ementa vigente — Parte II](../../../02-ementa-cronograma.md)
+**Fonte curricular:** [Ementa vigente — Parte II](../../02-ementa-cronograma.md)
 
 ## Finalidade no percurso
 
@@ -25,8 +25,8 @@ Apresentar a proposta e o percurso de aprendizagem. Introduzir uma reflexão sob
 
 ## Materiais relacionados
 
-- [PDF produzido](../../../05.1-boas-vindas-habilidades-do-futuro.pdf)
-- [Storyboard da aula 1.1](../../../docs/STORYBOARD_PDF_BOAS_VINDAS_v1.md)
-- [Protótipo opcional](../../../prototipo/aula-1-1-prumo-prototipo-v1.html)
+- [PDF produzido](../../05.1-boas-vindas-habilidades-do-futuro.pdf)
+- [Storyboard da aula 1.1](../../docs/STORYBOARD_PDF_BOAS_VINDAS_v1.md)
+- [Protótipo opcional](../../prototipo/aula-1-1-prumo-prototipo-v1.html)
 
 **Observação:** ficha estrutural criada a partir da ementa, sem desenvolvimento adicional de conteúdo. 
