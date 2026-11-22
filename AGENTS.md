@@ -56,11 +56,11 @@ Estas decisões orientam propostas e verificações no escopo de cada objeto. Ne
 ## Relatório de conclusão de cada tarefa
 Informar: (a) arquivos criados/alterados; (b) requisitos atendidos; (c) testes executados e seus resultados; (d) pontos que exigem revisão humana. Não declarar testes ou validações que não tenham sido feitos.
 
-## Caminhos e versões vigentes — 21/11/2026
+## Caminhos e versões vigentes — 22/11/2026
 
 - Fonte do escopo obrigatório: `avaliacao-tecnica-keeps.pdf`.
-- Ementa proposta: `02-ementa-cronograma.md`; estrutura curricular: `referencias/estrutura_curricular.md`.
-- Matriz **vigente**: `docs/MATRIZ_DI_MODULO_1_v1_1.md`; `v1.md` é histórico.
+- Ementa e estrutura curricular vigentes: `02-ementa-cronograma.md` (Parte II, seis módulos, 3 horas). `referencias/estrutura_curricular.md` é um espelho sincronizado para consulta.
+- Matriz **vigente do Módulo 1**: `docs/MATRIZ_DI_MODULO_1_v1_1.md`, sincronizada com o percurso de seis módulos em 22/11; `v1.md` é histórico. A matriz não cobre detalhadamente os Módulos 2 a 6.
 - Storyboard do PDF: `docs/STORYBOARD_PDF_BOAS_VINDAS_v1.md`, ainda sujeito à comparação e aprovação.
 - Storyboard **proposto** do vídeo: `docs/STORYBOARD_VIDEO_PANORAMA_ATUAL_v1.md`; narração, locução e duração ainda dependem de validação.
 - Decisões de concepção: `docs/REGISTRO_DECISAO_METODOLOGICA.md` e `docs/DECISAO_ESTRATEGIA_AULA_1_1_MULTIMIDIA_v1.md`. A segunda contém a triagem de ferramentas e limites do protótipo complementar.
@@ -70,11 +70,11 @@ Informar: (a) arquivos criados/alterados; (b) requisitos atendidos; (c) testes e
 
 ## Proteger materiais já existentes
 
-- O PDF `02_Boas_Vindas_Habilidades_do_Futuro.pdf` **já existe** e consta como produzido/revisado no Notion. Antes de qualquer alteração, comparar com o storyboard e o Figma; não sobrescrever nem mover sem autorização.
-- O **vídeo Panorama atual** ainda requer fechamento editorial e produção; `02-video-panorama-atual.md` é template inicial, e o storyboard específico está em `docs/STORYBOARD_VIDEO_PANORAMA_ATUAL_v1.md` (proposta, não versão final aprovada).
-- O **PPT Globalização já tem arquivos no repositório**: `04_Globalizacao_Habilidades_do_Futuro.pptx` e `04_Globalizacao_Habilidades_do_Futuro.pdf`. Estão em **revisão pontual**, não devem ser recriados do zero. Preservar identidade visual, sequência, diagramas, quatro cartões finais e limite de cinco slides. Alterações solicitadas: título/função de fechamento do slide 5; pergunta final ligada à entrega com pessoas/serviços de diferentes países; contraste de “Possíveis impactos” no slide 4; referências legíveis com hyperlinks; precisão sobre o Fundo Europeu de Ajustamento à Globalização; e verificação da estrutura de leitura/acessibilidade. Preservar originais e gerar revisão identificável; não afirmar que ajustes foram executados enquanto não houver arquivo revisado e validado.
+- O PDF `05.1-boas-vindas-habilidades-do-futuro.pdf` **já existe**. Verificar se contém os seis módulos na ordem curricular vigente; o storyboard textual foi atualizado em 22/11, mas o arquivo exportado não foi substituído. Comparar com storyboard e fonte de diagramação antes de editar; preservar a versão anterior.
+- O **vídeo Panorama atual** já possui um MP4 em `05.2-video-panorama-atual.mp4` e link complementar em `05.2-video-panorama-atual.md`; duração, áudio, sincronização e legendas permanecem pendentes de conferência humana. O storyboard específico é `docs/STORYBOARD_VIDEO_PANORAMA_ATUAL_v1.md` (documento de planejamento, não prova de validação).
+- O **PPT Globalização** está no repositório em `05.3-globalizacao-habilidades-do-futuro.pptx`. Preservar o arquivo original; os ajustes documentados e sua conclusão efetiva exigem conferência do PPTX, sem recriação integral. Preservar identidade visual, sequência, diagramas, quatro cartões finais e limite de cinco slides. Alterações solicitadas: título/função de fechamento do slide 5; pergunta final ligada à entrega com pessoas/serviços de diferentes países; contraste de “Possíveis impactos” no slide 4; referências legíveis com hyperlinks; precisão sobre o Fundo Europeu de Ajustamento à Globalização; e verificação da estrutura de leitura/acessibilidade. Preservar originais e gerar revisão identificável; não afirmar que ajustes foram executados enquanto não houver arquivo revisado e validado.
 - `03-slides-globalizacao.md` ainda é um **template desatualizado** e não descreve a apresentação já produzida. Conferir o arquivo PPTX real e a instrução específica da revisão antes de qualquer edição.
-- `01-briefing.md`, `02-ementa-cronograma.md` e `03-reuniao-com-cliente.md` são versões de trabalho, ainda não consolidadas em PDF de entrega.
+- `01-briefing.md`, `02-ementa-cronograma.md` e `03-reuniao-com-cliente.md` são versões de trabalho. Conferir se o documento consolidado externo incorpora a versão de seis módulos e três horas antes de exportar o arquivo escrito final.
 - Diagnósticos interativos para líderes/colaboradores: **suspensos**. O **protótipo web da aula 1.1** é **opcional e complementar**, não substitui o PDF nem constitui nova entrega obrigatória. O áudio sintético também é opcional. Priorizar as respostas finais, o PDF, o vídeo e a revisão do PPT até **23/11/2026, às 9h (horário de Brasília)**.
 
 ## Hierarquia para execução
