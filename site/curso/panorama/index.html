@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aula 1.2 · Panorama atual | Prumo Gestão Integrada</title>
+  <link rel="stylesheet" href="../../assets/prumo.css">
+  <script src="../../assets/panorama.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Ir para o conteúdo</a>
+  <div class="shell">
+    {{navegacao}}
+    <main class="lesson-panel" id="main-content" tabindex="-1">
+      <p class="eyebrow">Aula 1.2 · Vídeo</p>
+      <h1>Panorama atual do mercado de trabalho</h1>
+      <figure class="resource-figure">
+        <video controls playsinline preload="metadata" poster="../../midia/panorama-poster.webp" aria-label="Panorama atual do mercado de trabalho">
+          <source src="../../midia/05.2-video-panorama-atual.mp4" type="video/mp4">
+          {{legendas}}
+          <p>Seu navegador não suporta este vídeo. A alternativa textual está disponível abaixo.</p>
+        </video>
+        <figcaption>Panorama atual · 45 segundos</figcaption>
+      </figure>
+      <p class="media-error" id="media-error" role="status" hidden>O vídeo não pôde ser carregado. Consulte a alternativa textual abaixo.</p>
+      <details class="reader" id="panorama-texto">
+        <summary>Ler alternativa textual do vídeo</summary>
+        <div>
+          {{panorama-texto}}
+        </div>
+      </details>
+      <div class="lesson-actions">
+        <a href="../">← Aula 1.1 · Boas-vindas</a>
+        <a class="button" href="../globalizacao/">Aula 1.3 · Globalização →</a>
+        <a href="../../midia/05.2-video-panorama-atual.mp4" download>Baixar vídeo (MP4)</a>
+      </div>
+    </main>
+  </div>
+</body>
+</html>
