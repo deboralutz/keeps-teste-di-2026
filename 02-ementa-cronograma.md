@@ -14,13 +14,9 @@
 
 ### 1. Apresentação
 
-O curso **Habilidades do Futuro** aborda transformações no mundo do trabalho e competências que apoiam a comunicação entre equipes, a análise crítica de informações, a análise de processos, a gestão de informações, a utilização responsável de inteligência artificial generativa e a adaptação a novas demandas profissionais.
+O curso **Habilidades do Futuro** aborda transformações no trabalho e competências de comunicação, gestão da informação, análise de processos, uso responsável de IA generativa e adaptabilidade.
 
-A aprendizagem será contextualizada em situações fictícias do cotidiano de uma empresa de gestão de processos, preservando a aplicabilidade dos conteúdos a outras áreas e organizações.
-
-A proposta considera que a adoção de novas práticas e seus efeitos sobre o desempenho dependem também de processos, recursos e decisões organizacionais.
-
-Nesta proposta, apresenta-se a estrutura dos seis módulos do curso, com detalhamento dos recursos introdutórios do Módulo 1.
+A proposta utiliza situações simuladas da Prumo Gestão Integrada para aproximar os conteúdos da prática profissional. Prevê seis módulos, com detalhamento dos recursos introdutórios do Módulo 1. Sua aplicação e seus possíveis efeitos sobre o desempenho dependem de validação do cliente e de condições organizacionais adequadas.
 
 ### 2. Público-alvo proposto
 
@@ -30,19 +26,18 @@ A quantidade de participantes, os perfis profissionais e as condições de acess
 
 ### 3. Modalidade e carga horária
 
-- **Modalidade proposta:** autoinstrucional, digital e assíncrona.
-- **Carga horária estimada:** 3 horas, incluindo estudo dos materiais e atividades práticas.
-- **Estrutura:** seis módulos curtos, com situações próximas das atividades profissionais.
-- **Recursos sugeridos:** vídeos breves, PDF, apresentações, esquemas visuais, exemplos comentados e exercícios situacionais.
-- **Atividades formativas:** práticas com feedback ou modelos de comparação, sem atribuição de nota ou certificação nesta proposta.
+- **Modalidade proposta:** digital, autoinstrucional e assíncrona.
+- **Carga horária estimada:** 3 horas, em seis módulos, incluindo estudo e práticas.
+- **Recursos:** vídeos breves, PDF, apresentações, exemplos visuais e exercícios situacionais.
+- **Acompanhamento formativo:** atividades com feedback ou respostas-modelo, sem nota ou certificação prevista.
 
-A modalidade, a carga horária, os formatos, as condições de acessibilidade e os requisitos de publicação dependerão da validação do cliente e da infraestrutura disponível.
+Modalidade, formatos, acessibilidade, carga horária e publicação dependem da validação do cliente e da infraestrutura disponível.
 
 ### 4. Objetivo geral
 
-Desenvolver a capacidade de analisar situações de trabalho em transformação, comunicar demandas com clareza, trabalhar com informações confiáveis, analisar processos, avaliar criticamente a utilização de inteligência artificial e propor melhorias e ações de aprendizagem contínua aplicáveis às atividades profissionais.
+Desenvolver capacidades para compreender mudanças no trabalho, comunicar demandas, utilizar informações confiáveis, analisar processos, avaliar o uso de IA e propor melhorias e ações de aprendizagem contínua.
 
-Essas capacidades serão exploradas por meio de situações simuladas. A observação de mudanças efetivas no desempenho organizacional dependerá de acompanhamento posterior e de condições apropriadas de aplicação.
+As capacidades serão exploradas em situações simuladas; a transferência para o trabalho e os efeitos organizacionais exigiriam acompanhamento posterior.
 
 ### 5. Objetivos específicos de aprendizagem
 
@@ -57,119 +52,71 @@ Ao final do curso, diante de situações profissionais apresentadas em atividade
 
 ### 6. Ementa por módulo
 
+Esta síntese apresenta os focos, recursos e práticas de cada módulo. A sequência de aulas está detalhada na Parte II.
+
 #### Módulo 1 — O trabalho em transformação | 20 minutos
 
-**Objetivo:** identificar como globalização e transformações tecnológicas afetam atividades profissionais e exigências de competências, reconhecendo oportunidades e desafios.
+**Objetivo:** relacionar globalização e transformações tecnológicas às mudanças no trabalho, reconhecendo oportunidades, desafios e competências profissionais relevantes.
 
-**Conteúdos:**
+**Conteúdos:** panorama do mercado de trabalho, globalização, efeitos sobre atividades e profissões e competências para o futuro.
 
-- Panorama atual do trabalho: tecnologias digitais, IA e mudanças no perfil das atividades.
-- Globalização: interdependência econômica, circulação de serviços e impactos sobre emprego e competências.
-- Competências em evidência: pensamento analítico, comunicação, criatividade, flexibilidade e aprendizagem contínua.
-- Diferença entre tendências gerais e necessidades específicas de uma organização.
+**Recursos:** PDF de boas-vindas (uma página), vídeo *Panorama atual* (até um minuto) e apresentação *Globalização* (até cinco slides), com síntese de competências no encerramento. Um protótipo interativo de abertura da unidade 1.1 é complementar e não substitui o PDF.
 
-**Materiais propostos:** PDF de boas-vindas (uma página); vídeo *Panorama atual* (até um minuto); apresentação *Globalização* (até cinco slides, com síntese integradora no encerramento).
-
-**Recurso complementar:** protótipo interativo de abertura da unidade 1.1, sem substituir o PDF de boas-vindas.
-
-**Experiência formativa:** uma situação profissional fictícia introduz a reflexão sobre comunicação e interpretação de informações. Ao final do módulo, o participante é convidado a relacionar transformações do trabalho às competências apresentadas, sem avaliação formal.
+**Experiência:** reflexão sobre uma situação profissional fictícia, sem avaliação formal.
 
 #### Módulo 2 — Comunicação no ambiente profissional | 35 minutos
 
-**Objetivo:** diante de uma solicitação incompleta, identificar lacunas, formular perguntas de esclarecimento e reescrever a demanda com finalidade, contexto e critérios de entrega.
+**Objetivo:** reconhecer lacunas em uma demanda, formular perguntas e reescrever a solicitação com contexto e critérios de entrega.
 
-**Conteúdos:**
+**Conteúdos:** comunicação entre equipes, escuta ativa, esclarecimento, assertividade e alinhamento de expectativas.
 
-- Comunicação e colaboração na passagem de atividades entre equipes.
-- Escuta ativa e perguntas de esclarecimento.
-- Objetivo, destinatário, escopo, prazo, formato e critérios de uma solicitação.
-- Comunicação assertiva e confirmação de entendimentos.
-- Clareza na comunicação entre pessoas e na formulação de instruções para sistemas de IA.
-
-**Materiais propostos:** vídeo ou narrativa breve de um pedido incompleto; infográfico ou checklist de esclarecimento; exercício de reescrita com resposta-modelo.
-
-**Prática formativa:** reformular uma solicitação fictícia recebida pelo chat e comparar a produção com critérios explícitos.
+**Recursos e prática:** narrativa de um pedido incompleto, checklist de esclarecimento e exercício de reformulação com resposta-modelo.
 
 #### Módulo 3 — Organização e gestão da informação | 30 minutos
 
-**Objetivo:** identificar a fonte e a versão válidas para uma entrega e elaborar um registro objetivo de decisão, com informações suficientes para recuperação e continuidade do trabalho.
+**Objetivo:** selecionar informações e versões válidas e registrar decisões de forma rastreável.
 
-**Conteúdos:**
+**Conteúdos:** documentação, confiabilidade das fontes, autoria, atualização, controle de versões, responsáveis e encaminhamentos.
 
-- Organização de registros e documentação de atividades.
-- Fontes confiáveis, autoria, versão e data de atualização.
-- Registro de decisões, responsáveis e encaminhamentos.
-- Rastreabilidade e continuidade na passagem de tarefas.
-- Boas práticas de conferência de informações antes de uma entrega.
-
-**Materiais propostos:** exemplo visual de documentos com versões distintas; guia de registro; prática de conferência de fontes.
-
-**Prática formativa:** selecionar um documento válido entre versões simuladas, explicar o critério utilizado e registrar uma decisão de projeto.
+**Recursos e prática:** comparação de documentos simulados, conferência de fontes e registro de uma decisão de projeto.
 
 #### Módulo 4 — Análise e melhoria de processos | 30 minutos
 
-**Objetivo:** reconhecer elementos de um processo de trabalho, identificar dificuldades e utilizar um instrumento introdutório para analisar oportunidades de melhoria.
+**Objetivo:** reconhecer elementos de um processo, identificar dificuldades e utilizar um instrumento introdutório de análise.
 
-**Conteúdos:**
-- Atividades, entradas, saídas, responsáveis e pontos de decisão.
-- Dificuldades: retrabalho, atrasos, informações incompletas e falhas de comunicação.
-- Ferramentas introdutórias: entrevista, observação, análise documental e mapa de processos.
-- Representação simplificada da situação atual e identificação de pontos de melhoria.
+**Conteúdos:** entradas, atividades, saídas, responsáveis, decisões, retrabalho, atrasos e ferramentas de diagnóstico (entrevista, observação, análise documental e mapa de processos).
 
-**Materiais propostos:** infográfico; demonstração comentada de mapa simplificado; ficha de análise de oportunidades.
-
-**Prática formativa:** construir ou interpretar um mapa do fluxo de revisão e aprovação de documentos da Prumo, identificando uma dificuldade e uma possibilidade de melhoria.
-
-**Delimitação:** as ferramentas são apresentadas de modo introdutório, com prática concentrada no mapa simplificado. A formação não contempla redesenho aprofundado de processos.
+**Recursos e prática:** mapa simplificado do fluxo de revisão e aprovação de documentos da Prumo, para identificar uma dificuldade e uma oportunidade de melhoria. As ferramentas são apresentadas brevemente, sem aprofundamento em redesenho de processos.
 
 #### Módulo 5 — Inteligência artificial aplicada ao trabalho | 40 minutos
 
-**Objetivo:** decidir se o uso de IA é adequado em uma situação profissional, formular uma instrução contextualizada quando autorizado e revisar o resultado antes de utilizá-lo.
+**Objetivo:** avaliar quando a IA generativa é apropriada, formular instruções contextualizadas quando autorizado e revisar criticamente os resultados.
 
-**Conteúdos:**
+**Conteúdos:** aplicações e limites da IA, seleção de tarefas, elaboração de instruções, confiabilidade, confidencialidade e supervisão humana.
 
-- IA generativa: aplicações possíveis e limites.
-- Seleção de tarefas e critérios para decidir quando usar ou não IA.
-- Contexto, finalidade, público, formato, fontes e restrições em uma instrução.
-- Alucinações, imprecisões, vieses e necessidade de revisão crítica.
-- Confidencialidade, dados de clientes, permissões e procedimentos institucionais.
-- Colaboração entre julgamento humano e produção assistida por IA.
-
-**Materiais propostos:** demonstração curta com dados inteiramente fictícios; cartões de situações; checklist de verificação de respostas e atividade comparativa.
-
-**Prática formativa:** avaliar uma tarefa do processo analisado no módulo anterior, justificar quando utilizar ou não IA e, se pertinente, formular uma instrução e revisar criticamente uma resposta simulada.
-
-**Condições de aplicação:** demonstrações com ferramentas reais dependerão da disponibilidade de recursos e de diretrizes de uso aprovadas. Um cenário fictício ou uma resposta previamente gerada poderá permitir atividade equivalente, sem exigir conta ou acesso direto à IA.
+**Recursos e prática:** demonstração com dados fictícios, análise de uma tarefa do processo estudado no Módulo 4 e revisão de uma resposta simulada. Não se exige conta nem acesso direto a ferramentas de IA; o uso real dependeria das políticas da organização.
 
 #### Módulo 6 — Adaptabilidade e aprendizagem contínua | 25 minutos
 
-**Objetivo:** analisar mudanças nas práticas de trabalho e propor uma ação viável de desenvolvimento ou melhoria, considerando recursos, condições de aplicação e acompanhamento.
+**Objetivo:** propor uma ação viável de desenvolvimento ou melhoria, considerando recursos e condições de aplicação.
 
-**Conteúdos:**
+**Conteúdos:** adaptabilidade, pensamento crítico, criatividade, competências a desenvolver, aprendizagem contínua e acompanhamento de mudanças.
 
-- Flexibilidade, curiosidade e aprendizagem contínua diante das transformações.
-- Pensamento crítico e criatividade na revisão de práticas.
-- Identificação de competências a desenvolver.
-- Experimentos de baixo risco, feedback e revisão.
-- Como reconhecer quando a dificuldade exige aprendizagem e quando demanda mudança de processo.
-
-**Materiais propostos:** narrativa de mudança organizacional, mapa breve de decisão e ficha individual de próxima ação.
-
-**Prática formativa:** retomar a situação da Prumo e propor uma melhoria, indicando a eventual contribuição da IA, as condições de adoção, uma aprendizagem necessária e um critério de acompanhamento.
+**Recursos e prática:** retomada do caso da Prumo para propor uma melhoria com possível apoio de IA, condições de adoção, aprendizagem necessária e critério simples de acompanhamento.
 
 ### 7. Fio condutor e progressão didática
 
-O curso utilizará uma situação fictícia recorrente da Prumo Gestão Integrada para conectar comunicação, informação, processos, IA e adaptabilidade. No Módulo 1, uma conversa entre Marina (Projetos) e Lucas (Processos) introduz uma interpretação ambígua: a versão de um documento foi atualizada, mas não há confirmação de sua aprovação para envio.
+Uma situação simulada da Prumo conecta os módulos. Na abertura, Marina (Projetos) entende que uma proposta pode ser enviada ao cliente, mas Lucas (Processos) informa apenas que atualizou o documento, sem confirmar a aprovação final.
 
-A situação será retomada progressivamente:
+O participante retoma esse caso em diferentes níveis de análise:
 
-- **Módulo 2:** esclarecer a demanda e reformular a solicitação, verificando expectativas.
-- **Módulo 3:** conferir versões e estados de aprovação, selecionando informações válidas e registrando decisões.
-- **Módulo 4:** analisar o fluxo de atualização, revisão, aprovação e envio; identificar dificuldades e oportunidades de melhoria.
-- **Módulo 5:** avaliar se a IA pode apoiar alguma tarefa desse fluxo, por exemplo um checklist ou a comparação de documentos, sem substituir decisões e aprovações humanas.
-- **Módulo 6:** integrar os conhecimentos e propor uma ação de melhoria, com condições de adoção, necessidade de aprendizagem e forma simples de acompanhamento.
+- **Módulo 2:** esclarece a solicitação e alinha expectativas.
+- **Módulo 3:** confere fontes, versões e registros de aprovação.
+- **Módulo 4:** analisa o fluxo de atualização, revisão, aprovação e envio.
+- **Módulo 5:** avalia usos possíveis e limites da IA em uma tarefa desse fluxo.
+- **Módulo 6:** propõe uma melhoria com condições de adoção e acompanhamento.
 
-O Módulo 1 apresenta o contexto mais amplo das transformações profissionais antes do aprofundamento do caso. Cada atividade oferece evidências formativas delimitadas; o desempenho em simulações não comprova, por si só, transferência para o trabalho.
+O Módulo 1 contextualiza as transformações do trabalho antes da aplicação ao caso. As atividades produzem evidências formativas simuladas, sem comprovar transferência para o ambiente profissional.
 
 ### 8. Distribuição da carga horária
 
@@ -198,11 +145,11 @@ O cronograma considera a expectativa inicial de entrega em 30 dias, condicionada
 
 **Dependências críticas:** prazos de validação, definição do escopo e dos recursos, políticas de dados e uso de IA, plataforma de publicação e disponibilidade do cliente para revisão.
 
-A ampliação para seis módulos e três horas exige validação da viabilidade de produção. Alterações nessas condições poderão exigir revisão documentada do cronograma.
+A viabilidade de produzir os seis módulos em 30 dias exige validação de recursos, revisões e escopo. Alterações nessas condições poderão exigir revisão documentada do cronograma.
 
 ### 10. Delimitação do escopo
 
-Para preservar a relação entre a carga horária e os objetivos de aprendizagem, a proposta não contempla o ensino aprofundado de programação, engenharia avançada de prompts, implantação técnica de IA, administração de LMS, análise avançada de dados, legislação abrangente de proteção de dados, liderança de equipes ou gestão integral de projetos ou implantação aprofundada de processos.
+Para preservar a relação entre a carga horária e os objetivos de aprendizagem, a proposta não contempla o ensino aprofundado de programação, engenharia avançada de prompts, implantação técnica de IA, administração de LMS, análise avançada de dados, legislação abrangente de proteção de dados, liderança de equipes, gestão integral de projetos ou implantação aprofundada de processos.
 
 Esses assuntos poderão aparecer como referências pontuais ou necessidades de desenvolvimento futuro, mas seu aprofundamento exigiria novos objetivos, público e carga horária.
 
@@ -261,7 +208,7 @@ Explicar a globalização, apresentar efeitos positivos e negativos sobre o trab
 
 **Formato:** síntese integradora, incorporada ao encerramento da apresentação de Globalização.
 
-Estabelecer relações entre comunicação, inteligência artificial, gestão da informação e aprendizagem contínua.
+Estabelecer relações entre comunicação, inteligência artificial, gestão da informação e aprendizagem contínua, considerando sua aplicação na análise e melhoria de processos de trabalho.
 
 ### Módulo 2 — Comunicação no ambiente profissional
 **Duração estimada: 35 minutos**
@@ -370,7 +317,7 @@ Mudanças tecnológicas, novos procedimentos e necessidade de atualização das 
 
 #### 6.2. Pensamento crítico e criatividade na resolução de problemas
 
-Análise de alternativas, questionamento de práticas existentes e consideração de diferentes possibilidades de solução.
+Análise de alternativas e identificação de dificuldades que exigem aprendizagem ou mudança nos processos de trabalho.
 
 #### 6.3. Aprendizagem contínua e desenvolvimento de competências
 
