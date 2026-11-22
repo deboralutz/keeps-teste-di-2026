@@ -104,4 +104,4 @@ Após o alinhamento do escopo, iniciaria a roteirização e a produção dos mat
 
 Utilizaria ferramentas de inteligência artificial para apoiar a pesquisa, a estruturação de informações, a elaboração de alternativas de roteiros e a revisão dos materiais. Os conteúdos produzidos com esse apoio passariam por verificação de precisão, coerência pedagógica e adequação da linguagem.
 
-Ao longo do projeto, manteria o registro das decisões e das eventuais alterações, incluindo seus impactos sobre o conteúdo, os recursos e o cronograma.
+Ao longo do projeto, manteria o registro das decisões e das eventuais alterações, incluindo seus impactos sobre o conteúdo, os recursos e o cronograma. 
