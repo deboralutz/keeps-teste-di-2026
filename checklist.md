@@ -9,7 +9,7 @@
 - [x] Redigir [2. Ementa e cronograma](02-ementa-cronograma.md), com estrutura curricular.
 - [x] Redigir [3. Reunião com o cliente](03-reuniao-com-cliente.md).
 - [x] Preparar versão consolidada editável das três respostas fora do repositório.
-- [ ] Revisar a versão consolidada; corrigir paginação, numeração das referências e eventuais quebras.
+- [ ] Atualizar a versão consolidada externa para **seis módulos e três horas**, conferindo também objetivos, sequência, exemplos, referências, paginação e quebras.
 - [ ] Definir e conferir o arquivo escrito final que será disponibilizado à banca.
 
 ## Objetos obrigatórios — Módulo 1
@@ -17,6 +17,7 @@
 ### 5.1 — PDF de boas-vindas
 
 - [x] [PDF](05.1-boas-vindas-habilidades-do-futuro.pdf) presente, com 1 página.
+- [ ] Conferir se o PDF exportado contém os seis módulos na sequência vigente. Se ainda trouxer cinco, reexportar a partir do storyboard sincronizado, preservando a versão original e o limite de até duas páginas (idealmente uma).
 - [ ] Conferir visualmente a versão definitiva: legibilidade, ordem de leitura e acessibilidade pertinente.
 
 ### 5.2 — Vídeo Panorama atual
@@ -36,7 +37,8 @@
 
 ## Curadoria e coerência
 
-- [x] Conferida em auditoria técnica a coerência geral entre ementa, matriz vigente e três objetos.
+- [x] Sincronizadas a ementa, a estrutura de referência, a matriz do Módulo 1, o storyboard textual do PDF e o guia de DI com os seis módulos.
+- [ ] Conferir **os objetos exportados** e o documento escrito consolidado: esta sincronização documental não prova que PDF, vídeo e PPTX estejam atualizados ou validados.
 - [ ] Conferir manualmente links de fontes com acesso automatizado inconclusivo.
 - [ ] Verificar permissões/licenças dos ativos efetivamente utilizados.
 - [ ] Fazer revisão humana final dos textos e dos objetos.
