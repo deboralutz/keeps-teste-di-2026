@@ -5,6 +5,7 @@
 **Módulo:** 1 — O trabalho em transformação  
 **Unidade:** 1.1 — Boas-vindas e apresentação do curso  
 **Versão:** 1.0 — 21/11/2026  
+**Adendo de 22/11/2026:** a ordem de acesso foi revista: vídeo de acolhimento com avatar (complementar, planejado) → interação opcional → PDF obrigatório como guia consultável → aula 1.2. A decisão vigente está registrada em `docs/REGISTRO_DECISAO_METODOLOGICA.md`. Os quadros abaixo registram o estudo inicial, sem autorizar produção de novos objetos.  
 **Status:** estratégia de experiência registrada; proposta multimídia a validar antes da produção.  
 **Natureza:** documento de concepção para um protótipo **complementar**. Não modifica a ementa, a matriz vigente nem os storyboards dos objetos obrigatórios.
 

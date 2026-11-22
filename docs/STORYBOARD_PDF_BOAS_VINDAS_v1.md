@@ -5,17 +5,17 @@
 **Módulo:** 1. O trabalho em transformação  
 **Unidade:** 1.1. Boas-vindas e apresentação do curso  
 **Versão:** 1.0 — 21/11/2026; revisão textual de sincronização curricular em 22/11/2026  
-**Aviso de sincronização:** existe PDF já exportado na raiz em `05.1-boas-vindas-habilidades-do-futuro.pdf`. **O PDF não foi substituído nesta revisão.** Conferir se ainda apresenta seis módulos; caso apresente, reexportar a partir do texto atualizado sem alterar o objeto original antes da revisão.  
+**Aviso de sincronização:** existe PDF já exportado na raiz em `05.1-boas-vindas-habilidades-do-futuro.pdf`. **O arquivo final não foi substituído** por esta decisão de sequência. Conferir sua correspondência com os seis módulos e testar sua leitura/download na futura página de apresentação do curso antes da entrega.  
 **Status:** roteiro editorial e visual proposto; requer aprovação humana antes da produção final  
 **Documentos de referência:** `02-ementa-cronograma.md` (Parte II); `docs/MATRIZ_DI_MODULO_1_v1_1.md`; enunciado da avaliação técnica.
 
 ## 1. Função instrucional
 
-**Função:** acolher o participante, apresentar a proposta e os seis módulos do curso e ativar uma reflexão inicial sobre as mudanças no trabalho. Este material **não** substitui o vídeo de Panorama atual nem a apresentação sobre Globalização.
+**Função:** orientar o participante, apresentar a proposta e os seis módulos e oferecer uma pergunta de reflexão sobre mudanças no trabalho. Na ordem revisada, funciona como guia consultável ao final da aula 1.1, sem exigir leitura para avançar. Este material **não** substitui o vídeo de Panorama atual nem a apresentação sobre Globalização.
 
 **Objetivo de orientação da unidade 1.1:** identificar a proposta do curso e os temas que compõem seu percurso de aprendizagem.
 
-**Papel na sequência:** abre o Módulo 1 → prepara a pergunta que será contextualizada no vídeo de Panorama atual → apresenta, sem desenvolver antecipadamente, os conteúdos dos demais módulos.
+**Papel na sequência proposta (22/11/2026):** na aula 1.1, vem após o vídeo breve de acolhimento e a interação opcional entre Marina e Lucas; permanece disponível para leitura e download como guia de consulta dos seis módulos → prepara a passagem à aula 1.2, *Panorama atual*. Se os complementos não forem publicados, o PDF continua utilizável de modo independente.
 
 **Resultado verificável no artefato:** o documento contém título/proposta, apresentação de todo o percurso, pergunta inicial e indicação do próximo objeto. **Não há coleta de resposta nem avaliação de aprendizagem.**
 
@@ -25,7 +25,7 @@
 - **Público:** profissionais em contexto de trabalho, definido aqui apenas como **premissa de linguagem**, não como dado confirmado do cliente.
 - **Tom:** claro, acolhedor e sóbrio, sem tom publicitário, promessas de empregabilidade ou afirmações sobre resultados já alcançados.
 - **Tratamento textual:** português brasileiro, com linguagem acessível; evitar números e tendências não explicados nesta introdução.
-- **Reflexão:** individual, sem necessidade de resposta escrita, envio ou avaliação.
+- **Reflexão:** individual, sem necessidade de resposta escrita, envio ou avaliação. A leitura do guia não bloqueia o avanço à aula 1.2.
 - **Tempo de interação:** leitura e reflexão breves. A estimativa de 20 minutos pertence ao **Módulo 1 completo** e permanece pendente de verificação; **não atribuir 20 minutos ao PDF**.
 - **Identidade visual:** não presumir logotipos, cores ou tipografia proprietária da Keeps; se não houver guia visual aprovado, usar layout editorial neutro.
 

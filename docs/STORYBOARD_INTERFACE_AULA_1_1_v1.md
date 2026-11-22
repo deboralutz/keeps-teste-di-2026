@@ -5,7 +5,7 @@
 **Módulo:** 1 — O trabalho em transformação  
 **Unidade:** 1.1 — Boas-vindas e apresentação do curso  
 **Objeto:** protótipo **complementar**, web, autoinstrucional e interativo  
-**Versão:** 1.0 — 21/11/2026  
+**Versão:** 1.1 — 22/11/2026 (ajuste de posição curricular e transição da tela final)  
 **Status:** **roteiro e sequência aprovados pela responsável pelo DI para prototipação**; a validação visual, a usabilidade, a adequação do ritmo e possíveis revisões editoriais ocorrerão após a primeira implementação. **Nenhum protótipo funcional ou teste de usuário é declarado concluído por este registro.**  
 **Escopo:** quatro telas. O documento autoriza usar o roteiro na prototipação da interface, **não** autoriza publicação, contratação, geração de mídia paga ou substituição de objeto obrigatório.
 
@@ -36,7 +36,7 @@
 
 ## 3. Mapa da sequência
 
-**Tela 1 — observar a conversa** → **Tela 2 — interpretar e ler o feedback** → **Tela 3 — conhecer o desdobramento** → **Tela 4 — refletir e seguir para o panorama**.
+**Tela 1 — observar a conversa** → **Tela 2 — interpretar e ler o feedback** → **Tela 3 — conhecer o desdobramento** → **Tela 4 — refletir e acessar o guia do curso (PDF)**. A sequência da unidade prevê, antes da interação, um vídeo breve de boas-vindas com avatar, ainda não produzido.
 
 O desfecho **não pode aparecer antes** de o participante fazer sua interpretação na Tela 2. O feedback dessa tela pode explicar o limite da informação, mas não deve antecipar que Marina enviou o documento nem que havia revisão pendente.
 
@@ -129,13 +129,13 @@ O desfecho **não pode aparecer antes** de o participante fazer sua interpretaç
 > - como a **organização da informação** ajuda a reduzir ambiguidades;
 > - e por que a **adaptabilidade** se torna cada vez mais importante.
 >
-> **A seguir, vamos ampliar essa situação e observar como o trabalho está se transformando.**
+> **Agora, você pode consultar o guia do curso (PDF), com os seis módulos e uma reflexão inicial. Depois, continue para o Panorama atual do mercado de trabalho.**
 
 **Propósito:** fechar o caso e mostrar a relação com os próximos conteúdos, sem apresentar todas as explicações do curso.
 
-**Ação primária prevista:** botão **Ir para Panorama atual**.
+**Ação de continuidade:** disponibilizar um link funcional **Abrir guia do curso (PDF)**, sem exigir sua leitura. Como o protótipo também pode ser aberto isoladamente, manter a ação **Concluir esta experiência** até existir navegação integrada. Na jornada completa, o destino seguinte ao PDF é a aula 1.2.
 
-**Regra para a implementação:** usar essa ação somente quando existir destino funcional confirmado para o vídeo/objeto 1.2. Enquanto esse destino não estiver integrado, manter a tela de encerramento e oferecer uma ação real de **Concluir esta experiência**, sem criar link falso ou botão sem função. A alternativa de integração **não altera o texto pedagógico aprovado**.
+**Regra para a implementação:** não criar botões ou links sem destino real; o PDF deve abrir para consulta/download e permanecer acessível de modo independente. A versão v1 do protótipo foi preservada no histórico Git; a v1.1 ajusta apenas o encerramento.
 
 ## 4. Requisitos de interação e acessibilidade para Codex
 
@@ -168,10 +168,10 @@ O desfecho **não pode aparecer antes** de o participante fazer sua interpretaç
 
 **Entradas para o Codex:** este storyboard; `AGENTS.md`; `docs/DECISAO_ESTRATEGIA_AULA_1_1_MULTIMIDIA_v1.md`; `docs/REGISTRO_DECISAO_METODOLOGICA.md`; `docs/MATRIZ_DI_MODULO_1_v1_1.md`; `docs/GUIA_DI_KEEPS.md`.
 
-**Proteger sem alterações:** `docs/STORYBOARD_PDF_BOAS_VINDAS_v1.md`, o PDF já produzido, `docs/STORYBOARD_VIDEO_PANORAMA_ATUAL_v1.md`, o PPT de Globalização e a estrutura curricular. **Não iniciar a implementação apenas por existir este arquivo**; a execução será solicitada em tarefa específica.
+**Preservar os objetos de entrega:** PDF já exportado, vídeo obrigatório *Panorama atual* e PPT de Globalização. O storyboard do PDF, o roteiro do vídeo 1.2 e a ementa possuem atualizações editoriais de sequência; não substituir binários nem recriar conteúdo sem tarefa específica.
 
 **Status de aprovação:** aprovado para construir e inspecionar um **protótipo v1**. Isso **não equivale** à aprovação final de interface, acessibilidade ou publicação. Após visualizar o funcionamento, a responsável pelo DI poderá solicitar ajustes de redação, feedback, layout ou fluxo; registrar mudanças como revisão v1.1 ou posterior, sem sobrescrever silenciosamente o roteiro aprovado.
 
-**Próxima decisão multimídia:** somente depois de examinar o protótipo textual, decidir se áudio sintético de HeyGen acrescenta valor e como testá-lo sem induzir a interpretação; nenhuma voz ou crédito está aprovado para geração nesta etapa.
+**Próxima decisão multimídia:** vídeo introdutório breve com avatar (HeyGen como possibilidade), sujeito a roteiro, autorização de uso de imagem/voz, acessibilidade, testes e orçamento. O áudio dramatizado das falas do protótipo permanece opcional e não foi aprovado para geração. Nenhum crédito está autorizado para consumo nesta etapa.
 
 **Relatório esperado do Codex ao implementar:** arquivos criados/alterados; testes efetivos e resultados; eventuais divergências; limitações de acessibilidade; pendências de aprovação humana. Não inventar validações.

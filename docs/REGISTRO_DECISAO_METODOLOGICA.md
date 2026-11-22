@@ -100,3 +100,20 @@ A abertura apresenta apenas o diálogo e o problema. A situação poderá ser re
 A [identidade institucional fictícia](../cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md) foi elaborada **para apresentar aos avaliadores** a coerência do cenário e dos exemplos. A primeira interação pode mencionar brevemente a natureza da Prumo, mas **não exige apresentar missão, visão ou valores ao participante**. Informações e dificuldades imaginadas não podem ser descritas como achados de diagnóstico.
 
 **Encaminhamento:** preservar os arquivos obrigatórios e os storyboards existentes. A reorganização editorial da ementa e eventuais ajustes na ordem de acesso aos recursos devem ser revisados especificamente antes de modificar objetos ou afirmar que uma nova experiência foi implementada.
+
+## Atualização de decisão — organização da aula 1.1 (22/11/2026)
+
+**Decisão vigente:** separar a **página-manifesto destinada a Gustavo e Núbia**, que apresenta as entregas da avaliação, da experiência **Habilidades do Futuro** destinada aos participantes. O manifesto poderá oferecer links de acesso e download, mas não será uma aula do curso.
+
+**Ordem pretendida da aula 1.1:**
+
+1. **Vídeo breve de boas-vindas com avatar (proposta complementar):** acolher e apresentar o convite à experiência, sem reproduzir a ementa inteira. HeyGen é possibilidade de produção; não há vídeo criado, roteiro aprovado nem autorização de uso de créditos.
+2. **Experiência com Marina e Lucas (protótipo web complementar):** interpretar o diálogo, receber feedback não punitivo, conhecer o desdobramento e refletir. Manter quatro telas e nenhuma nota.
+3. **PDF de boas-vindas (objeto obrigatório do teste):** apresentar o percurso de seis módulos e uma pergunta inicial; disponibilizar para visualização e download como guia, sem condicionar o avanço à leitura ou ao download.
+4. **Aula 1.2 — vídeo *Panorama atual* (objeto obrigatório independente):** contextualizar o trabalho em transformação. Na aula 1.3, manter o PPT de *Globalização* e, em seu encerramento, a síntese da 1.4.
+
+**Esta ordem substitui apenas a sequência de acesso indicada no registro de 22/11/2026 acima**, no qual o PDF aparecia antes da interação. Os três objetos obrigatórios do teste permanecem inalterados quanto a formato, função essencial e limites, e a estrutura de seis módulos e 28 unidades permanece vigente.
+
+**Distinção de entregas:** o vídeo com avatar **não** substitui o MP4 de *Panorama atual* e o protótipo **não** substitui o PDF. A nova integração ainda é **planejamento**, não curso integral publicado. Priorizar a revisão e disponibilização dos objetos exigidos, respeitando o prazo do teste.
+
+**Documentação associada:** [ementa](../02-ementa-cronograma.md), [ficha da aula 1.1](../curso/modulo-01-o-trabalho-em-transformacao/aula-1-1-boas-vindas-e-apresentacao-do-curso.md), [brief do vídeo com avatar](BRIEF_VIDEO_BOAS_VINDAS_AVATAR_1_1.md), [storyboard do PDF](STORYBOARD_PDF_BOAS_VINDAS_v1.md) e [storyboard da interação](STORYBOARD_INTERFACE_AULA_1_1_v1.md).

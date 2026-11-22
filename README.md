@@ -31,6 +31,8 @@ O arquivo `05.2-video-panorama-atual.mp4.mp4` é uma **cópia idêntica por SHA*
 
 A síntese de competências **1.4** integra o encerramento do PPT; não constitui um quarto objeto obrigatório. A apresentação em PDF é opcional no enunciado.
 
+**Sequência proposta da aula 1.1:** vídeo breve de abertura com avatar (complementar, não produzido) → protótipo Marina/Lucas (complementar) → PDF como guia para consulta/download → vídeo 1.2. A futura **página-manifesto** é destinada aos avaliadores e não integra a aula; os três objetos obrigatórios continuam independentes.
+
 ## Organização do repositório
 
 - [curso/](curso/README.md) — estrutura completa de seis módulos e 28 fichas de aula; planejamento, não curso integralmente produzido.

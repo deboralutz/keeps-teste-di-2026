@@ -9,7 +9,7 @@
 
 ## 1. Papel no percurso
 
-**Anterior:** PDF de boas-vindas, que apresenta o curso e pergunta quais transformações modificam o trabalho.
+**Anterior:** aula 1.1, com vídeo de acolhimento com avatar e interação Marina/Lucas (recursos complementares propostos), seguida do PDF de boas-vindas, que apresenta o percurso e pergunta quais transformações modificam o trabalho. O vídeo 1.2 deve ser compreensível mesmo sem os complementos.
 **Este vídeo:** oferece uma resposta inicial, associando transformações tecnológicas à importância de competências humanas e digitais.
 **Seguinte:** apresentação de Globalização, que desenvolve outra dimensão da transformação do trabalho.
 
