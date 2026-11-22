@@ -108,4 +108,4 @@ Ao longo do projeto, manteria o registro das decisões e das eventuais alteraç�
 
 ---
 
-**Material complementar — cenário fictício:** [Identidade institucional da Prumo Gestão Integrada](cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md). O anexo contextualiza a proposta educacional; não representa informações fornecidas no briefing nem resultados de diagnóstico.
+**Material complementar — cenário fictício:** [Identidade institucional da Prumo Gestão Integrada](https://github.com/deboralutz/keeps-teste-di-2026/blob/main/cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md). O anexo contextualiza a proposta educacional; não representa informações fornecidas no briefing nem resultados de diagnóstico.
