@@ -72,7 +72,15 @@ Quando pertinente, incluiria questões situacionais para observar como os partic
 
 **4. Análise e priorização das necessidades**
 
-Compararia as informações coletadas para identificar os problemas prioritários, distinguir necessidades de treinamento de dificuldades relacionadas aos processos organizacionais e selecionar as competências que deverão orientar a proposta educacional.
+A partir das informações coletadas, realizaria uma análise de lacunas de desempenho (*Gap Analysis*), comparando a situação atual com os resultados esperados e investigando suas possíveis causas.
+
+Essa análise permitiria distinguir necessidades de aprendizagem de dificuldades relacionadas a processos, recursos ou condições de trabalho.
+
+Utilizaria ferramentas de inteligência artificial como apoio à análise das informações obtidas no diagnóstico, especialmente para identificar temas recorrentes, agrupar respostas por assunto e comparar as perspectivas da liderança e dos colaboradores. Os resultados gerados seriam conferidos com os dados originais, respeitando as políticas de privacidade e confidencialidade da organização.
+
+Em seguida, utilizaria uma matriz de priorização para selecionar as competências mais relevantes, considerando o impacto esperado, a urgência e a viabilidade de desenvolvimento no prazo disponível.
+
+Os resultados orientariam a definição dos objetivos de aprendizagem e a estruturação da proposta educacional.
 
 **5. Desenvolvimento e validação da proposta**
 
