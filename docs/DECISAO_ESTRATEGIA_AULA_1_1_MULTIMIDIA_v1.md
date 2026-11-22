@@ -45,7 +45,7 @@ No ambiente profissional simulado da Prumo, Marina (Projetos) pergunta a Lucas (
 
 | Recurso | Objetivo e função | Situação |
 | --- | --- | --- |
-| **Objeto 1 obrigatório — PDF de boas-vindas (1.1)** | Apresentar curso, cinco módulos e pergunta inicial; idealmente 1 página, máximo 2 | **Preservar como entrega separada**; não substituir pelo protótipo |
+| **Objeto 1 obrigatório — PDF de boas-vindas (1.1)** | Apresentar curso, seis módulos e pergunta inicial; idealmente 1 página, máximo 2 | **Preservar como entrega separada**; não substituir pelo protótipo |
 | **Protótipo web complementar da aula 1.1** | Permitir interpretação do diálogo e revelação do contexto, com navegação simples | **Opcional**, subordinado às entregas obrigatórias |
 | **Áudio sintético para o protótipo 1.1** | Eventual alternativa opcional de escuta para o diálogo ou breve orientação; texto legível deve permanecer | **Estudo de viabilidade**, não requisito aprovado |
 | **Objeto 2 obrigatório — vídeo 1.2 Panorama atual** | Ampliar a situação para transformações tecnológicas, tarefas e competências humanas/digitais | Vídeo de até 60 s; alvo 30 s; storyboard independente |
