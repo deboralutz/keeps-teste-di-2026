@@ -103,7 +103,7 @@ Uma situação fictícia conecta os módulos. Na abertura, **Marina (Projetos)**
 
 O caso é retomado gradualmente: no **Módulo 2**, para esclarecer a demanda; no **Módulo 3**, para conferir versões e decisões; no **Módulo 4**, para analisar o fluxo de revisão e aprovação; no **Módulo 5**, para avaliar possíveis apoios da IA; e no **Módulo 6**, para propor uma melhoria viável.
 
-A Prumo é um cenário criado para a avaliação técnica, sem diagnóstico realizado. Sua missão, visão e valores estão documentados em [anexo institucional separado](cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md) para contextualização dos avaliadores, sem necessidade de incluí-los nas aulas.
+A Prumo é um cenário criado para a avaliação técnica, sem diagnóstico realizado. Sua missão, visão e valores estão documentados em [anexo institucional separado]([cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md](https://github.com/deboralutz/keeps-teste-di-2026/blob/main/cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md)) para contextualização dos avaliadores, sem necessidade de incluí-los nas aulas.
 
 ### 5. Cronograma preliminar de produção — 30 dias
 
@@ -137,9 +137,9 @@ O prazo de 30 dias é uma expectativa inicial, condicionada à confirmação das
 As referências abaixo fundamentam especialmente a contextualização inicial sobre transformações do trabalho, competências e globalização. O desenvolvimento integral dos módulos posteriores exigiria curadoria complementar.
 
 1. **World Economic Forum.** *The Future of Jobs Report 2025.* Relatório sobre transformações profissionais e competências.
-2. **FIESC.** [*Mercado de trabalho priorizará pensamento criativo e influência social, aponta estudo*](referencias/Artigo_01.md). Síntese brasileira do relatório de 2025.
-3. **Milton Beck.** [*Entre Algoritmos e Boa Comunicação*](referencias/Artigo_02.md). Forbes Brasil, 2025. Artigo de opinião e reflexão profissional; arquivo local em versão de estudo.
-4. **Parlamento Europeu.** [*Impacto da globalização no emprego e na UE*](referencias/Artigo_03.md). Análise de impactos no contexto europeu.
+2. **FIESC.** [*Mercado de trabalho priorizará pensamento criativo e influência social, aponta estudo*](https://fiesc.com.br/pt-br/imprensa/mercado-de-trabalho-priorizara-pensamento-criativo-e-influencia-social-aponta-estudo). Síntese brasileira do relatório de 2025.
+3. **Milton Beck.** [*Entre Algoritmos e Boa Comunicação*]([referencias/Artigo_02.md](https://forbes.com.br/carreira/2025/04/entre-algoritmos-e-boa-comunicacao-um-panorama-sobre-as-habilidades-exigidas-pelo-mercado-de-trabalho/)). Forbes Brasil, 2025. Artigo de opinião e reflexão profissional; arquivo local em versão de estudo.
+4. **Parlamento Europeu.** [*Impacto da globalização no emprego e na UE*]([referencias/Artigo_03.md](https://www.europarl.europa.eu/topics/pt/article/20190712STO56968/impacto-da-globalizacao-no-emprego-e-na-ue)). Análise de impactos no contexto europeu.
 
 ---
 
