@@ -56,14 +56,17 @@ Esta síntese apresenta os focos, recursos e práticas de cada módulo. A sequê
 
 #### Módulo 1 — O trabalho em transformação | 20 minutos
 
-**Objetivo:** relacionar globalização e transformações tecnológicas às mudanças no trabalho, reconhecendo oportunidades, desafios e competências profissionais relevantes.
+**Objetivo:** relacionar a globalização e as transformações tecnológicas às mudanças no mundo do trabalho, reconhecendo oportunidades, desafios e competências profissionais relevantes.
 
-**Conteúdos:** panorama do mercado de trabalho, globalização, efeitos sobre atividades e profissões e competências para o futuro.
+**Conteúdos:** panorama das transformações do trabalho, globalização, impactos sobre atividades e profissões e competências para o futuro.
 
-**Recursos:** PDF de boas-vindas (uma página), vídeo *Panorama atual* (até um minuto) e apresentação *Globalização* (até cinco slides), com síntese de competências no encerramento. Um protótipo interativo de abertura da unidade 1.1 é complementar e não substitui o PDF.
+**Percurso formativo:** o módulo começa com a apresentação do curso e de seus objetivos. Uma situação simulada da Prumo Gestão Integrada convida o participante a interpretar uma comunicação profissional e observar suas consequências. Em seguida, o vídeo *Panorama atual* amplia a reflexão para as transformações tecnológicas e suas implicações para o trabalho. A apresentação *Globalização* desenvolve o conceito, seus efeitos positivos e negativos e um exemplo de aplicação. O encerramento relaciona essas transformações às competências abordadas nos módulos seguintes.
 
-**Experiência:** reflexão sobre uma situação profissional fictícia, sem avaliação formal.
+**Objetos obrigatórios:** PDF de boas-vindas (uma página), vídeo *Panorama atual* (até um minuto) e apresentação *Globalização* (até cinco slides).
 
+**Recurso complementar:** experiência interativa de abertura com o caso de Marina e Lucas, sem substituir os materiais obrigatórios.
+
+**Síntese:** a unidade 1.4 é integrada ao encerramento da apresentação, sem constituir um quarto objeto independente.
 #### Módulo 2 — Comunicação no ambiente profissional | 35 minutos
 
 **Objetivo:** reconhecer lacunas em uma demanda, formular perguntas e reescrever a solicitação com contexto e critérios de entrega.
