@@ -1,5 +1,3 @@
-> **Versão de trabalho:** conteúdo sincronizado do [briefing no Notion](https://app.notion.com/p/41e60d80450680ff87dde627b4a90a0a) em 21/11/2026. Ainda requer revisão final e consolidação com as etapas 2 e 3.
-
 # **1. Briefing**
 
 #### **1.1. Organização das informações disponíveis**
@@ -46,23 +44,13 @@ Compreender quais competências relacionadas ao tema Habilidades do Futuro são 
 
 **5. Condições de execução**
 
-Confirmar as expectativas relacionadas ao prazo de 30 dias, identificar os responsáveis pelas decisões e aprovações, verificar a disponibilidade de especialistas e materiais de referência e levantar possíveis restrições de recursos ou produção.
-
-Em um segundo momento, aprofundaria as informações sobre modalidade, carga horária, ambiente de aprendizagem, formatos dos materiais, requisitos técnicos e diretrizes de comunicação.
-
-Para complementar o alinhamento com o solicitante, proporia um levantamento breve com representantes da liderança e dos colaboradores, utilizando instrumentos distintos, mas com dimensões de investigação comparáveis.
-
-O instrumento direcionado à liderança buscaria identificar problemas de desempenho, prioridades organizacionais e resultados esperados. O instrumento direcionado aos colaboradores investigaria as situações enfrentadas no cotidiano, as práticas de trabalho e as necessidades de desenvolvimento percebidas.
-
-Sempre que pertinente, incluiria pequenas atividades situacionais para complementar as respostas declaradas com evidências de aplicação prática.
-
-A comparação dessas informações permitiria identificar convergências, divergências e prioridades, oferecendo uma base mais consistente para a definição dos objetivos de aprendizagem e da estrutura do curso.
+Para complementar as informações obtidas com o solicitante, consideraria um levantamento breve com representantes da liderança e dos colaboradores, conforme a necessidade identificada e as condições do projeto. Esse levantamento permitiria reunir diferentes perspectivas sobre as situações de trabalho e apoiar a priorização das necessidades.
 
 #### **1.3. Primeiros passos como Designer Instrucional**
 
 **1. Estruturação e documentação do projeto**
 
-Utilizaria o Notion para criar uma Wiki de gestão do projeto, reunindo o briefing, os dados do cliente, as informações pendentes, as fontes de consulta, o cronograma, os responsáveis e o histórico de decisões.
+Utilizaria o ambiente de gestão adotado pela empresa, como o Notion, para centralizar o briefing, os dados do cliente, as informações pendentes, as fontes de consulta, o cronograma, os responsáveis e o histórico de decisões.
 
 Também estruturaria um Kanban para acompanhar as atividades e páginas específicas para a organização dos conteúdos e materiais do curso.
 
@@ -76,13 +64,13 @@ Também confirmaria a origem da expectativa de entrega em 30 dias, para compreen
 
 **3. Levantamento de necessidades**
 
-Conforme o alinhamento com o cliente, aplicaria dois instrumentos digitais breves: um direcionado à liderança e outro aos colaboradores.
+Conforme as necessidades identificadas na reunião e a disponibilidade dos participantes, proporia a aplicação de dois instrumentos digitais breves: um direcionado à liderança e outro aos colaboradores.
 
 Os instrumentos seriam utilizados para aprofundar as necessidades identificadas na reunião, reunir diferentes perspectivas sobre as atividades profissionais e reconhecer possíveis lacunas de aprendizagem.
 
 Quando pertinente, incluiria questões situacionais para observar como os participantes lidam com situações concretas de trabalho.
 
-#### **4. Análise e priorização das necessidades**
+**4. Análise e priorização das necessidades**
 
 Compararia as informações coletadas para identificar os problemas prioritários, distinguir necessidades de treinamento de dificuldades relacionadas aos processos organizacionais e selecionar as competências que deverão orientar a proposta educacional.
 
@@ -91,6 +79,8 @@ Compararia as informações coletadas para identificar os problemas prioritário
 Com base na análise, desenvolveria uma proposta preliminar contendo público-alvo, objetivos de aprendizagem, organização dos conteúdos, formatos dos materiais, estimativa de carga horária e cronograma de produção.
 
 Apresentaria essa proposta ao cliente para validação, registrando as decisões, os ajustes solicitados e os responsáveis pelas aprovações.
+
+A proposta incluiria uma avaliação preliminar da viabilidade do prazo de 30 dias, indicando as principais dependências de produção e os pontos de aprovação necessários.
 
 **6. Planejamento e início da produção**
 
