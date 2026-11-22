@@ -40,7 +40,7 @@ A síntese de competências **1.4** integra o encerramento do PPT; não constitu
 - [referencias/estrutura_curricular.md](referencias/estrutura_curricular.md) — espelho de consulta da estrutura curricular; a fonte vigente é a Parte II da ementa.
 - [docs/](docs/) — roteiros, decisões metodológicas e critérios de revisão.
 - [docs/NOTAS_DECISOES.md](docs/NOTAS_DECISOES.md) — justificativas de escolhas e uso de IA, como notas de apresentação.
-- [cliente/](cliente/) — cenário fictício e guia da marca Prumo.
+- [cliente/](cliente/) — cenário fictício e guia da marca Prumo; [anexo de identidade institucional da Prumo](cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md), destinado à contextualização da proposta aos avaliadores.
 - [referencias/](referencias/) — artigos fornecidos e pesquisas complementares.
 - [prototipo/aula-1-1-prumo-prototipo-v1.html](prototipo/aula-1-1-prumo-prototipo-v1.html) — demonstração interativa **opcional** da aula 1.1.
 - [links-e-notas.md](links-e-notas.md) — fontes, links e observações de curadoria.

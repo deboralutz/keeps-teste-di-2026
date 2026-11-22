@@ -21,6 +21,24 @@ Fundada em 2018, em Florianópolis, a **Prumo Gestão Integrada** é uma empresa
 
 Seu trabalho consiste em compreender processos existentes, identificar oportunidades de melhoria, propor ajustes e apoiar sua implementação. A Prumo não tem o desenvolvimento de software como atividade principal, mas seus profissionais utilizam recursos digitais diariamente.
 
+## Missão, visão e valores — proposta institucional fictícia
+
+As formulações abaixo foram criadas para dar coerência ao cenário e aos exemplos do curso. **Não são declarações de uma empresa real nem resultados de diagnóstico.**
+
+**Missão:** apoiar organizações na compreensão e melhoria de seus processos, contribuindo para a clareza das decisões e a qualidade das entregas.
+
+**Visão:** ser reconhecida pelos clientes pela capacidade de propor e acompanhar melhorias viáveis em seus processos de trabalho.
+
+**Valores:**
+
+- **Colaboração entre áreas:** compartilhar perspectivas e trabalhar de forma articulada.
+- **Clareza na comunicação:** tornar demandas, decisões e encaminhamentos compreensíveis.
+- **Responsabilidade com as informações:** conferir fontes, versões e registros antes de utilizá-los.
+- **Decisões fundamentadas:** apoiar recomendações em evidências e critérios explícitos.
+- **Melhoria contínua:** revisar práticas e aprender com os resultados observados.
+
+Os valores expressam uma orientação institucional **imaginada**, sem presumir que os profissionais já demonstrem essas competências em todas as situações.
+
 ## Núcleos de atuação
 
 ### Consultoria e projetos
@@ -69,3 +87,5 @@ Essas hipóteses **não devem ser apresentadas como resultados**. Servirão para
 ## Vinculação à avaliação
 
 Esta ficha descreve um **caso de aplicação para demonstrar o método de DI**, sem substituir o briefing real da avaliação.
+
+Para apresentação externa do cenário ficcional, consultar o [anexo institucional conciso](ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md).

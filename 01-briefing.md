@@ -104,4 +104,8 @@ Após o alinhamento do escopo, iniciaria a roteirização e a produção dos mat
 
 Utilizaria ferramentas de inteligência artificial para apoiar a pesquisa, a estruturação de informações, a elaboração de alternativas de roteiros e a revisão dos materiais. Os conteúdos produzidos com esse apoio passariam por verificação de precisão, coerência pedagógica e adequação da linguagem.
 
-Ao longo do projeto, manteria o registro das decisões e das eventuais alterações, incluindo seus impactos sobre o conteúdo, os recursos e o cronograma. 
+Ao longo do projeto, manteria o registro das decisões e das eventuais alterações, incluindo seus impactos sobre o conteúdo, os recursos e o cronograma.
+
+---
+
+**Material complementar — cenário fictício:** [Identidade institucional da Prumo Gestão Integrada](cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md). O anexo contextualiza a proposta educacional; não representa informações fornecidas no briefing nem resultados de diagnóstico.

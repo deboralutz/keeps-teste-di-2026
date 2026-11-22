@@ -78,3 +78,25 @@ A abertura apresenta apenas o diálogo e o problema. A situação poderá ser re
 2. Tratar o protótipo como demonstração complementar da **aula 1.1**, sem alterar a matriz de DI, o storyboard do PDF ou a estrutura curricular sem revisão específica.
 3. Antes da implementação, definir e revisar o roteiro das telas, as opções de interação, o feedback, os critérios de acessibilidade e a linguagem visual.
 4. Priorizar a conclusão dos três objetos exigidos; implementar o protótipo conforme a disponibilidade de tempo.
+
+## Decisão editorial — funções pedagógicas dos objetos (22/11/2026)
+
+**Referência analisada:** Capítulo 10 do livro de Gustavo, especialmente a seção “Estrutura fixa dos conteúdos produzidos”, apresentada pela responsável pelo projeto. O exemplo lista **quatro vídeos, um PDF e um quiz** (seis objetos enumerados, embora o texto mencione sete). Trata-se de uma estrutura específica descrita pelo autor, não de uma obrigação para todos os cursos.
+
+**Decisão:** aproveitar os princípios de **sensibilização/contextualização, explicação conceitual, demonstração de valor e aplicação**, além da continuidade narrativa entre objetos, sem reproduzir automaticamente a quantidade nem os formatos do exemplo.
+
+### Aplicação ao Módulo 1 — ordem e funções
+
+1. **PDF de boas-vindas — objeto obrigatório 1.1:** acolhimento e orientação sobre o curso e seus seis módulos.
+2. **Interação com Marina e Lucas — protótipo opcional da unidade 1.1:** sensibilização por meio de uma situação profissional, interpretação, consequência e reflexão.
+3. **Vídeo Panorama atual — objeto obrigatório 1.2:** contextualização das transformações do trabalho e das competências relevantes.
+4. **PPT Globalização — objeto obrigatório 1.3:** conceito, oportunidades, riscos e exemplo aplicável ao trabalho.
+5. **Síntese da unidade 1.4:** integração das competências no encerramento do PPT, **sem objeto adicional**.
+
+**Condição importante:** o protótipo não substitui o PDF e não se torna entrega obrigatória. Seu eventual uso no percurso completo deve ser decidido à luz do tempo estimado, da experiência do participante e das condições de publicação. A estrutura curricular mantém seus seis módulos e as 28 unidades; não se cria quiz obrigatório nem outros vídeos por causa do exemplo do livro.
+
+### Papel da identidade institucional da Prumo
+
+A [identidade institucional fictícia](../cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md) foi elaborada **para apresentar aos avaliadores** a coerência do cenário e dos exemplos. A primeira interação pode mencionar brevemente a natureza da Prumo, mas **não exige apresentar missão, visão ou valores ao participante**. Informações e dificuldades imaginadas não podem ser descritas como achados de diagnóstico.
+
+**Encaminhamento:** preservar os arquivos obrigatórios e os storyboards existentes. A reorganização editorial da ementa e eventuais ajustes na ordem de acesso aos recursos devem ser revisados especificamente antes de modificar objetos ou afirmar que uma nova experiência foi implementada.
