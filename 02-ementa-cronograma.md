@@ -5,7 +5,7 @@
 
 **Proposta preliminar de curso · 6 módulos · 3 horas estimadas · produção prevista em 30 dias**
 
-**Contexto ilustrativo:** Prumo Gestão Integrada, empresa fictícia utilizada como estudo de caso. A proposta foi desenvolvida a partir das informações limitadas do exercício e de curadoria inicial; objetivos, público, recursos e prazo dependem de validação com um cliente real. [Conheça o cenário fictício](cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md).
+**Contexto ilustrativo:** Prumo Gestão Integrada, empresa fictícia utilizada como estudo de caso. A proposta foi desenvolvida a partir das informações limitadas do exercício e de curadoria inicial; objetivos, público, recursos e prazo dependem de validação com um cliente real. [Conheça o cenário fictício](https://github.com/deboralutz/keeps-teste-di-2026/blob/main/cliente/CENARIO_FICTICIO.md).
 
 **Organização deste documento:** a Parte I apresenta a ementa e o cronograma; a Parte II contém a estrutura curricular detalhada para consulta.
 
