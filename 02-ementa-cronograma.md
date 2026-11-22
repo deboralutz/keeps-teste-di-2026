@@ -1,4 +1,5 @@
-# Habilidades do Futuro
+# 2. Ementa e cronograma
+## Habilidades do Futuro
 **Comunicação, inteligência artificial e adaptabilidade no trabalho**
 
 **Ementa, cronograma de produção e estrutura curricular**
@@ -18,6 +19,8 @@ O curso **Habilidades do Futuro** aborda transformações no mundo do trabalho e
 A aprendizagem será contextualizada em situações fictícias do cotidiano de uma empresa de gestão de processos, preservando a aplicabilidade dos conteúdos a outras áreas e organizações.
 
 A proposta considera que a adoção de novas práticas e seus efeitos sobre o desempenho dependem também de processos, recursos e decisões organizacionais.
+
+Nesta proposta, apresenta-se a estrutura dos cinco módulos do curso, com detalhamento dos recursos introdutórios do Módulo 1.
 
 ### 2. Público-alvo proposto
 
