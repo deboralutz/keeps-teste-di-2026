@@ -1,6 +1,6 @@
 # Guia de Design Instrucional — Keeps | Habilidades do Futuro
 
-**Versão de estudo:** 1.0 — 21/11/2026  
+**Versão de estudo:** 1.0 — 21/11/2026; sincronização curricular de 22/11/2026  
 **Finalidade:** orientar decisões pedagógicas antes da roteirização e servir de referência para a produção técnica assistida por Codex.  
 **Natureza:** documento de trabalho, não é uma exigência adicional do teste.
 
@@ -14,13 +14,16 @@ A avaliação técnica da Keeps solicita: (1) resposta ao briefing incompleto; (
 - **Objeto 2 — Panorama atual:** vídeo de até um minuto, preferencialmente 30 segundos.
 - **Objeto 3 — Globalização:** apresentação com até cinco slides contando capa inicial e final, ou três slides sem essas capas.
 
-**Estrutura curricular v1 do projeto (referência, sujeita a validação do responsável):**
+**Estrutura curricular vigente em 22/11/2026 (proposta preliminar, sujeita à validação do cliente):**
 
 1. O trabalho em transformação — 20 min: boas-vindas, panorama atual, globalização e síntese sobre competências para o futuro.
 2. Comunicação no ambiente profissional — 35 min.
-3. Inteligência artificial aplicada ao trabalho — 40 min.
-4. Organização e gestão da informação — 30 min.
-5. Adaptabilidade e aprendizagem contínua — 25 min.
+3. Organização e gestão da informação — 30 min.
+4. Análise e melhoria de processos — 30 min.
+5. Inteligência artificial aplicada ao trabalho — 40 min.
+6. Adaptabilidade e aprendizagem contínua — 25 min.
+
+**Total:** 180 minutos (3 horas). O documento canônico é `02-ementa-cronograma.md`, Parte II. `referencias/estrutura_curricular.md` mantém um espelho de consulta.
 
 A seção 1.4 (competências para o futuro) foi planejada como síntese integrada ao módulo 1. **Não criar automaticamente um quarto objeto.** O cenário de empresa de gestão de processos é uma **simulação de projeto**; objetivos e características específicas de público-alvo devem permanecer identificados como premissas enquanto não aprovados.
 
@@ -50,7 +53,7 @@ A seção 1.4 (competências para o futuro) foi planejada como síntese integrad
 4. **Storyboard/roteiro por objeto:** especifica conteúdo, sequência, narração, elementos visuais, duração, instruções de produção e referências.
 5. **Checklist de revisão:** valida precisão, alinhamento, usabilidade, acessibilidade e limites do teste.
 
-**Não criar uma matriz independente para tudo.** Para a entrega, uma única matriz de alinhamento e um registro de fontes podem atender à maior parte das necessidades.
+**Não criar uma matriz independente para tudo.** A matriz vigente documenta especificamente o Módulo 1; a sequência dos Módulos 2 a 6 consta da ementa e da estrutura curricular, sem alegar matrizes detalhadas já produzidas. Para a entrega, uma única matriz de alinhamento e um registro de fontes podem atender à maior parte das necessidades.
 
 ## 3. Fluxo mínimo antes de roteirizar
 
@@ -73,7 +76,7 @@ A seção 1.4 (competências para o futuro) foi planejada como síntese integrad
 | ID | Informação/decisão | Tipo | Fonte/justificativa | Status | Impacto se mudar |
 |---|---|---|---|---|---|
 | PRE-001 | Tema do curso: Habilidades do Futuro | Fato do enunciado | Avaliação técnica | Confirmado | Alto |
-| PRE-002 | Estrutura curricular em 5 módulos | Decisão preliminar do projeto | `referencias/estrutura_curricular.md` v1 | Em uso; validar se houve revisão posterior | Alto |
+| PRE-002 | Estrutura curricular em seis módulos e três horas | Decisão preliminar atualizada em 22/11/2026 | `02-ementa-cronograma.md`, Parte II | Em uso na simulação; depende de validação com o cliente | Alto |
 | PRE-003 | Empresa fictícia de gestão de processos | Simulação | Hipótese para o estudo de caso | Validar | Médio |
 | PRE-004 | Público-alvo e necessidades específicas | Premissa em aberto | Briefing insuficiente | Não confirmado | Alto |
 
@@ -186,7 +189,7 @@ Antes de modificar artefatos, solicitar ou identificar qual versão é a fonte d
 
 ## 10. Leituras e referências
 
-**Arquivos do projeto:** `[Keeps] Avaliação Técnica para Designer Instrucional.pdf`, `Vaga_Designer_Instrucional.pdf`, `referencias/estrutura_curricular.md`, `referencias/Artigo_01.md`, `referencias/Artigo_02.md`, `referencias/Artigo_03.md`, `referencias/Referencia_metodologica_ADDIE_6Ds_Kirkpatrick_Phillips_Keeps.md`.
+**Arquivos do projeto:** `[Keeps] Avaliação Técnica para Designer Instrucional.pdf`, `Vaga_Designer_Instrucional.pdf`, `02-ementa-cronograma.md`, `referencias/estrutura_curricular.md`, `referencias/Artigo_01.md`, `referencias/Artigo_02.md`, `referencias/Artigo_03.md`, `referencias/Referencia_metodologica_ADDIE_6Ds_Kirkpatrick_Phillips_Keeps.md`.
 
 **Referências externas de estudo:**
 
