@@ -1,4 +1,4 @@
-# Objeto 1 — PDF de boas-vindas
+# Objeto 2 — PDF de boas-vindas
 
 **Estado em 21/11/2026:** PDF já produzido e marcado como revisado no Notion. Arquivo existente: `02_Boas_Vindas_Habilidades_do_Futuro.pdf`. Não substituir sem autorização.
 
