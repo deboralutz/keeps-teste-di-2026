@@ -33,6 +33,7 @@ A síntese de competências **1.4** integra o encerramento do PPT; não constitu
 
 ## Organização do repositório
 
+- [curso/](curso/README.md) — estrutura completa de seis módulos e 28 fichas de aula; planejamento, não curso integralmente produzido.
 - [checklist.md](checklist.md) — pendências efetivas para o fechamento e envio.
 - [entrega/](entrega/LEIA-ME.md) — área reservada ao pacote final; formato e canal de envio ainda não decididos.
 - [docs/MATRIZ_DI_MODULO_1_v1_1.md](docs/MATRIZ_DI_MODULO_1_v1_1.md) — matriz vigente do Módulo 1, sincronizada com os seis módulos; `v1` é histórica.
