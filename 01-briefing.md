@@ -1,6 +1,6 @@
-# **1. Briefing**
+# 1. Briefing
 
-#### **1.1. Organização das informações disponíveis**
+## Organização das informações disponíveis
 
 Ao receber o briefing, minha primeira providência seria registrar a demanda em um ambiente centralizado, que serviria como referência para o planejamento e o acompanhamento do projeto.
 
@@ -20,35 +20,39 @@ O registro também identificaria as informações pendentes e seria atualizado c
 
 Essa documentação permitiria acompanhar a evolução da demanda, recuperar o histórico do projeto e manter uma referência compartilhada durante a produção.
 
-#### **1.2. Identificação e priorização das informações faltantes**
+## Identificação e priorização das informações faltantes
 
 Como o briefing apresenta apenas o tema geral e a expectativa de prazo, considero necessário realizar um alinhamento inicial com o cliente antes de definir o escopo do treinamento.
 
 Priorizaria a investigação de cinco aspectos:
 
-**1. Necessidade que originou a demanda**
+**Necessidade que originou a demanda**
 
 Compreender o problema, a oportunidade ou a mudança organizacional que motivou a solicitação. Buscaria exemplos concretos das situações que o treinamento pretende abordar, verificando se as dificuldades identificadas decorrem de lacunas de aprendizagem ou se envolvem também questões relacionadas a processos, recursos e condições de trabalho.
 
-**2. Resultados esperados**
+**Resultados esperados**
 
 Identificar quais mudanças de conhecimento, comportamento ou desempenho o cliente deseja promover e como essas mudanças se relacionam com os objetivos da organização.
 
-**3. Público-alvo**
+**Público-alvo**
 
 Conhecer os perfis profissionais envolvidos, suas atividades, experiências anteriores, conhecimentos existentes, condições de acesso e eventuais necessidades de acessibilidade.
 
-**4. Delimitação do conteúdo**
+**Delimitação do conteúdo**
 
 Compreender quais competências relacionadas ao tema Habilidades do Futuro são prioritárias, considerando a abrangência do assunto, o contexto organizacional e as necessidades identificadas.
 
-**5. Condições de execução**
+**Condições de execução**
+
+Confirmar as expectativas relacionadas ao prazo de 30 dias, identificar os responsáveis pelas decisões e aprovações, verificar a disponibilidade de especialistas e materiais de referência e levantar possíveis restrições de recursos ou produção.
+
+Em um segundo momento, aprofundaria as informações sobre modalidade, carga horária, ambiente de aprendizagem, formatos dos materiais, requisitos técnicos e diretrizes de comunicação.
 
 Para complementar as informações obtidas com o solicitante, consideraria um levantamento breve com representantes da liderança e dos colaboradores, conforme a necessidade identificada e as condições do projeto. Esse levantamento permitiria reunir diferentes perspectivas sobre as situações de trabalho e apoiar a priorização das necessidades.
 
-#### **1.3. Primeiros passos como Designer Instrucional**
+## Primeiros passos como Designer Instrucional
 
-**1. Estruturação e documentação do projeto**
+### Estruturação e documentação do projeto
 
 Utilizaria um repositório centralizado de documentação e acompanhamento para reunir o briefing, os dados do cliente, as informações pendentes, as fontes de consulta, o cronograma, os responsáveis e o histórico de decisões.
 
@@ -56,7 +60,7 @@ O GitHub, utilizado na organização deste projeto, é uma possibilidade para ma
 
 Também estruturaria um quadro de acompanhamento das atividades, com identificação dos responsáveis, prazos e situação de cada entrega.
 
-**2. Contato e reunião de alinhamento**
+### Contato e reunião de alinhamento
 
 Entraria em contato com o responsável pela solicitação para agendar uma reunião inicial. Antes do encontro, encaminharia um conjunto breve de perguntas para orientar a conversa e permitir que o cliente reunisse as informações disponíveis.
 
@@ -64,7 +68,7 @@ Durante a reunião, buscaria esclarecer as necessidades prioritárias, os result
 
 Também confirmaria a origem da expectativa de entrega em 30 dias, para compreender eventuais compromissos ou restrições associados a esse prazo.
 
-**3. Levantamento de necessidades**
+### Levantamento de necessidades
 
 Conforme as necessidades identificadas na reunião e a disponibilidade dos participantes, proporia a aplicação de dois instrumentos digitais breves: um direcionado à liderança e outro aos colaboradores.
 
@@ -72,7 +76,7 @@ Os instrumentos seriam utilizados para aprofundar as necessidades identificadas 
 
 Quando pertinente, incluiria questões situacionais para observar como os participantes lidam com situações concretas de trabalho.
 
-**4. Análise e priorização das necessidades**
+### Análise e priorização das necessidades
 
 A partir das informações coletadas, realizaria uma análise de lacunas de desempenho (*Gap Analysis*), comparando a situação atual com os resultados esperados e investigando suas possíveis causas.
 
@@ -84,7 +88,7 @@ Em seguida, utilizaria uma matriz de priorização para selecionar as competênc
 
 Os resultados orientariam a definição dos objetivos de aprendizagem e a estruturação da proposta educacional.
 
-**5. Desenvolvimento e validação da proposta**
+### Desenvolvimento e validação da proposta
 
 Com base na análise, desenvolveria uma proposta preliminar contendo público-alvo, objetivos de aprendizagem, organização dos conteúdos, formatos dos materiais, estimativa de carga horária e cronograma de produção.
 
@@ -92,7 +96,7 @@ Apresentaria essa proposta ao cliente para validação, registrando as decisões
 
 A proposta incluiria uma avaliação preliminar da viabilidade do prazo de 30 dias, indicando as principais dependências de produção e os pontos de aprovação necessários.
 
-**6. Planejamento e início da produção**
+### Planejamento e início da produção
 
 Após o alinhamento do escopo, iniciaria a roteirização e a produção dos materiais, mantendo a documentação atualizada, o acompanhamento das atividades e os pontos de conferência previstos no cronograma.
 
