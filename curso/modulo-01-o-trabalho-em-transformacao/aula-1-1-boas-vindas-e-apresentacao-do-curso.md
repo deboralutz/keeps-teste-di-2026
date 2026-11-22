@@ -30,3 +30,9 @@ Apresentar a proposta e o percurso de aprendizagem. Introduzir uma reflexão sob
 - [Protótipo opcional](../../prototipo/aula-1-1-prumo-prototipo-v1.html)
 
 **Observação:** ficha estrutural criada a partir da ementa, sem desenvolvimento adicional de conteúdo. 
+
+---
+
+Roteiro:
+
+Neste curso, você acompanhará situações da Prumo Gestão Integrada, uma empresa fictícia que ajuda outras organizações a compreender e melhorar seus processos de trabalho. A primeira situação envolve duas pessoas que precisam concluir uma entrega para um cliente.
