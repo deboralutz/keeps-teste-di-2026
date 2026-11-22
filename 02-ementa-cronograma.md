@@ -1,45 +1,34 @@
 # 2. Ementa e cronograma
+
 ## Habilidades do Futuro
 **Comunicação, inteligência artificial e adaptabilidade no trabalho**
 
-**Ementa, cronograma de produção e estrutura curricular**
+**Proposta preliminar de curso · 6 módulos · 3 horas estimadas · produção prevista em 30 dias**
 
-**Cenário de aplicação:** Prumo Gestão Integrada — organização fictícia utilizada como estudo de caso.
+**Contexto ilustrativo:** Prumo Gestão Integrada, empresa fictícia utilizada como estudo de caso. A proposta foi desenvolvida a partir das informações limitadas do exercício e de curadoria inicial; objetivos, público, recursos e prazo dependem de validação com um cliente real. [Conheça o cenário fictício](cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md).
 
-**Natureza da proposta:** planejamento preliminar, elaborado a partir de curadoria de referências e de situações profissionais simuladas, sujeito à validação das necessidades e condições do cliente.
+**Organização deste documento:** a Parte I apresenta a ementa e o cronograma; a Parte II contém a estrutura curricular detalhada para consulta.
 
 ---
 
-## Parte I — Ementa e cronograma
+## Parte I — Apresentação do curso e cronograma
 
-### 1. Apresentação
+### 1. Visão geral
 
-O curso **Habilidades do Futuro** aborda transformações no trabalho e competências de comunicação, gestão da informação, análise de processos, uso responsável de IA generativa e adaptabilidade.
+O curso **Habilidades do Futuro** aborda transformações no trabalho e competências de comunicação, gestão da informação, análise e melhoria de processos, uso responsável de inteligência artificial generativa e adaptabilidade. Situações profissionais simuladas da Prumo conectam os temas à prática.
 
-A proposta utiliza situações simuladas da Prumo Gestão Integrada para aproximar os conteúdos da prática profissional. Prevê seis módulos, com detalhamento dos recursos introdutórios do Módulo 1. Sua aplicação e seus possíveis efeitos sobre o desempenho dependem de validação do cliente e de condições organizacionais adequadas.
+**Público-alvo proposto:** profissionais que recebem, executam, acompanham ou comunicam demandas, especialmente de Projetos, Operações e Relacionamento, com possível participação de Gestão e Suporte. O nível de familiaridade com IA pode variar. A quantidade e os perfis dos participantes ainda precisam ser confirmados; os aproximadamente 160 colaboradores atribuídos à Prumo pertencem somente ao cenário fictício.
 
-### 2. Público-alvo proposto
+- **Modalidade:** digital, autoinstrucional e assíncrona.
+- **Duração estimada:** 180 minutos (3 horas), incluindo estudo, navegação e práticas formativas.
+- **Recursos previstos:** vídeos breves, PDF, apresentações, exemplos visuais e exercícios situacionais.
+- **Acompanhamento formativo:** práticas com feedback ou modelos de comparação, sem nota ou certificação prevista nesta proposta.
 
-Profissionais envolvidos na recepção, execução, acompanhamento e comunicação de demandas em áreas como Projetos, Operações e Relacionamento, com possíveis participações de Gestão e Suporte. São considerados diferentes níveis de familiaridade com inteligência artificial generativa.
+A modalidade, a carga horária, a acessibilidade, os formatos e a publicação serão adequados às condições confirmadas com o cliente.
 
-A quantidade de participantes, os perfis profissionais e as condições de acesso deverão ser confirmados com o cliente. No cenário fictício utilizado, a Prumo possui aproximadamente 160 colaboradores, sem pressupor que todos participarão do curso.
+### 2. Objetivos de aprendizagem
 
-### 3. Modalidade e carga horária
-
-- **Modalidade proposta:** digital, autoinstrucional e assíncrona.
-- **Carga horária estimada:** 3 horas, em seis módulos, incluindo estudo e práticas.
-- **Recursos:** vídeos breves, PDF, apresentações, exemplos visuais e exercícios situacionais.
-- **Acompanhamento formativo:** atividades com feedback ou respostas-modelo, sem nota ou certificação prevista.
-
-Modalidade, formatos, acessibilidade, carga horária e publicação dependem da validação do cliente e da infraestrutura disponível.
-
-### 4. Objetivo geral
-
-Desenvolver capacidades para compreender mudanças no trabalho, comunicar demandas, utilizar informações confiáveis, analisar processos, avaliar o uso de IA e propor melhorias e ações de aprendizagem contínua.
-
-As capacidades serão exploradas em situações simuladas; a transferência para o trabalho e os efeitos organizacionais exigiriam acompanhamento posterior.
-
-### 5. Objetivos específicos de aprendizagem
+**Objetivo geral:** desenvolver capacidades para compreender mudanças no trabalho, comunicar demandas, utilizar informações confiáveis, analisar processos, avaliar criticamente o uso de IA e propor melhorias e ações de aprendizagem contínua.
 
 Ao final do curso, diante de situações profissionais apresentadas em atividades formativas, espera-se que o participante consiga:
 
@@ -50,141 +39,113 @@ Ao final do curso, diante de situações profissionais apresentadas em atividade
 5. **Selecionar e justificar** quando utilizar IA generativa em uma tarefa autorizada, formular instruções com contexto e verificar criticamente o resultado.
 6. **Propor** uma ação viável de desenvolvimento ou melhoria, considerando recursos, limites, responsabilidades e aprendizagem contínua.
 
-### 6. Ementa por módulo
+As atividades produzirão evidências formativas em situações simuladas. A transferência ao trabalho e os efeitos organizacionais dependeriam de condições de aplicação e acompanhamento posterior.
 
-Esta síntese apresenta os focos, recursos e práticas de cada módulo. A sequência de aulas está detalhada na Parte II.
+### 3. Percurso formativo
+
+Os seis módulos seguem uma progressão do contexto geral para situações de comunicação, informação, processos, IA e melhoria contínua. A duração de cada módulo é estimada; a sequência das 28 aulas está no anexo técnico.
 
 #### Módulo 1 — O trabalho em transformação | 20 minutos
 
-**Objetivo:** relacionar a globalização e as transformações tecnológicas às mudanças no mundo do trabalho, reconhecendo oportunidades, desafios e competências profissionais relevantes.
+**Propósito:** compreender como globalização e transformações tecnológicas se relacionam às atividades profissionais e às competências necessárias.
 
-**Conteúdos:** panorama das transformações do trabalho, globalização, impactos sobre atividades e profissões e competências para o futuro.
+**Conteúdos:** panorama das transformações do trabalho; globalização e seus impactos positivos e negativos; competências para o futuro.
 
-**Percurso formativo:** o módulo começa com a apresentação do curso e de seus objetivos. Uma situação simulada da Prumo Gestão Integrada convida o participante a interpretar uma comunicação profissional e observar suas consequências. Em seguida, o vídeo *Panorama atual* amplia a reflexão para as transformações tecnológicas e suas implicações para o trabalho. A apresentação *Globalização* desenvolve o conceito, seus efeitos positivos e negativos e um exemplo de aplicação. O encerramento relaciona essas transformações às competências abordadas nos módulos seguintes.
+**Experiência prevista:** acolhimento e apresentação do percurso em PDF; vídeo *Panorama atual*; apresentação *Globalização*, com síntese integradora no encerramento. Uma interação opcional com Marina e Lucas sensibiliza para a interpretação de uma situação profissional.
 
-**Objetos obrigatórios:** PDF de boas-vindas (uma página), vídeo *Panorama atual* (até um minuto) e apresentação *Globalização* (até cinco slides).
+**Objetos obrigatórios do teste:** PDF de boas-vindas (preferencialmente uma página, máximo duas), vídeo *Panorama atual* (alvo aproximado de 30 segundos, máximo um minuto) e apresentação *Globalização* (até cinco slides). A interação web é **complementar** e não substitui o PDF. A unidade 1.4 integra o encerramento do PPT, sem quarto objeto obrigatório.
 
-**Recurso complementar:** experiência interativa de abertura com o caso de Marina e Lucas, sem substituir os materiais obrigatórios.
-
-**Síntese:** a unidade 1.4 é integrada ao encerramento da apresentação, sem constituir um quarto objeto independente.
 #### Módulo 2 — Comunicação no ambiente profissional | 35 minutos
 
-**Objetivo:** reconhecer lacunas em uma demanda, formular perguntas e reescrever a solicitação com contexto e critérios de entrega.
+**Propósito:** esclarecer demandas incompletas e produzir solicitações compreensíveis e verificáveis.
 
-**Conteúdos:** comunicação entre equipes, escuta ativa, esclarecimento, assertividade e alinhamento de expectativas.
+**Conteúdos:** comunicação entre equipes, escuta ativa, perguntas de esclarecimento, assertividade e alinhamento de expectativas.
 
-**Recursos e prática:** narrativa de um pedido incompleto, checklist de esclarecimento e exercício de reformulação com resposta-modelo.
+**Aplicação prevista:** analisar um pedido incompleto, elaborar perguntas e reformular a solicitação com apoio de um checklist e de uma resposta-modelo.
 
 #### Módulo 3 — Organização e gestão da informação | 30 minutos
 
-**Objetivo:** selecionar informações e versões válidas e registrar decisões de forma rastreável.
+**Propósito:** selecionar informações e versões válidas e registrar decisões de modo rastreável.
 
 **Conteúdos:** documentação, confiabilidade das fontes, autoria, atualização, controle de versões, responsáveis e encaminhamentos.
 
-**Recursos e prática:** comparação de documentos simulados, conferência de fontes e registro de uma decisão de projeto.
+**Aplicação prevista:** comparar documentos simulados, conferir informações e registrar uma decisão de projeto.
 
 #### Módulo 4 — Análise e melhoria de processos | 30 minutos
 
-**Objetivo:** reconhecer elementos de um processo, identificar dificuldades e utilizar um instrumento introdutório de análise.
+**Propósito:** compreender um fluxo de trabalho, reconhecer dificuldades e identificar oportunidades de melhoria.
 
-**Conteúdos:** entradas, atividades, saídas, responsáveis, decisões, retrabalho, atrasos e ferramentas de diagnóstico (entrevista, observação, análise documental e mapa de processos).
+**Conteúdos:** entradas, atividades, saídas, responsáveis, pontos de decisão, retrabalho, atrasos e instrumentos introdutórios de análise (entrevista, observação, análise documental e mapa de processos).
 
-**Recursos e prática:** mapa simplificado do fluxo de revisão e aprovação de documentos da Prumo, para identificar uma dificuldade e uma oportunidade de melhoria. As ferramentas são apresentadas brevemente, sem aprofundamento em redesenho de processos.
+**Aplicação prevista:** construir ou interpretar um mapa simplificado do processo de revisão e aprovação de documentos da Prumo e identificar uma melhoria possível, sem aprofundamento em redesenho de processos.
 
 #### Módulo 5 — Inteligência artificial aplicada ao trabalho | 40 minutos
 
-**Objetivo:** avaliar quando a IA generativa é apropriada, formular instruções contextualizadas quando autorizado e revisar criticamente os resultados.
+**Propósito:** decidir quando utilizar IA generativa, formular instruções contextualizadas quando autorizado e revisar criticamente os resultados.
 
-**Conteúdos:** aplicações e limites da IA, seleção de tarefas, elaboração de instruções, confiabilidade, confidencialidade e supervisão humana.
+**Conteúdos:** possibilidades e limites, seleção de tarefas, elaboração de instruções, confiabilidade, confidencialidade e supervisão humana.
 
-**Recursos e prática:** demonstração com dados fictícios, análise de uma tarefa do processo estudado no Módulo 4 e revisão de uma resposta simulada. Não se exige conta nem acesso direto a ferramentas de IA; o uso real dependeria das políticas da organização.
+**Aplicação prevista:** avaliar uma tarefa do fluxo estudado no Módulo 4, justificar o uso ou não de IA e revisar uma resposta simulada. A atividade pode ser realizada sem conta ou acesso direto a ferramentas de IA.
 
 #### Módulo 6 — Adaptabilidade e aprendizagem contínua | 25 minutos
 
-**Objetivo:** propor uma ação viável de desenvolvimento ou melhoria, considerando recursos e condições de aplicação.
+**Propósito:** propor uma ação viável de desenvolvimento ou melhoria a partir dos problemas analisados.
 
-**Conteúdos:** adaptabilidade, pensamento crítico, criatividade, competências a desenvolver, aprendizagem contínua e acompanhamento de mudanças.
+**Conteúdos:** adaptabilidade, pensamento crítico, criatividade, aprendizagem contínua, distinção entre lacunas de aprendizagem e problemas de processo e condições para mudança.
 
-**Recursos e prática:** retomada do caso da Prumo para propor uma melhoria com possível apoio de IA, condições de adoção, aprendizagem necessária e critério simples de acompanhamento.
+**Aplicação prevista:** retomar o caso da Prumo e propor uma melhoria com eventual apoio de IA, aprendizagem necessária, condições de adoção e critério simples de acompanhamento.
 
-### 7. Fio condutor e progressão didática
+**Carga horária total estimada:** 20 + 35 + 30 + 30 + 40 + 25 = **180 minutos (3 horas)**. Essa previsão deverá ser conferida após a roteirização e testes de leitura e navegação; especialmente no Módulo 1, a duração dos objetos ainda não comprova os 20 minutos previstos.
 
-Uma situação simulada da Prumo conecta os módulos. Na abertura, Marina (Projetos) entende que uma proposta pode ser enviada ao cliente, mas Lucas (Processos) informa apenas que atualizou o documento, sem confirmar a aprovação final.
+### 4. Fio condutor: o caso da Prumo
 
-O participante retoma esse caso em diferentes níveis de análise:
+Uma situação fictícia conecta os módulos. Na abertura, **Marina (Projetos)** pergunta a **Lucas (Processos)** se uma proposta revisada já pode ser enviada ao cliente. Lucas responde que colocou a versão atualizada na plataforma, **sem confirmar a aprovação final**. A diferença entre a informação comunicada e o que se pode inferir mobiliza uma reflexão inicial.
 
-- **Módulo 2:** esclarece a solicitação e alinha expectativas.
-- **Módulo 3:** confere fontes, versões e registros de aprovação.
-- **Módulo 4:** analisa o fluxo de atualização, revisão, aprovação e envio.
-- **Módulo 5:** avalia usos possíveis e limites da IA em uma tarefa desse fluxo.
-- **Módulo 6:** propõe uma melhoria com condições de adoção e acompanhamento.
+O caso é retomado gradualmente: no **Módulo 2**, para esclarecer a demanda; no **Módulo 3**, para conferir versões e decisões; no **Módulo 4**, para analisar o fluxo de revisão e aprovação; no **Módulo 5**, para avaliar possíveis apoios da IA; e no **Módulo 6**, para propor uma melhoria viável.
 
-O Módulo 1 contextualiza as transformações do trabalho antes da aplicação ao caso. As atividades produzem evidências formativas simuladas, sem comprovar transferência para o ambiente profissional.
+A Prumo é um cenário criado para a avaliação técnica, sem diagnóstico realizado. Sua missão, visão e valores estão documentados em [anexo institucional separado](cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md) para contextualização dos avaliadores, sem necessidade de incluí-los nas aulas.
 
-### 8. Distribuição da carga horária
+### 5. Cronograma preliminar de produção — 30 dias
 
-| Módulo | Duração estimada |
-|---|---:|
-| 1. O trabalho em transformação | 20 min |
-| 2. Comunicação no ambiente profissional | 35 min |
-| 3. Organização e gestão da informação | 30 min |
-| 4. Análise e melhoria de processos | 30 min |
-| 5. Inteligência artificial aplicada ao trabalho | 40 min |
-| 6. Adaptabilidade e aprendizagem contínua | 25 min |
-| **Total** | **180 min / 3h** |
+O prazo de 30 dias é uma expectativa inicial, condicionada à confirmação das necessidades, dos recursos, do escopo e das validações com o cliente.
 
-As durações consideram o estudo dos materiais, a navegação e a realização das práticas propostas. São estimativas preliminares, sujeitas à validação do cliente.
+- **Dias 1–4 — Diagnóstico e alinhamento:** levantamento de necessidades, confirmação do público, objetivos, restrições e responsáveis.
+- **Dias 5–8 — Curadoria e desenho inicial:** seleção e conferência de fontes, definição da ementa, formatos, escopo e validação do plano.
+- **Dias 9–15 — Desenho instrucional:** estrutura detalhada, roteiros, atividades e revisão de conteúdo com especialistas.
+- **Dias 16–23 — Produção:** desenvolvimento dos objetos e recursos visuais, adequações de linguagem e acessibilidade e integração.
+- **Dias 24–27 — Revisão:** conferência pedagógica e técnica, ajustes, fontes e permissões.
+- **Dias 28–30 — Finalização:** testes, ajustes de publicação, aprovação e entrega.
 
-### 9. Cronograma preliminar de produção — 30 dias
+**Dependências críticas:** disponibilidade do cliente e de especialistas para revisão, etapas de aprovação, recursos de produção, diretrizes para dados e IA e plataforma de publicação. A viabilidade de produzir os seis módulos nesse período precisa ser confirmada; mudanças relevantes exigirão reavaliação documentada do cronograma.
 
-O cronograma considera a expectativa inicial de entrega em 30 dias, condicionada à definição do escopo, à disponibilidade dos recursos e à realização das validações previstas.
+### 6. Premissas, limites e validações
 
-- **Dias 1–4:** alinhamento inicial, levantamento breve de necessidades e definição do público, dos objetivos e das restrições.
-- **Dias 5–8:** curadoria de fontes, estruturação da ementa, definição dos formatos e validação do escopo e do plano.
-- **Dias 9–15:** desenho instrucional detalhado, roteirização, planejamento das atividades e revisão de conteúdo com especialistas.
-- **Dias 16–23:** produção dos objetos e recursos visuais, adaptação de linguagem e acessibilidade e integração dos materiais.
-- **Dias 24–27:** revisão técnica e pedagógica, ajustes solicitados e conferência de fontes e permissões.
-- **Dias 28–30:** testes finais, ajustes de publicação, aprovação e entrega.
+**Premissas:** o público, a modalidade, os formatos, a carga horária e a priorização das competências são propostas construídas sem diagnóstico de um cliente real. A ementa deverá ser revisada caso o levantamento de necessidades indique outras prioridades.
 
-**Dependências críticas:** prazos de validação, definição do escopo e dos recursos, políticas de dados e uso de IA, plataforma de publicação e disponibilidade do cliente para revisão.
+**Limites do conteúdo:** o curso tem abordagem introdutória e aplicada a simulações. Não contempla aprofundamento em programação, engenharia avançada de prompts, implantação técnica de IA, administração de LMS, análise avançada de dados, legislação abrangente de proteção de dados, liderança de equipes, gestão integral de projetos ou implantação aprofundada de processos. Esses temas exigiriam revisão de objetivos, público e carga horária.
 
-A viabilidade de produzir os seis módulos em 30 dias exige validação de recursos, revisões e escopo. Alterações nessas condições poderão exigir revisão documentada do cronograma.
+**Pontos de validação com o cliente:**
 
-### 10. Delimitação do escopo
+- Problema organizacional, resultados esperados, público e perfis profissionais.
+- Priorização das competências, pertinência do módulo de processos e profundidade dos conteúdos.
+- Modalidade, acessibilidade, condições de acesso, recursos técnicos e plataforma de publicação.
+- Materiais de referência, fontes disponíveis, especialistas e políticas de uso de IA e dados.
+- Escopo, responsáveis, prazos de revisão, condições comerciais quando pertinentes e viabilidade da entrega em 30 dias.
 
-Para preservar a relação entre a carga horária e os objetivos de aprendizagem, a proposta não contempla o ensino aprofundado de programação, engenharia avançada de prompts, implantação técnica de IA, administração de LMS, análise avançada de dados, legislação abrangente de proteção de dados, liderança de equipes, gestão integral de projetos ou implantação aprofundada de processos.
+### 7. Referências de contextualização
 
-Esses assuntos poderão aparecer como referências pontuais ou necessidades de desenvolvimento futuro, mas seu aprofundamento exigiria novos objetivos, público e carga horária.
-
-O curso concentra-se em competências introdutórias e aplicadas a situações profissionais simuladas.
-
-### 11. Pontos para validação com o cliente
-
-- Confirmar o problema organizacional e os resultados esperados.
-- Confirmar o público participante, os perfis profissionais, a acessibilidade e a infraestrutura disponível.
-- Priorizar as competências, inclusive a pertinência do módulo de processos, e definir a profundidade dos conteúdos.
-- Confirmar políticas e permissões de uso de IA, materiais de referência e fontes disponíveis.
-- Validar modalidade, carga horária, formatos e requisitos de publicação.
-- Aprovar o escopo, os responsáveis, as etapas de revisão e a viabilidade do prazo.
-- Revisar a ementa caso o diagnóstico identifique prioridades diferentes das consideradas nesta proposta.
-
-### 12. Referências bibliográficas
+As referências abaixo fundamentam especialmente a contextualização inicial sobre transformações do trabalho, competências e globalização. O desenvolvimento integral dos módulos posteriores exigiria curadoria complementar.
 
 1. **World Economic Forum.** *The Future of Jobs Report 2025.* Relatório sobre transformações profissionais e competências.
-2. **FIESC.** *Mercado de trabalho priorizará pensamento criativo e influência social, aponta estudo.* Síntese brasileira do relatório de 2025.
-3. **Milton Beck.** *Entre Algoritmos e Boa Comunicação.* Forbes Brasil, 2025. Artigo de opinião e reflexão profissional.
-4. **Parlamento Europeu.** *Impacto da globalização no emprego e na UE.* Análise de impactos da globalização no contexto europeu.
-
+2. **FIESC.** [*Mercado de trabalho priorizará pensamento criativo e influência social, aponta estudo*](referencias/Artigo_01.md). Síntese brasileira do relatório de 2025.
+3. **Milton Beck.** [*Entre Algoritmos e Boa Comunicação*](referencias/Artigo_02.md). Forbes Brasil, 2025. Artigo de opinião e reflexão profissional; arquivo local em versão de estudo.
+4. **Parlamento Europeu.** [*Impacto da globalização no emprego e na UE*](referencias/Artigo_03.md). Análise de impactos no contexto europeu.
 
 ---
 
-## Parte II — Estrutura curricular
+## Parte II — Anexo técnico: estrutura curricular detalhada
 
-### Curso: Habilidades do Futuro
-**Comunicação, inteligência artificial e adaptabilidade no trabalho**
-
-**Modalidade proposta:** digital, autoinstrucional e assíncrona.  
-**Carga horária estimada:** 3 horas.
+Este anexo reúne as 28 unidades previstas para os seis módulos. Os conteúdos indicam a proposta de desenvolvimento; não representam aulas inteiramente produzidas. Os objetivos e a carga horária gerais constam na Parte I.
 
 ### Módulo 1 — O trabalho em transformação
 **Duração estimada: 20 minutos**
@@ -333,4 +294,3 @@ Responsabilidades, recursos, alinhamento com a equipe, experimentos de baixo ris
 #### 6.5. Aplicação integradora: propondo uma melhoria
 
 Retomar a situação apresentada ao longo do curso e formular uma proposta sintética que contemple a dificuldade identificada, a mudança sugerida, a eventual contribuição da IA, as condições necessárias e um critério de acompanhamento.
-

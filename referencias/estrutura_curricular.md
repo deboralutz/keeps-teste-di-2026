@@ -2,13 +2,9 @@
 >
 > **Histórico:** o [documento v1 no Notion](https://app.notion.com/p/41e60d80450680c4943bd84f5ae74024) descrevia cinco módulos; foi substituído nesta versão. O histórico também permanece acessível nos commits do GitHub.
 
-## Parte II — Estrutura curricular
+## Parte II — Anexo técnico: estrutura curricular detalhada
 
-### Curso: Habilidades do Futuro
-**Comunicação, inteligência artificial e adaptabilidade no trabalho**
-
-**Modalidade proposta:** digital, autoinstrucional e assíncrona.  
-**Carga horária estimada:** 3 horas.
+Este anexo reúne as 28 unidades previstas para os seis módulos. Os conteúdos indicam a proposta de desenvolvimento; não representam aulas inteiramente produzidas. Os objetivos e a carga horária gerais constam na Parte I.
 
 ### Módulo 1 — O trabalho em transformação
 **Duração estimada: 20 minutos**
