@@ -4,14 +4,14 @@
 **Curso:** Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho  
 **Módulo:** 1. O trabalho em transformação  
 **Unidade:** 1.1. Boas-vindas e apresentação do curso  
-**Versão:** 1.0 — 21/11/2026  
-**Aviso de sincronização:** já existe PDF de trabalho em `02_Boas_Vindas_Habilidades_do_Futuro.pdf`; comparar os arquivos antes de qualquer alteração ou substituição.  
+**Versão:** 1.0 — 21/11/2026; revisão textual de sincronização curricular em 22/11/2026  
+**Aviso de sincronização:** existe PDF já exportado na raiz em `05.1-boas-vindas-habilidades-do-futuro.pdf`. **O PDF não foi substituído nesta revisão.** Conferir se ainda apresenta seis módulos; caso apresente, reexportar a partir do texto atualizado sem alterar o objeto original antes da revisão.  
 **Status:** roteiro editorial e visual proposto; requer aprovação humana antes da produção final  
-**Documentos de referência:** `referencias/estrutura_curricular.md`; `MATRIZ_DI_MODULO_1_v1_1.md`; enunciado da avaliação técnica.
+**Documentos de referência:** `02-ementa-cronograma.md` (Parte II); `docs/MATRIZ_DI_MODULO_1_v1_1.md`; enunciado da avaliação técnica.
 
 ## 1. Função instrucional
 
-**Função:** acolher o participante, apresentar a proposta e os cinco módulos do curso e ativar uma reflexão inicial sobre as mudanças no trabalho. Este material **não** substitui o vídeo de Panorama atual nem a apresentação sobre Globalização.
+**Função:** acolher o participante, apresentar a proposta e os seis módulos do curso e ativar uma reflexão inicial sobre as mudanças no trabalho. Este material **não** substitui o vídeo de Panorama atual nem a apresentação sobre Globalização.
 
 **Objetivo de orientação da unidade 1.1:** identificar a proposta do curso e os temas que compõem seu percurso de aprendizagem.
 
@@ -35,8 +35,8 @@
 | --- | --- | --- | --- | --- |
 | 1 | Identificação do curso | `MÓDULO 1 · O TRABALHO EM TRANSFORMAÇÃO` + `Habilidades do Futuro` + `Comunicação, inteligência artificial e adaptabilidade no trabalho` | Situar o participante no curso e no módulo | Cabeçalho com hierarquia clara; título predominante, subtítulo discreto; não usar imagem que substitua o texto |
 | 2 | Boas-vindas e contexto | Título `Boas-vindas` e dois parágrafos curtos (texto integral abaixo) | Relacionar o tema a mudanças no contexto profissional e apresentar a proposta, sem antecipar uma aula completa | Área textual com boa legibilidade; pode incluir elemento gráfico abstrato discreto, não necessário à compreensão |
-| 3 | Percurso | Título `O que você vai explorar` e cinco itens numerados, um para cada módulo | Mostrar escopo e sequência; permitir orientação rápida | Cinco linhas ou pequenos blocos compactos; destaque equilibrado para todos os módulos; evitar prometer carga horária por unidade |
-| 4 | Pergunta mobilizadora | Título `Para começar` + pergunta exatamente como na estrutura curricular v1 + convite breve à reflexão | Ativar conhecimentos e experiência prévios | Destaque por espaço em branco e contraste; não criar campo de preenchimento ou CTA que simule coleta de dados |
+| 3 | Percurso | Título `O que você vai explorar` e seis itens numerados, um para cada módulo | Mostrar escopo e sequência; permitir orientação rápida | Seis linhas ou pequenos blocos compactos; destaque equilibrado para todos os módulos; evitar prometer carga horária por unidade |
+| 4 | Pergunta mobilizadora | Título `Para começar` + pergunta exatamente como na estrutura curricular vigente + convite breve à reflexão | Ativar conhecimentos e experiência prévios | Destaque por espaço em branco e contraste; não criar campo de preenchimento ou CTA que simule coleta de dados |
 | 5 | Continuidade | `A seguir: Panorama atual do mercado de trabalho.` | Indicar a continuidade da experiência | Rodapé editorial breve; não criar hiperlink se o destino não estiver confirmado |
 
 ## 4. Texto integral proposto para o PDF (na ordem de leitura)
@@ -51,15 +51,16 @@
 
 O trabalho se transforma conforme tecnologias, mercados e formas de colaboração mudam. Essas transformações criam oportunidades, mas também apresentam desafios para pessoas e organizações.
 
-Neste curso, vamos observar esse cenário e explorar competências ligadas à comunicação, ao uso criterioso da inteligência artificial, à organização da informação e à aprendizagem contínua. Os temas serão relacionados a situações do cotidiano profissional.
+Neste curso, vamos observar esse cenário e explorar competências ligadas à comunicação, ao uso criterioso da inteligência artificial, à organização da informação, à análise de processos e à aprendizagem contínua. Os temas serão relacionados a situações do cotidiano profissional.
 
 ## O que você vai explorar
 
 **1. O trabalho em transformação** — Panorama atual, globalização e competências para o futuro.  
 **2. Comunicação no ambiente profissional** — Clareza, escuta, colaboração e alinhamento de expectativas.  
-**3. Inteligência artificial aplicada ao trabalho** — Possibilidades, limites e uso criterioso da tecnologia.  
-**4. Organização e gestão da informação** — Documentação, fontes e rastreabilidade de decisões.  
-**5. Adaptabilidade e aprendizagem contínua** — Pensamento crítico, criatividade e desenvolvimento profissional.
+**3. Organização e gestão da informação** — Fontes, documentos e decisões confiáveis.  
+**4. Análise e melhoria de processos** — Identificação de dificuldades e oportunidades de melhoria.  
+**5. Inteligência artificial aplicada ao trabalho** — Possibilidades, limites e uso criterioso da tecnologia.  
+**6. Adaptabilidade e aprendizagem contínua** — Pensamento crítico, criatividade e desenvolvimento profissional.
 
 ## Para começar
 
@@ -81,7 +82,7 @@ Pense em uma mudança que você observou no seu trabalho ou em sua área de atua
 
 ## 6. Rastreabilidade editorial
 
-- **Estrutura do percurso e pergunta inicial:** `referencias/estrutura_curricular.md` (estrutura curricular, versão 1).
+- **Estrutura do percurso e pergunta inicial:** `02-ementa-cronograma.md`, Parte II (estrutura curricular vigente, seis módulos).
 - **Enunciado de formato e dimensão:** `[Keeps] Avaliação Técnica para Designer Instrucional.pdf`, seção 5 (Objeto 1: boas-vindas, 1 página ideal, 2 máximas).
 - **Contexto geral sobre mudanças profissionais e competências:** `referencias/Artigo_01.md` (FIESC, 27/01/2025) e `referencias/Artigo_02.md` (versão de estudo de artigo de Milton Beck, Forbes Brasil, 29/04/2025). **Nenhuma estatística desses textos é usada no PDF.**
 - **Texto autoral do PDF:** redação sintética construída para este material a partir do escopo curricular; não apresenta citações literais nem resultados de diagnóstico do cliente.
@@ -91,14 +92,14 @@ Pense em uma mudança que você observou no seu trabalho ou em sua área de atua
 - [ ] A autora do DI aprovou os objetivos revisados e a redação final do texto.
 - [ ] PDF exportado com **1 página**; nenhuma linha ou bloco cortado.
 - [ ] A ordem de leitura corresponde ao storyboard.
-- [ ] Os nomes dos cinco módulos correspondem à estrutura curricular v1.
+- [ ] Os nomes e a ordem dos seis módulos correspondem à Parte II da ementa vigente.
 - [ ] A pergunta inicial é preservada literalmente.
 - [ ] Não existem avaliação obrigatória, campo de resposta ou quarto objeto oculto.
 - [ ] Não há dado ou afirmação atribuída a fonte inexistente.
 - [ ] O PDF abre, permite seleção de texto e foi inspecionado visualmente após exportação.
 - [ ] Verificações de contraste, legibilidade e acessibilidade registradas com seus limites.
 
-**Pendências antes do arquivo final:** confirmar eventual identidade visual fornecida pela Keeps; validar a redação acima; cronometrar a experiência completa do módulo separadamente do tempo de leitura deste PDF.
+**Pendências antes do arquivo final:** conferir o PDF exportado existente e, se necessário, gerar uma versão revisada com os seis módulos em uma página legível; confirmar eventual identidade visual fornecida pela Keeps; validar a redação acima; cronometrar a experiência completa do módulo separadamente do tempo de leitura deste PDF.
 
 ## 8. Instrução de implementação ao Codex (após aprovação)
 
