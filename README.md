@@ -1,74 +1,56 @@
 # Avaliação técnica — Design Instrucional | Keeps
 
-Repositório **privado** para estudo, planejamento e produção de *Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho*.
+Projeto: **Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho**.
 
-**Prazo de entrega:** 23/11/2026, às 9h (horário de Brasília).  
-**Estado documentado:** 21/11/2026, conforme arquivos na branch `main`. Esta página é um retrato e não se atualiza automaticamente.
+Repositório **privado** de trabalho e documentação. A organização fictícia **Prumo Gestão Integrada** foi criada como contexto didático; não há diagnóstico aplicado a uma empresa real.
 
-O teste pede documentos de planejamento e três objetos específicos do Módulo 1. A microaula web é uma proposta **complementar**, não substitui esses objetos nem transforma o projeto obrigatório em um curso HTML/SCORM.
+**Prazo informado:** 23/11/2026, às 9h (Brasília).  
+**Situação deste índice:** 22/11/2026. Confirmar sempre os arquivos e as revisões mais recentes.
 
-## Entregas exigidas pela Keeps
+## Comece aqui
 
-- **Etapa 1 — Briefing:** organizar as informações disponíveis, identificar lacunas e descrever os primeiros passos do DI.
-- **Etapa 2 — Ementa e cronograma:** propor a estrutura do curso. O enunciado dispensa critérios de avaliação e certificação.
-- **Etapa 3 — Reunião com cliente:** explicar como conduzir solicitações de mudanças significativas no escopo.
-- **Etapa 5 — Roteirização e produção:** três objetos introdutórios do Módulo 1:
-  - **Objeto 1:** PDF de boas-vindas, idealmente 1 página; máximo 2.
-  - **Objeto 2:** vídeo *Panorama atual*, idealmente 30 segundos; máximo 60.
-  - **Objeto 3:** PPT *Globalização*, até 5 slides com abertura e encerramento (ou 3 sem capas).
+O teste solicita respostas às **etapas 1, 2 e 3** e três objetos introdutórios na **etapa 5**. A numeração acompanha o enunciado original, [avaliacao-tecnica-keeps.pdf](avaliacao-tecnica-keeps.pdf). Não há uma etapa 4 adicional no arquivo do teste.
 
-A numeração acima acompanha o enunciado original, `avaliacao-tecnica-keeps.pdf`.
+### Respostas escritas
 
-## Situação das entregas — 21/11/2026
+- [1. Briefing](01-briefing.md) — informações recebidas, lacunas e primeiros passos.
+- [2. Ementa, cronograma e estrutura curricular](02-ementa-cronograma.md) — cinco módulos, carga horária estimada de 2h30 e proposta de produção em 30 dias.
+- [3. Reunião com o cliente](03-reuniao-com-cliente.md) — gestão de solicitações de mudança e análise de impacto.
 
-| Entrega | Situação documentada | Próxima conferência |
+As respostas foram revisadas editorialmente, mas a **versão final consolidada para envio ainda requer conferência humana**.
+
+### Objetos obrigatórios — Módulo 1
+
+| Objeto | Arquivo de referência | Situação |
 | --- | --- | --- |
-| Etapas 1, 2 e 3 | Respostas redigidas em arquivos Markdown, ainda versões de trabalho | Consolidar, revisar e exportar os documentos para entrega |
-| Objeto 1 — PDF de boas-vindas | `02_Boas_Vindas_Habilidades_do_Futuro.pdf` existe; produção/revisão registrada anteriormente no Notion | Comparar com storyboard e conferir visual, página, leitura e links; preservar original |
-| Objeto 2 — Vídeo Panorama atual | `docs/STORYBOARD_VIDEO_PANORAMA_ATUAL_v1.md` é proposta, ainda sem validação final; vídeo final não consta na raiz ou pasta `entrega/` deste snapshot | Fechar narração e storyboard, produzir, legendar e verificar reprodução/duração |
-| Objeto 3 — PPT Globalização | `04_Globalizacao_Habilidades_do_Futuro.pptx` e `04_Globalizacao_Habilidades_do_Futuro.pdf` já existem | Realizar revisão pontual autorizada e validar PPTX/PDF resultantes antes de declarar concluído |
-| Pacote de envio | `entrega/` ainda não contém os objetos finais consolidados | Reunir somente versões verificadas e preparar envio antes do prazo |
+| 5.1 — Boas-vindas | [PDF](05.1-boas-vindas-habilidades-do-futuro.pdf) | 1 página; conferir leitura visual e acessibilidade |
+| 5.2 — Panorama atual | [MP4](05.2-video-panorama-atual.mp4) · [link Pictory](05.2-video-panorama-atual.md) | Vídeo presente; validar reprodução, áudio, legendas e duração no arquivo definitivo |
+| 5.3 — Globalização | [PPTX](05.3-globalizacao-habilidades-do-futuro.pptx) | 5 slides; validar visual, hyperlinks e ordem de leitura |
 
-**Revisão pontual do PPT:** preservar a identidade visual, a sequência pedagógica, os diagramas, os cinco slides e os quatro cartões de competências. Ajustar o fechamento do slide 5 e sua pergunta final, o contraste de “Possíveis impactos” no slide 4, a legibilidade e os hyperlinks das referências, a precisão da descrição do Fundo Europeu de Ajustamento à Globalização e a estrutura de leitura/acessibilidade. A presença dos arquivos no repositório **não comprova a conclusão desses ajustes**.
+O arquivo `05.2-video-panorama-atual.mp4.mp4` é uma **cópia idêntica por SHA** ao MP4 de referência acima. Foi preservado; não deve ser confundido com uma nova versão. A eventual exclusão fica para decisão posterior.
 
-O arquivo `03-slides-globalizacao.md` permanece um template inicial desatualizado e não descreve o PPT já produzido. O arquivo `02-video-panorama-atual.md` também é template inicial, não substitui o storyboard específico do vídeo.
+A síntese de competências **1.4** integra o encerramento do PPT; não constitui um quarto objeto obrigatório. A apresentação em PDF é opcional no enunciado.
 
-## Mapa de arquivos e decisões
+## Organização do repositório
 
-### Escopo e planejamento
+- [checklist.md](checklist.md) — pendências efetivas para o fechamento e envio.
+- [entrega/](entrega/LEIA-ME.md) — área reservada ao pacote final; formato e canal de envio ainda não decididos.
+- [docs/MATRIZ_DI_MODULO_1_v1_1.md](docs/MATRIZ_DI_MODULO_1_v1_1.md) — matriz vigente. `v1` é histórica.
+- [referencias/estrutura_curricular.md](referencias/estrutura_curricular.md) — estrutura curricular de referência; a ementa também traz a estrutura na Parte II.
+- [docs/](docs/) — roteiros, decisões metodológicas e critérios de revisão.
+- [docs/NOTAS_DECISOES.md](docs/NOTAS_DECISOES.md) — justificativas de escolhas e uso de IA, como notas de apresentação.
+- [cliente/](cliente/) — cenário fictício e guia da marca Prumo.
+- [referencias/](referencias/) — artigos fornecidos e pesquisas complementares.
+- [prototipo/aula-1-1-prumo-prototipo-v1.html](prototipo/aula-1-1-prumo-prototipo-v1.html) — demonstração interativa **opcional** da aula 1.1.
+- [links-e-notas.md](links-e-notas.md) — fontes, links e observações de curadoria.
+- [AGENTS.md](AGENTS.md) — instruções operacionais para o Codex.
 
-- **Enunciado oficial:** `avaliacao-tecnica-keeps.pdf`.
-- **Respostas escritas:** `01-briefing.md`, `02-ementa-cronograma.md`, `03-reuniao-com-cliente.md`.
-- **Estrutura curricular:** `referencias/estrutura_curricular.md`.
-- **Matriz vigente:** `docs/MATRIZ_DI_MODULO_1_v1_1.md`; `docs/MATRIZ_DI_MODULO_1_v1.md` é histórica.
-- **Acompanhamento:** `checklist.md` e [Wiki do Notion](https://app.notion.com/p/41e60d80450680bfa717e840777920d1). Não há sincronização automática garantida.
+O arquivo [03-slides-globalizacao.md](03-slides-globalizacao.md) é um template histórico, não a apresentação final. Storyboards em `docs/` são documentos de planejamento e podem diferir dos objetos exportados.
 
-### Roteiros, produção e curadoria
+## Cuidados para a entrega
 
-- **Storyboard do PDF:** `docs/STORYBOARD_PDF_BOAS_VINDAS_v1.md`, ainda sujeito à comparação com o PDF existente.
-- **Storyboard do vídeo:** `docs/STORYBOARD_VIDEO_PANORAMA_ATUAL_v1.md`, **proposta editorial**, não roteiro final aprovado.
-- **Fontes de estudo:** `referencias/Artigo_01.md`, `referencias/Artigo_02.md`, `referencias/Artigo_03.md`; ressalvas em `links-e-notas.md`.
-- **Guia de DI:** `docs/GUIA_DI_KEEPS.md`; catálogo consultivo de referenciais e verificações: `docs/CRITERIOS_DI_PRODUCAO_KEEPS.md`.
-- **Entrega final:** `entrega/`, reservada a versões efetivamente revisadas.
+A apresentação final deve permitir acesso às **três respostas** e aos **três objetos obrigatórios**. Os arquivos de produção, o protótipo, o Figma e as notas metodológicas são complementares. O repositório é privado; seu link isoladamente **não garante acesso à banca**.
 
-### Diretrizes metodológicas e experiência opcional
+Antes de compartilhar: confirmar formato da entrega, permissões dos links, reprodução integral do MP4, leitura dos slides, referências, versões e documento escrito final. Não alterar a visibilidade do repositório sem decisão expressa.
 
-- `docs/REGISTRO_DECISAO_METODOLOGICA.md` — ADDIE iterativo, Primeiros Princípios de Merrill e perspectiva de transferência dos 6Ds.
-- `docs/DECISAO_ESTRATEGIA_AULA_1_1_MULTIMIDIA_v1.md` — decisões de concepção da microaula complementar 1.1: LXD, cenário da Prumo, narrativa conversacional, feedback formativo e triagem preliminar de ferramentas de IA.
-- `AGENTS.md` — instruções operacionais, limites de autorização e hierarquia documental para o Codex.
-
-A **Prumo Gestão Integrada** é fictícia, e o diálogo entre Marina e Lucas é hipótese de roteiro. O protótipo web da aula 1.1 é **opcional**, independente de LMS/LXP e sem gamificação. Áudio sintético é apenas estudo de viabilidade. Os diagnósticos interativos separados para liderança e colaboradores permanecem **suspensos**. Nenhum protótipo pode substituir o PDF, vídeo ou PPT obrigatório.
-
-## Como trabalhar com o Codex
-
-1. Ler `AGENTS.md`, `checklist.md` e o enunciado original.
-2. Conferir o estado atual do repositório, os artefatos existentes e as versões de matriz/storyboard relevantes à tarefa.
-3. Distinguir **existência**, **proposta**, **produção**, **revisão** e **aprovação**. Em conflito documental, registrar a divergência antes de editar.
-4. Preservar originais e limitar alterações ao pedido expresso. Não acrescentar objetos, exercícios, estatísticas, simulações tratadas como dados reais ou recursos multimídia não autorizados.
-5. Informar arquivos alterados, testes efetivamente executados e pendências de revisão humana. Não presumir acesso a Notion, Figma ou plataformas de geração de mídia.
-
-**Exemplo de tarefa:** “Revise pontualmente a apresentação de Globalização, preservando os arquivos originais. Leia `AGENTS.md` e a matriz vigente. Limite-se às alterações autorizadas e informe o resultado das verificações técnicas e visuais.”
-
-## Convenções e limites
-
-Distinguir afirmações provenientes do enunciado, referências verificadas, premissas, decisões do projeto e simulações. Conferir dados, datas, atribuições, acessibilidade e direitos de uso antes da entrega. A existência de um arquivo ou de uma lista marcada não equivale à validação pedagógica, editorial ou técnica do material.
+**Princípio de trabalho:** distinguir evidência verificada, simulação, planejamento, versão existente e aprovação humana. Nenhum arquivo é considerado validado só por estar no repositório.
