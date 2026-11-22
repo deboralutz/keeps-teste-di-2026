@@ -51,9 +51,9 @@ Os seis módulos seguem uma progressão do contexto geral para situações de co
 
 **Conteúdos:** panorama das transformações do trabalho; globalização e seus impactos positivos e negativos; competências para o futuro.
 
-**Experiência prevista:** na aula 1.1, um vídeo breve de acolhimento com avatar apresentador (proposta complementar) introduz o curso. Em seguida, uma interação opcional com Marina e Lucas propõe interpretar uma situação profissional. O PDF de boas-vindas fica disponível para leitura e download como guia de consulta dos seis módulos. A aula 1.2 apresenta o vídeo *Panorama atual*; a aula 1.3 utiliza a apresentação *Globalização*, com a síntese integradora da unidade 1.4 no encerramento. A sequência adicional da aula 1.1 ainda depende de produção e integração.
+**Experiência prevista:** na aula 1.1, uma cena breve em vídeo apresenta Marina e Lucas conversando sobre uma proposta para um cliente. O participante pode consultar a transcrição na mesma tela e, na etapa seguinte da experiência interativa, interpreta a mensagem antes de conhecer suas consequências. O PDF de boas-vindas fica disponível para leitura e download como guia de consulta dos seis módulos. A aula 1.2 apresenta o vídeo *Panorama atual*; a aula 1.3 utiliza a apresentação *Globalização*, com a síntese integradora da unidade 1.4 no encerramento. A sequência adicional da aula 1.1 ainda depende de produção e integração.
 
-**Materiais previstos:** PDF de boas-vindas (preferencialmente uma página, máximo duas), vídeo *Panorama atual* (alvo aproximado de 30 segundos, máximo um minuto) e apresentação *Globalização* (até cinco slides). O vídeo de acolhimento e a interação web são recursos **complementares** da aula 1.1, sem substituir o PDF nem o vídeo da aula 1.2. A unidade 1.4 integra o encerramento do PPT.
+**Materiais previstos:** PDF de boas-vindas (preferencialmente uma página, máximo duas), vídeo *Panorama atual* (alvo aproximado de 30 segundos, máximo um minuto) e apresentação *Globalização* (até cinco slides). O vídeo dramatizado e a interação web são recursos **complementares** da aula 1.1, sem substituir o PDF nem o vídeo da aula 1.2. A unidade 1.4 integra o encerramento do PPT.
 
 #### Módulo 2 — Comunicação no ambiente profissional | 35 minutos
 
@@ -152,9 +152,9 @@ Este anexo reúne as 28 unidades previstas para os seis módulos. Os conteúdos 
 
 #### 1.1. Boas-vindas e apresentação do curso
 
-**Formatos e sequência:** vídeo breve de acolhimento com avatar (proposta complementar) → interação com Marina e Lucas (protótipo complementar) → PDF de boas-vindas para leitura e download (material previsto em uma página, máximo duas).
+**Formatos e sequência:** vídeo dramatizado com Marina e Lucas na primeira tela do protótipo (recurso complementar), com transcrição acessível → interpretação, desdobramento e reflexão (demais telas) → PDF de boas-vindas para leitura e download (material previsto em uma página, máximo duas).
 
-Apresentar a proposta e o percurso de aprendizagem, mobilizar uma reflexão inicial sobre comunicação no trabalho e disponibilizar um guia de consulta dos seis módulos. O vídeo e a interação não substituem o PDF; a sequência integrada ainda depende de implementação.
+Apresentar a proposta e o percurso de aprendizagem, mobilizar uma reflexão inicial sobre comunicação no trabalho e disponibilizar um guia de consulta dos seis módulos. O vídeo e a interação não substituem o PDF; o vídeo foi produzido e o HTML está preparado, mas a publicação integrada depende de disponibilizar o MP4 no repositório e testar seu funcionamento.
 
 #### 1.2. Panorama atual do mercado de trabalho
 

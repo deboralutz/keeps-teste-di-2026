@@ -31,7 +31,7 @@ O arquivo `05.2-video-panorama-atual.mp4.mp4` é uma **cópia idêntica por SHA*
 
 A síntese de competências **1.4** integra o encerramento do PPT; não constitui um quarto objeto obrigatório. A apresentação em PDF é opcional no enunciado.
 
-**Sequência proposta da aula 1.1:** vídeo breve de abertura com avatar (complementar, não produzido) → protótipo Marina/Lucas (complementar) → PDF como guia para consulta/download → vídeo 1.2. A futura **página-manifesto** é destinada aos avaliadores e não integra a aula; os três objetos obrigatórios continuam independentes.
+**Sequência da aula 1.1:** vídeo de abertura com Marina/Lucas, agora inserido na primeira tela do [protótipo v2](prototipo/aula-1-1-prumo-prototipo-v2.html) com transcrição disponível → interpretação e feedback → PDF de consulta/download → vídeo obrigatório 1.2. O **upload do MP4 para `prototipo/midia/` ainda está pendente**, com instruções na [pasta de mídia](prototipo/midia/README.md). A futura **página-manifesto** é destinada aos avaliadores e não integra a aula; os três objetos obrigatórios continuam independentes.
 
 ## Organização do repositório
 
@@ -44,7 +44,7 @@ A síntese de competências **1.4** integra o encerramento do PPT; não constitu
 - [docs/NOTAS_DECISOES.md](docs/NOTAS_DECISOES.md) — justificativas de escolhas e uso de IA, como notas de apresentação.
 - [cliente/](cliente/) — cenário fictício e guia da marca Prumo; [anexo de identidade institucional da Prumo](cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md), destinado à contextualização da proposta aos avaliadores.
 - [referencias/](referencias/) — artigos fornecidos e pesquisas complementares.
-- [prototipo/aula-1-1-prumo-prototipo-v1.html](prototipo/aula-1-1-prumo-prototipo-v1.html) — demonstração interativa **opcional** da aula 1.1.
+- [prototipo/aula-1-1-prumo-prototipo-v2.html](prototipo/aula-1-1-prumo-prototipo-v2.html) — versão atual da experiência interativa **complementar**, com vídeo na primeira tela e transcrição; [v1 preservada](prototipo/aula-1-1-prumo-prototipo-v1.html).
 - [links-e-notas.md](links-e-notas.md) — fontes, links e observações de curadoria.
 - [AGENTS.md](AGENTS.md) — instruções operacionais para o Codex.
 

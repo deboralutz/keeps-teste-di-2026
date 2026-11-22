@@ -117,3 +117,15 @@ A [identidade institucional fictícia](../cliente/ANEXO_PRUMO_IDENTIDADE_INSTITU
 **Distinção de entregas:** o vídeo com avatar **não** substitui o MP4 de *Panorama atual* e o protótipo **não** substitui o PDF. A nova integração ainda é **planejamento**, não curso integral publicado. Priorizar a revisão e disponibilização dos objetos exigidos, respeitando o prazo do teste.
 
 **Documentação associada:** [ementa](../02-ementa-cronograma.md), [ficha da aula 1.1](../curso/modulo-01-o-trabalho-em-transformacao/aula-1-1-boas-vindas-e-apresentacao-do-curso.md), [brief do vídeo com avatar](BRIEF_VIDEO_BOAS_VINDAS_AVATAR_1_1.md), [storyboard do PDF](STORYBOARD_PDF_BOAS_VINDAS_v1.md) e [storyboard da interação](STORYBOARD_INTERFACE_AULA_1_1_v1.md).
+
+## Implementação audiovisual e integração no protótipo (22/11/2026)
+
+A proposta anterior de um vídeo de avatar apresentador foi substituída, com aprovação da responsável, por **uma cena dramatizada com Marina (avatar Sienna) e Lucas (avatar Rafi)**. O vídeo foi produzido no HeyGen, exportado em MP4 e recebido para revisão. Duração medida: **16,6 segundos**. O roteiro preserva a introdução à Prumo, as falas dos personagens e a pergunta final sem antecipar o desfecho.
+
+**Observação:** o vídeo não caracteriza visualmente com clareza se a conversa ocorre por mensagens escritas ou outro canal digital. A versão foi aceita como primeira demonstração, sem alegar que representa com precisão a interface de comunicação.
+
+**Versão 2 do protótipo:** manter quatro telas, integrar o vídeo com controles nativos à Tela 1 e disponibilizar a transcrição literal em elemento expansível. Na Tela 2 permanecem a pergunta e as alternativas; a Tela 3 revela o desdobramento; a Tela 4 remete ao PDF. O vídeo não terá reprodução automática; a transcrição permite continuar quando a mídia não estiver disponível.
+
+**Status da publicação:** o HTML v2 foi preparado no repositório, enquanto o MP4 ainda precisa de upload em `prototipo/midia/01-01-uma-situacao-comum-no-trabalho.mp4`, seguido de teste em ambiente de publicação. A página-manifesto de avaliação é independente dessa experiência. Versão v1 do protótipo preservada.
+
+[Registro audiovisual](REGISTRO_VIDEO_CENA_1_1.md) · [Storyboard v2](STORYBOARD_INTERFACE_AULA_1_1_v2.md) · [Protótipo v2](../prototipo/aula-1-1-prumo-prototipo-v2.html).

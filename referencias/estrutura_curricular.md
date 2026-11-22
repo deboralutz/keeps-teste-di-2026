@@ -11,9 +11,9 @@ Este anexo reúne as 28 unidades previstas para os seis módulos. Os conteúdos 
 
 #### 1.1. Boas-vindas e apresentação do curso
 
-**Formatos e sequência:** vídeo breve de acolhimento com avatar (proposta complementar) → interação com Marina e Lucas (protótipo complementar) → PDF de boas-vindas para leitura e download (material previsto em uma página, máximo duas).
+**Formatos e sequência:** vídeo dramatizado com Marina e Lucas na primeira tela do protótipo (recurso complementar), com transcrição acessível → interpretação, desdobramento e reflexão (demais telas) → PDF de boas-vindas para leitura e download (material previsto em uma página, máximo duas).
 
-Apresentar a proposta e o percurso de aprendizagem, mobilizar uma reflexão inicial sobre comunicação no trabalho e disponibilizar um guia de consulta dos seis módulos. O vídeo e a interação não substituem o PDF; a sequência integrada ainda depende de implementação.
+Apresentar a proposta e o percurso de aprendizagem, mobilizar uma reflexão inicial sobre comunicação no trabalho e disponibilizar um guia de consulta dos seis módulos. O vídeo e a interação não substituem o PDF; o vídeo foi produzido e o HTML está preparado, mas a publicação integrada depende de disponibilizar o MP4 no repositório e testar seu funcionamento.
 
 #### 1.2. Panorama atual do mercado de trabalho
 

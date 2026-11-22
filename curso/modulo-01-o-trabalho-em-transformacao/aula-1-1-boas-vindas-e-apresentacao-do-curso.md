@@ -15,8 +15,8 @@ Apresentar brevemente o curso, convidar o participante a examinar a interpretaç
 
 **Sequência da aula 1.1 (proposta):**
 
-1. **Vídeo breve de boas-vindas com avatar** — acolhimento e convite à experiência, recurso complementar ainda não produzido (HeyGen é possibilidade de produção).
-2. **Interação com Marina e Lucas** — interpretação, desdobramento e reflexão, protótipo web complementar já existente.
+1. **Vídeo dramatizado com Marina e Lucas** — abertura da primeira tela da experiência, produzido no HeyGen com dois avatares (Sienna e Rafi); MP4 recebido, upload para GitHub pendente.
+2. **Interação com Marina e Lucas** — transcrição na Tela 1, interpretação na Tela 2, desdobramento na Tela 3 e reflexão na Tela 4, em protótipo web complementar v2.
 3. **PDF de boas-vindas** — guia dos seis módulos disponível para consulta e download, sem leitura obrigatória para avançar.
 4. **Continuidade** — aula 1.2, *Panorama atual do mercado de trabalho*.
 
@@ -24,7 +24,7 @@ O PDF permanece como objeto exigido no teste; o vídeo de boas-vindas não subst
 
 ## Produção e acompanhamento
 
-**Objeto obrigatório:** PDF de boas-vindas (até duas páginas, preferencialmente uma). **Complementos:** vídeo com avatar proposto e experiência interativa. A integração da sequência ainda não foi concluída; nenhum vídeo de boas-vindas adicional foi produzido.
+**Objeto obrigatório:** PDF de boas-vindas (até duas páginas, preferencialmente uma). **Complementos:** vídeo de abertura já produzido e experiência interativa v2. O HTML está preparado para receber o MP4, mas a integração remota depende de upload e testes.
 
 - [ ] Roteiro específico revisado (conferir documento existente quando houver)
 - [ ] Alinhamento de objetivo, atividade e evidência formativa conferido
@@ -35,10 +35,13 @@ O PDF permanece como objeto exigido no teste; o vídeo de boas-vindas não subst
 - [PDF produzido](../../05.1-boas-vindas-habilidades-do-futuro.pdf)
 - [Storyboard do PDF](../../docs/STORYBOARD_PDF_BOAS_VINDAS_v1.md)
 - [Brief de produção do vídeo de abertura](../../docs/BRIEF_VIDEO_BOAS_VINDAS_AVATAR_1_1.md)
-- [Storyboard da interação](../../docs/STORYBOARD_INTERFACE_AULA_1_1_v1.md)
-- [Protótipo opcional](../../prototipo/aula-1-1-prumo-prototipo-v1.html)
+- [Storyboard da interação atualizado](../../docs/STORYBOARD_INTERFACE_AULA_1_1_v2.md)
+- [Protótipo atualizado (v2)](../../prototipo/aula-1-1-prumo-prototipo-v2.html)
+- [Versão anterior do protótipo (v1)](../../prototipo/aula-1-1-prumo-prototipo-v1.html)
+- [Orientações para o MP4](../../prototipo/midia/README.md)
+- [Registro da produção do vídeo](../../docs/REGISTRO_VIDEO_CENA_1_1.md)
 
-**Observação:** ficha de planejamento atualizada para refletir a nova ordem da aula 1.1; os recursos complementares precisam de teste de integração.
+**Observação:** a cena audiovisual ocupa a primeira etapa do protótipo v2. Sua transcrição estará disponível na mesma tela, sem duplicar o diálogo em balões. O upload do MP4 e os testes de reprodução ainda são pendências.
 
 **Contexto introdutório aprovado para o cenário interativo:**
 

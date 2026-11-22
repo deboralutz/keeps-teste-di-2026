@@ -1,3 +1,5 @@
+> **Histórico (22/11/2026):** este brief descreve uma alternativa anterior de vídeo de apresentador. A decisão aprovada foi substituí-la por uma **cena dramatizada com Sienna/Marina e Rafi/Lucas**, registrada em [REGISTRO_VIDEO_CENA_1_1.md](REGISTRO_VIDEO_CENA_1_1.md). Conservar apenas como referência de concepção; não utilizar para nova produção.
+
 # Brief de produção — Vídeo de boas-vindas com avatar (aula 1.1)
 
 **Projeto:** Habilidades do Futuro — avaliação técnica Keeps  

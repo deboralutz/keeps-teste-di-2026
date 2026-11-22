@@ -12,6 +12,6 @@ Este diretório contém fichas de planejamento por aula; não representa produç
 - [1.3 — Globalização e transformações profissionais](aula-1-3-globalizacao-e-transformacoes-profissionais.md)
 - [1.4 — Competências para o futuro](aula-1-4-competencias-para-o-futuro.md)
 
-**Ordem proposta da aula 1.1:** vídeo breve de acolhimento com avatar (complementar, ainda não produzido) → interação opcional com Marina e Lucas → PDF de boas-vindas como guia consultável → aula 1.2 (*Panorama atual*). Na apresentação aos avaliadores, os arquivos ficam também disponíveis separadamente na página-manifesto; essa página não faz parte da aula.
+**Ordem da aula 1.1:** cena em vídeo com Marina e Lucas (complementar, recebida em MP4) e transcrição na primeira tela → interpretação, consequência e reflexão nas telas seguintes → PDF de boas-vindas como guia consultável → aula 1.2 (*Panorama atual*). O vídeo ainda precisa ser enviado à pasta `prototipo/midia/` e testado no protótipo v2. Na apresentação aos avaliadores, os arquivos ficam também disponíveis separadamente na página-manifesto; essa página não faz parte da aula.
 
 Os três objetos obrigatórios do Módulo 1 estão armazenados na raiz do repositório e são preservados: PDF 1.1, vídeo 1.2 e PPT 1.3. A aula 1.4 é uma síntese incorporada ao PPT, não um quarto objeto independente.

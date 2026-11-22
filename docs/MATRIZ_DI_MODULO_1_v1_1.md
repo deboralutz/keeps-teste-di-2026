@@ -40,8 +40,8 @@
 
 ## 3. Continuidade narrativa entre os objetos
 
-1. **Vídeo breve de acolhimento (complementar, ainda não produzido):** apresenta a proposta e convida o participante a examinar uma situação concreta, sem substituir o vídeo 1.2.
-2. **Interação com Marina e Lucas (complementar):** oferece um problema de interpretação com desdobramento e feedback; sua conclusão conduz ao guia do curso.
+1. **Vídeo dramatizado com Marina e Lucas (complementar, 16,6 s):** apresenta a conversa sem antecipar sua consequência, abrindo a primeira tela do protótipo v2; o MP4 existe, mas ainda depende de upload e teste integrado. Não substitui o vídeo 1.2.
+2. **Interação com Marina e Lucas (complementar):** oferece a transcrição literal na Tela 1, uma interpretação na Tela 2, um desdobramento na Tela 3 e reflexão na Tela 4; sua conclusão conduz ao guia do curso.
 3. **PDF de boas-vindas (objeto obrigatório 1.1):** apresenta o caminho e propõe a pergunta “quais transformações estão modificando a maneira como trabalhamos?”. Permanece consultável/downloadável e não bloqueia a navegação.
 4. **Vídeo Panorama atual (objeto obrigatório 1.2):** oferece uma resposta inicial a partir de tendências de transformação do trabalho, conectando mudanças tecnológicas e competências humanas/digitais.
 5. **Apresentação Globalização (objeto obrigatório 1.3):** aprofunda um processo que transforma mercados e profissões, com oportunidades e riscos.
