@@ -4,7 +4,7 @@ Os materiais obrigatórios **já existem** na raiz do repositório, mas esta pas
 
 ## Itens exigidos
 
-**Respostas escritas (etapas 1 a 3):** `../01-briefing.md`, `../02-ementa-cronograma.md`, `../03-reuniao-com-cliente.md`. Há uma versão editável consolidada preparada fora do repositório, ainda sujeita à revisão final.
+**Respostas escritas (etapas 1 a 3):** `../01-briefing.md`, `../02-ementa-cronograma.md`, `../03-reuniao-com-cliente.md`. Há uma versão editável consolidada preparada fora do repositório; conferir se incorpora **seis módulos, três horas e a progressão curricular atualizada**, antes da exportação final.
 
 **Objetos do Módulo 1 (etapa 5):** `../05.1-boas-vindas-habilidades-do-futuro.pdf`, `../05.2-video-panorama-atual.mp4` (também há link do Pictory em `../05.2-video-panorama-atual.md`), `../05.3-globalizacao-habilidades-do-futuro.pptx`.
 
@@ -12,6 +12,7 @@ Os materiais obrigatórios **já existem** na raiz do repositório, mas esta pas
 
 ## Antes de enviar
 
+- Confirmar se o PDF de boas-vindas exportado exibe seis módulos na sequência correta; se não, revisar a fonte e reexportar preservando a versão anterior.
 - Confirmar revisão humana, abertura dos arquivos e permissão de acesso.
 - Separar com clareza materiais obrigatórios e complementares.
 - Não usar o link de um repositório privado como único acesso para avaliadores sem permissão.
