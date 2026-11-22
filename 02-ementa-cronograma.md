@@ -103,7 +103,7 @@ Uma situação fictícia conecta os módulos. Na abertura, **Marina (Projetos)**
 
 O caso é retomado gradualmente: no **Módulo 2**, para esclarecer a demanda; no **Módulo 3**, para conferir versões e decisões; no **Módulo 4**, para analisar o fluxo de revisão e aprovação; no **Módulo 5**, para avaliar possíveis apoios da IA; e no **Módulo 6**, para propor uma melhoria viável.
 
-A Prumo é um cenário criado para a avaliação técnica, sem diagnóstico realizado. Sua missão, visão e valores estão documentados em [anexo institucional separado]([cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md](https://github.com/deboralutz/keeps-teste-di-2026/blob/main/cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md)) para contextualização dos avaliadores, sem necessidade de incluí-los nas aulas.
+A Prumo é um cenário criado para a avaliação técnica, sem diagnóstico realizado. Sua missão, visão e valores estão documentados em [anexo institucional separado](https://github.com/deboralutz/keeps-teste-di-2026/blob/main/cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md) para contextualização dos avaliadores, sem necessidade de incluí-los nas aulas.
 
 ### 5. Cronograma preliminar de produção — 30 dias
 
