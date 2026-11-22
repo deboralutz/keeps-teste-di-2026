@@ -50,9 +50,11 @@ Para complementar as informações obtidas com o solicitante, consideraria um le
 
 **1. Estruturação e documentação do projeto**
 
-Utilizaria o ambiente de gestão adotado pela empresa, como o Notion, para centralizar o briefing, os dados do cliente, as informações pendentes, as fontes de consulta, o cronograma, os responsáveis e o histórico de decisões.
+Utilizaria um repositório centralizado de documentação e acompanhamento para reunir o briefing, os dados do cliente, as informações pendentes, as fontes de consulta, o cronograma, os responsáveis e o histórico de decisões.
 
-Também estruturaria um Kanban para acompanhar as atividades e páginas específicas para a organização dos conteúdos e materiais do curso.
+O GitHub, utilizado na organização deste projeto, é uma possibilidade para manter os documentos e materiais versionados. A escolha da ferramenta dependeria dos recursos e procedimentos adotados pela empresa.
+
+Também estruturaria um quadro de acompanhamento das atividades, com identificação dos responsáveis, prazos e situação de cada entrega.
 
 **2. Contato e reunião de alinhamento**
 
