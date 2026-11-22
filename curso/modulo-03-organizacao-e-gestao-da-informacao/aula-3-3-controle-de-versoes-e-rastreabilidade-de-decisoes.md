@@ -3,7 +3,7 @@
 **Curso:** Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho  
 **Módulo 3:** Organização e gestão da informação (30 minutos estimados para o módulo inteiro)  
 **Status:** estrutura prevista; aula ainda não roteirizada nem produzida  
-**Fonte curricular:** [Ementa vigente — Parte II](../../../02-ementa-cronograma.md)
+**Fonte curricular:** [Ementa vigente — Parte II](../../02-ementa-cronograma.md)
 
 ## Finalidade no percurso
 
