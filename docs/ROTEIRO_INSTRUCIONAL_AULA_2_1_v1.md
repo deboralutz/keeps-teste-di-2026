@@ -4,11 +4,13 @@
 **Módulo:** 2 — Comunicação no ambiente profissional  
 **Aula:** 2.1 — Comunicação e colaboração entre equipes  
 **Versão:** 1.0 — 23/11/2026  
-**Status:** **proposta de roteiro para revisão pedagógica e editorial**; não produzida, testada ou aprovada como interface.  
+**Status:** **roteiro aprovado pela responsável para implementação em 23/11/2026**; interface ainda não produzida, testada ou aprovada para publicação.  
 **Duração estimada:** 5 minutos (inclui leitura, observação, escolha e feedback; ainda não aferida).  
 **Modalidade proposta:** autoinstrucional e assíncrona; recurso web ilustrativo, sem dependência de LMS, pontuação ou serviços externos.  
 **Fonte de alinhamento:** [matriz de DI do Módulo 2](MATRIZ_DI_MODULO_2_v1.md) e [ementa vigente](../02-ementa-cronograma.md).  
 **Cenário:** [Prumo Gestão Integrada](../cliente/CENARIO_FICTICIO.md), empresa fictícia criada para esta proposta.
+
+**Autorização registrada:** implementar uma primeira versão funcional para revisão, mantendo os textos, alternativas, feedbacks, seis blocos e os limites pedagógicos deste roteiro. Não autoriza publicação, criação de novas mídias ou mudança da ementa. O tempo de cinco minutos será verificado após a produção. Ver [ordem de implementação](ORDEM_IMPLEMENTACAO_AULA_2_1_v1.md).
 
 ## 1. Função pedagógica
 
@@ -182,7 +184,7 @@ atualizado                  antes de encaminhar               autorizada
 - [x] A alternativa mais bem sustentada é B; A e C possuem explicações específicas e não punitivas.
 - [x] Exemplo de passagem de trabalho coerente com o desfecho do Módulo 1, sem inventar autorização.
 - [x] Transição preparada para a aula 2.2.
-- [ ] Revisão editorial e pedagógica humana do texto e das decisões de interface.
+- [x] Revisão editorial e pedagógica do roteiro e autorização de implementação pela responsável em 23/11/2026; o acabamento da interface permanece sujeito a revisão.
 - [ ] Verificar se a aula pode ser realizada em aproximadamente cinco minutos, incluindo leitura e feedback.
 - [ ] Definir o suporte final e testar responsividade, teclado, foco e acessibilidade antes de publicação.
 - [ ] Produzir e revisar a interface; nenhum desses testes ou implementações foi realizado neste roteiro.
@@ -195,4 +197,4 @@ atualizado                  antes de encaminhar               autorizada
 - [Registro de decisão metodológica](REGISTRO_DECISAO_METODOLOGICA.md).
 - [Cenário fictício Prumo](../cliente/CENARIO_FICTICIO.md).
 
-**Delimitação:** este documento é um **roteiro instrucional pronto para revisão**, com texto proposto de interface. **Não é** protótipo implementado, storyboard de produção audiovisual, registro de testes, aprovação de cliente ou evidência de aprendizagem observada.
+**Delimitação:** este documento é um **roteiro instrucional aprovado para implementação**, com textos de interface. **Não é** protótipo implementado, storyboard de produção audiovisual, registro de testes, aprovação de cliente fictício ou evidência de aprendizagem observada.
