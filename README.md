@@ -1,59 +1,67 @@
 # Avaliação técnica — Design Instrucional | Keeps
 
-Projeto: **Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho**.
+**Projeto:** Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho.  
+**Situação:** avaliação técnica **entregue em 23/11/2026**, conforme informado pela autora. A documentação segue disponível para consulta e para o planejamento posterior das aulas.  
+**Cenário didático:** Prumo Gestão Integrada, organização fictícia; não houve diagnóstico aplicado a um cliente real.
 
-Repositório **privado** de trabalho e documentação. A organização fictícia **Prumo Gestão Integrada** foi criada como contexto didático; não há diagnóstico aplicado a uma empresa real.
+> **Estado do GitHub em 23/11/2026:** a branch `main` contém o protótipo **v2** da aula 1.1, com quatro telas, referenciado por `scripts/preparar-site.py`. A autora informa que o Codex realizou nova revisão da progressão pedagógica, mas essa versão **ainda não foi localizada na branch `main`** durante a revisão documental. Não confundir a entrega já realizada com a sincronização posterior do código. Consulte [o checklist](checklist.md).
 
-**Prazo informado:** 23/11/2026, às 9h (Brasília).  
-**Situação deste índice:** 22/11/2026. Confirmar sempre os arquivos e as revisões mais recentes.
+## Entrega realizada
 
-## Comece aqui
-
-O teste solicita respostas às **etapas 1, 2 e 3** e três objetos introdutórios na **etapa 5**. A numeração acompanha o enunciado original, [avaliacao-tecnica-keeps.pdf](avaliacao-tecnica-keeps.pdf). Não há uma etapa 4 adicional no arquivo do teste.
+O exercício abrange as respostas às etapas **1, 2 e 3** e três objetos do Módulo 1, especificados na etapa **5** do enunciado original. A numeração é a do teste; não há uma etapa 4 adicional. O enunciado foi recebido externamente e **não está versionado neste repositório**.
 
 ### Respostas escritas
 
-- [1. Briefing](01-briefing.md) — informações recebidas, lacunas e primeiros passos.
-- [2. Ementa, cronograma e estrutura curricular](02-ementa-cronograma.md) — seis módulos, carga horária estimada de 3 horas e proposta de produção em 30 dias.
-- [3. Reunião com o cliente](03-reuniao-com-cliente.md) — gestão de solicitações de mudança e análise de impacto.
-
-As respostas foram revisadas editorialmente, mas a **versão final consolidada para envio ainda requer sincronização com a ementa de seis módulos e conferência humana**.
+- [1 — Briefing](01-briefing.md): organização da demanda, lacunas e primeiros passos.
+- [2 — Ementa e cronograma](02-ementa-cronograma.md): seis módulos, 28 unidades planejadas, três horas estimadas e cronograma preliminar de produção.
+- [3 — Reunião com o cliente](03-reuniao-com-cliente.md): análise de alterações solicitadas, diálogo consultivo e impactos sobre escopo e prazo.
+- [PDF de apresentação consolidado](Debora-Lutz_Teste-Tecnico_Keeps-Learning_Identidade-Site.pdf): documento de apresentação disponibilizado para a entrega.
 
 ### Objetos obrigatórios — Módulo 1
 
-| Objeto | Arquivo de referência | Situação |
+| Objeto | Arquivo | Situação no repositório |
 | --- | --- | --- |
-| 5.1 — Boas-vindas | [PDF](05.1-boas-vindas-habilidades-do-futuro.pdf) | 1 página; **conferir se a versão exportada mostra os seis módulos na ordem vigente**, além de leitura visual e acessibilidade |
-| 5.2 — Panorama atual | [MP4](05.2-video-panorama-atual.mp4) · [link Pictory](05.2-video-panorama-atual.md) | Vídeo presente; validar reprodução, áudio, legendas e duração no arquivo definitivo |
-| 5.3 — Globalização | [PPTX](05.3-globalizacao-habilidades-do-futuro.pptx) | 5 slides; validar visual, hyperlinks e ordem de leitura |
+| 5.1 — Boas-vindas | [PDF](05.1-boas-vindas-habilidades-do-futuro.pdf) | Arquivo disponível, uma página |
+| 5.2 — Panorama atual | [Vídeo MP4](05.2-video-panorama-atual.mp4) | Arquivo disponível; reprodução e legendas relatadas na [auditoria de montagem](docs/PAGINA_ENTREGA.md) |
+| 5.3 — Globalização | [PPTX](05.3-globalizacao-habilidades-do-futuro.pptx) | Arquivo disponível, cinco slides, incluindo a síntese |
 
-O arquivo `05.2-video-panorama-atual.mp4.mp4` é uma **cópia idêntica por SHA** ao MP4 de referência acima. Foi preservado; não deve ser confundido com uma nova versão. A eventual exclusão fica para decisão posterior.
+O item curricular **1.4 — Competências para o futuro** é a síntese integrada ao último slide de Globalização, **não** um quarto objeto obrigatório. Os relatórios técnicos registram testes realizados nas versões inspecionadas; não constituem validação de revisões posteriores.
 
-A síntese de competências **1.4** integra o encerramento do PPT; não constitui um quarto objeto obrigatório. A apresentação em PDF é opcional no enunciado.
+### Apresentação digital e complemento
 
-**Sequência da aula 1.1:** vídeo de abertura com Marina/Lucas, agora inserido na primeira tela do [protótipo v2](prototipo/aula-1-1-prumo-prototipo-v2.html) com transcrição disponível → interpretação e feedback → PDF de consulta/download → vídeo obrigatório 1.2. O **upload do MP4 para `prototipo/midia/` ainda está pendente**, com instruções na [pasta de mídia](prototipo/midia/README.md). A futura **página-manifesto** é destinada aos avaliadores e não integra a aula; os três objetos obrigatórios continuam independentes.
+- [Página de entrega](https://keeps.deboralutz.com.br/) — manifesto e acesso aos materiais.
+- [Protótipo do Módulo 1](https://keeps.deboralutz.com.br/curso/) — demonstração adicional, não substitui os três objetos.
+- [Código-fonte do protótipo v2](prototipo/aula-1-1-prumo-prototipo-v2.html) — versão atualmente registrada na `main`; [v1 histórica](prototipo/aula-1-1-prumo-prototipo-v1.html).
+- [Documentação da montagem e dos testes](docs/PAGINA_ENTREGA.md) e [auditoria de privacidade](docs/AUDITORIA_PRIVACIDADE.md).
 
-## Organização do repositório
+A página publicada não é um LMS nem representa o curso completo em operação.
 
-- [curso/](curso/README.md) — estrutura completa de seis módulos e 28 fichas de aula; planejamento, não curso integralmente produzido.
-- [checklist.md](checklist.md) — pendências efetivas para o fechamento e envio.
-- [entrega/](entrega/LEIA-ME.md) — área reservada ao pacote final; formato e canal de envio ainda não decididos.
-- [docs/MATRIZ_DI_MODULO_1_v1_1.md](docs/MATRIZ_DI_MODULO_1_v1_1.md) — matriz vigente do Módulo 1, sincronizada com os seis módulos; `v1` é histórica.
-- [referencias/estrutura_curricular.md](referencias/estrutura_curricular.md) — espelho de consulta da estrutura curricular; a fonte vigente é a Parte II da ementa.
-- [docs/](docs/) — roteiros, decisões metodológicas e critérios de revisão.
-- [docs/NOTAS_DECISOES.md](docs/NOTAS_DECISOES.md) — justificativas de escolhas e uso de IA, como notas de apresentação.
-- [cliente/](cliente/) — cenário fictício e guia da marca Prumo; [anexo de identidade institucional da Prumo](cliente/ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md), destinado à contextualização da proposta aos avaliadores.
-- [referencias/](referencias/) — artigos fornecidos e pesquisas complementares.
-- [prototipo/aula-1-1-prumo-prototipo-v2.html](prototipo/aula-1-1-prumo-prototipo-v2.html) — versão atual da experiência interativa **complementar**, com vídeo na primeira tela e transcrição; [v1 preservada](prototipo/aula-1-1-prumo-prototipo-v1.html).
-- [links-e-notas.md](links-e-notas.md) — fontes, links e observações de curadoria.
-- [AGENTS.md](AGENTS.md) — instruções operacionais para o Codex.
+## Organização para continuidade
 
-O arquivo [03-slides-globalizacao.md](03-slides-globalizacao.md) é um template histórico, não a apresentação final. Storyboards em `docs/` são documentos de planejamento e podem diferir dos objetos exportados.
+- [curso/](curso/README.md): seis módulos e 28 fichas de aula. **Módulos 2 a 6 estão planejados; não são aulas integralmente produzidas.** É o ponto de partida para a próxima fase de roteirização.
+- [Ementa vigente](02-ementa-cronograma.md): fonte principal de objetivos, conteúdos, ordem e duração.
+- [Matriz do Módulo 1](docs/MATRIZ_DI_MODULO_1_v1_1.md): matriz da fase de produção do teste; verificar futura revisão da interface antes de tomá-la como retrato da experiência atual.
+- [docs/](docs/): storyboards, decisões metodológicas, notas de produção e relatórios. Versões anteriores são preservadas como **histórico**, não como instruções vigentes.
+- [cliente/](cliente/CENARIO_FICTICIO.md): informações sobre a Prumo, cenário simulado.
+- [referencias/](referencias/LEIA-ME.md): bibliografia de estudo e consultas; [cautelas de curadoria](links-e-notas.md).
+- [checklist.md](checklist.md): separa a entrega encerrada das verificações e do planejamento futuro.
+- [AGENTS.md](AGENTS.md): limites operacionais para eventuais trabalhos com Codex.
 
-## Cuidados para a entrega
+O [espelho curricular](referencias/estrutura_curricular.md) é auxiliar; em divergências, prevalece a Parte II da ementa. Os documentos históricos v1/v2 não devem ser confundidos com uma eventual versão mais recente ainda não sincronizada.
 
-A apresentação final deve permitir acesso às **três respostas** e aos **três objetos obrigatórios**. Os arquivos de produção, o protótipo, o Figma e as notas metodológicas são complementares. O repositório é privado; seu link isoladamente **não garante acesso à banca**.
+## Montagem do site
 
-Antes de compartilhar: confirmar formato da entrega, permissões dos links, reprodução integral do MP4, leitura dos slides, referências, versões e documento escrito final. Não alterar a visibilidade do repositório sem decisão expressa.
+A versão versionada em `main` é montada com Python e Pandoc:
 
-**Princípio de trabalho:** distinguir evidência verificada, simulação, planejamento, versão existente e aprovação humana. Nenhum arquivo é considerado validado só por estar no repositório.
+```sh
+python3 scripts/preparar-site.py ../site-keeps
+python3 -m http.server 8000 --bind 127.0.0.1 --directory ../site-keeps
+```
+
+Utilize um diretório de saída novo. O processo gera a página com os materiais disponíveis e **não publica automaticamente em produção**. Procedimentos e ressalvas: [docs/PAGINA_ENTREGA.md](docs/PAGINA_ENTREGA.md).
+
+## Próxima fase: planejamento das aulas
+
+Retomar as fichas do diretório `curso/` e alinhar objetivos, exemplos, prática, feedback e recursos antes de solicitar implementação. As condições do público, o escopo completo e a carga horária ainda são **premissas da proposta**, não validações de um cliente real.
+
+**Nota de conservação:** versões históricas de interface, matrizes e storyboards permanecem no repositório para rastreabilidade. O template inicial de slides, sem conteúdo aprovado, e a duplicata binária do PDF de apresentação foram retirados da árvore corrente na limpeza documental de 23/11; seu histórico continua disponível no Git.
