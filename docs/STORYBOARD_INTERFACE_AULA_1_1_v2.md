@@ -1,5 +1,7 @@
 # Storyboard de interface — Aula 1.1: O que foi dito? O que foi compreendido?
 
+> **Nota de histórico, 23/11/2026:** este storyboard descreve a interface **v2**, preservada para rastreabilidade. O MP4 citado como pendente **já está versionado** em `prototipo/midia/`. A autora informou uma revisão posterior da progressão feita no Codex, que ainda não foi localizada na branch `main` nesta auditoria. Os registros de upload e de telas abaixo refletem o momento em que a v2 foi escrita; não devem ser usados para descrever uma nova versão sem inspecioná-la.
+
 **Projeto:** Avaliação técnica — Designer Instrucional | Keeps  
 **Curso:** Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho  
 **Módulo:** 1 — O trabalho em transformação  
