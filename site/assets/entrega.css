@@ -66,6 +66,38 @@ main:focus { outline: none; }
 .reading .document-nav { padding: 1rem 1.15rem; border: 1px solid var(--line); }
 .reading .document-nav ul { margin: 0; padding-left: 1.3rem; }
 
+.curriculum-index p { display: flex; flex-wrap: wrap; gap: .55rem; margin: 1rem 0 0; }
+.curriculum-index a {
+  padding: .42rem .72rem;
+  border: 1px solid var(--line);
+  border-radius: .35rem;
+  background: #fff;
+  font-size: .91rem;
+  font-weight: 650;
+}
+.curriculum-module { margin-block: 2rem 2.8rem; scroll-margin-top: 1rem; }
+.curriculum-module h3 {
+  padding-top: .95rem;
+  border-top: 2px solid var(--plum);
+  color: var(--plum);
+}
+.curriculum-module > p { margin-block: .5rem .8rem; }
+.reading .curriculum-table { margin-top: 1rem; font-size: .95rem; line-height: 1.48; }
+.reading .curriculum-table :is(th, td) { padding: .7rem .85rem; vertical-align: top; }
+.curriculum-table thead th { background: var(--plum); color: #fff; }
+.curriculum-table tbody th { color: var(--plum); background: #f1e9ef; }
+.curriculum-table tbody td { background: #fffdfb; }
+.curriculum-table td p { margin: 0; }
+.curriculum-table td p + p { margin-top: .65rem; }
+
+@media (max-width: 36rem) {
+  .reading .curriculum-table,
+  .curriculum-table tbody, .curriculum-table tr, .curriculum-table :is(td, th) { display: block; }
+  .curriculum-table :is(thead, colgroup) { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .curriculum-table tbody tr + tr { margin-top: .55rem; }
+  .reading .curriculum-table tbody td { border-top: 0; }
+}
+
 @media (max-width: 46rem) {
   .hero, .collection { grid-template-columns: minmax(0, 1fr); }
   .hero { align-items: start; }
