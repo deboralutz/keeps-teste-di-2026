@@ -41,6 +41,7 @@ A página publicada não é um LMS nem representa o curso completo em operação
 - [curso/](curso/README.md): seis módulos e 28 fichas de aula. **Módulos 2 a 6 estão planejados; não são aulas integralmente produzidas.** É o ponto de partida para a próxima fase de roteirização.
 - [Ementa vigente](02-ementa-cronograma.md): fonte principal de objetivos, conteúdos, ordem e duração.
 - [Matriz do Módulo 1](docs/MATRIZ_DI_MODULO_1_v1_1.md): matriz da fase de produção do teste; verificar futura revisão da interface antes de tomá-la como retrato da experiência atual.
+- [Matriz do Módulo 2](docs/MATRIZ_DI_MODULO_2_v1.md): progressão de cinco aulas, atividades, feedbacks e tempos estimados, consolidada para iniciar a roteirização.
 - [docs/](docs/): storyboards, decisões metodológicas, notas de produção e relatórios. Versões anteriores são preservadas como **histórico**, não como instruções vigentes.
 - [cliente/](cliente/CENARIO_FICTICIO.md): informações sobre a Prumo, cenário simulado.
 - [referencias/](referencias/LEIA-ME.md): bibliografia de estudo e consultas; [cautelas de curadoria](links-e-notas.md).
