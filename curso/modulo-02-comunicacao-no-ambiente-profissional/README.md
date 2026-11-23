@@ -15,6 +15,6 @@ Este diretório contém fichas de planejamento por aula; não representa produç
 - [2.4 — Comunicação assertiva e alinhamento de expectativas](aula-2-4-comunicacao-assertiva-e-alinhamento-de-expectativas.md)
 - [2.5 — Aplicação prática: reformulando uma solicitação](aula-2-5-aplicacao-pratica-reformulando-uma-solicitacao.md)
 
-**Próxima tarefa:** roteirizar a aula 2.1 com base na matriz, conferindo suas ligações com a aula 1.1 e com as atividades 2.2–2.5. O roteiro deve preservar a distinção entre informar, interpretar, confirmar e autorizar uma entrega.
+**Roteiro da aula 2.1:** [versão 1.0 para revisão](../../docs/ROTEIRO_INSTRUCIONAL_AULA_2_1_v1.md). Detalha seis blocos em cinco minutos estimados, incluindo atividade e feedback por alternativa. **Próxima tarefa:** revisar editorial e pedagogicamente esse roteiro, testar sua duração e decidir o formato de produção. Não implementar antes da revisão.
 
 Os materiais e as práticas deste módulo permanecem como proposta curricular, sujeitos a roteirização, validação e produção.
