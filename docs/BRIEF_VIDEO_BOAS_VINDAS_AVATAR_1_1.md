@@ -1,5 +1,7 @@
 > **Histórico (22/11/2026):** este brief descreve uma alternativa anterior de vídeo de apresentador. A decisão aprovada foi substituí-la por uma **cena dramatizada com Sienna/Marina e Rafi/Lucas**, registrada em [REGISTRO_VIDEO_CENA_1_1.md](REGISTRO_VIDEO_CENA_1_1.md). Conservar apenas como referência de concepção; não utilizar para nova produção.
 
+> **Registro histórico (23/11/2026):** este brief foi escrito antes da produção. A cena com Marina e Lucas **foi produzida** e está versionada em `prototipo/midia/01-01-uma-situacao-comum-no-trabalho.mp4`. A indicação abaixo de material 'ainda não produzido' pertence à fase inicial e não é uma pendência atual.
+
 # Brief de produção — Vídeo de boas-vindas com avatar (aula 1.1)
 
 **Projeto:** Habilidades do Futuro — avaliação técnica Keeps  
