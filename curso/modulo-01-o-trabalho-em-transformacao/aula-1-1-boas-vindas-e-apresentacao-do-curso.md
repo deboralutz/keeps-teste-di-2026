@@ -2,7 +2,7 @@
 
 **Curso:** Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho  
 **Módulo 1:** O trabalho em transformação (20 minutos estimados para o módulo inteiro)  
-**Status:** planejamento da aula; objeto associado já existente quando indicado  
+**Status em `main` (23/11/2026):** PDF obrigatório e protótipo v2 complementar disponíveis; nova revisão da progressão relatada pela autora, ainda não localizada na branch  
 **Fonte curricular:** [Ementa vigente — Parte II](../../02-ementa-cronograma.md)
 
 ## Finalidade no percurso
@@ -13,9 +13,9 @@ Acolher e orientar o participante, apresentar a proposta e os seis módulos do c
 
 Apresentar brevemente o curso, convidar o participante a examinar a interpretação de uma mensagem entre Marina e Lucas e disponibilizar o guia do percurso de aprendizagem.
 
-**Sequência da aula 1.1 (proposta):**
+**Sequência documentada na versão v2 do GitHub (histórica diante da revisão posterior relatada):**
 
-1. **Vídeo dramatizado com Marina e Lucas** — abertura da primeira tela da experiência, produzido no HeyGen com dois avatares (Sienna e Rafi); MP4 recebido, upload para GitHub pendente.
+1. **Vídeo dramatizado com Marina e Lucas** — abertura da primeira tela da experiência, produzido no HeyGen com dois avatares (Sienna e Rafi); MP4 já versionado em `prototipo/midia/`.
 2. **Interação com Marina e Lucas** — transcrição na Tela 1, interpretação na Tela 2, desdobramento na Tela 3 e reflexão na Tela 4, em protótipo web complementar v2.
 3. **PDF de boas-vindas** — guia dos seis módulos disponível para consulta e download, sem leitura obrigatória para avançar.
 4. **Continuidade** — aula 1.2, *Panorama atual do mercado de trabalho*.
@@ -24,7 +24,7 @@ O PDF permanece como objeto exigido no teste; o vídeo de boas-vindas não subst
 
 ## Produção e acompanhamento
 
-**Objeto obrigatório:** PDF de boas-vindas (até duas páginas, preferencialmente uma). **Complementos:** vídeo de abertura já produzido e experiência interativa v2. O HTML está preparado para receber o MP4, mas a integração remota depende de upload e testes.
+**Objeto obrigatório:** PDF de boas-vindas (até duas páginas, preferencialmente uma). **Complementos:** vídeo de abertura já produzido e experiência interativa v2. O MP4 está versionado e a integração da v2 foi descrita nos testes da página de entrega. Uma revisão posterior do código deve ser verificada separadamente.
 
 - [ ] Roteiro específico revisado (conferir documento existente quando houver)
 - [ ] Alinhamento de objetivo, atividade e evidência formativa conferido
@@ -41,7 +41,7 @@ O PDF permanece como objeto exigido no teste; o vídeo de boas-vindas não subst
 - [Orientações para o MP4](../../prototipo/midia/README.md)
 - [Registro da produção do vídeo](../../docs/REGISTRO_VIDEO_CENA_1_1.md)
 
-**Observação:** a cena audiovisual ocupa a primeira etapa do protótipo v2. Sua transcrição estará disponível na mesma tela, sem duplicar o diálogo em balões. O upload do MP4 e os testes de reprodução ainda são pendências.
+**Observação:** a cena audiovisual ocupa a primeira etapa do protótipo v2. Sua transcrição estará disponível na mesma tela, sem duplicar o diálogo em balões. O upload já ocorreu; os testes registrados correspondem à versão então inspecionada, sem confirmar a revisão de progressão posterior.
 
 **Contexto introdutório aprovado para o cenário interativo:**
 
