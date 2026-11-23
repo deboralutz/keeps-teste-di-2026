@@ -160,8 +160,11 @@ def render_response(markdown, title, back_link=("../../#respostas", "← Voltar 
         part_one = "## Parte I — Apresentação do curso e cronograma"
         markdown = replace_once(markdown, part_one, part_one + " {#ementa-cronograma}")
 
+    command = ["pandoc", "--from=markdown-raw_html", "--to=html5", "--wrap=none"]
+    if has_curriculum:
+        command.extend(("--lua-filter", str(ROOT / "scripts/estrutura-curricular.lua")))
     body = subprocess.run(
-        ["pandoc", "--from=markdown-raw_html", "--to=html5", "--wrap=none"],
+        command,
         input=markdown, capture_output=True, text=True, encoding="utf-8", check=True,
     ).stdout
     if has_curriculum:
