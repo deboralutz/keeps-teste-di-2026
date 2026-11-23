@@ -1,10 +1,12 @@
 # Instruções para o Codex — Projeto Keeps | Habilidades do Futuro
 
+> **Status pós-entrega (23/11/2026):** a avaliação técnica foi enviada, conforme informado pela autora. O objetivo das próximas tarefas é manter a documentação e planejar as aulas, não reabrir o teste. Em `main`, a versão da interface ainda é `prototipo/aula-1-1-prumo-prototipo-v2.html`, integrada por `scripts/preparar-site.py`. Uma revisão posterior de progressão foi relatada, mas **não foi localizada nesta branch**. Verificar antes de editar, reverter ou publicar. Consulte `README.md` e `checklist.md`.
+
 ## Papel
 Atuar como apoio técnico à produção do projeto. Implementar artefatos definidos e revisados pelo responsável pelo Design Instrucional. Não substituir decisões pedagógicas, editoriais ou de escopo.
 
 ## Antes de qualquer implementação
-1. Ler `AGENTS.md`, `checklist.md`, `docs/GUIA_DI_KEEPS.md` e o briefing original `avaliacao-tecnica-keeps.pdf` antes de atuar. `checklist.md` e `README.md` são retratos de andamento e podem estar desatualizados; confrontar com os arquivos existentes.
+1. Ler `AGENTS.md`, `checklist.md`, `docs/GUIA_DI_KEEPS.md` e o enunciado original fornecido pela autora, quando acessível. O PDF do enunciado não está versionado neste repositório. `checklist.md` e `README.md` são retratos de andamento e podem estar desatualizados; confrontar com os arquivos existentes.
 2. Identificar a versão em uso da estrutura curricular, da matriz de alinhamento e do roteiro do objeto solicitado.
 3. Se houver conflito entre versões ou lacunas materiais, registrar a divergência e pedir decisão antes de alterar o conteúdo.
 4. Tratar público-alvo, empresa fictícia e necessidades organizacionais como premissas/simulação, exceto quando houver registro explícito de aprovação.
@@ -17,17 +19,14 @@ Atuar como apoio técnico à produção do projeto. Implementar artefatos defini
 - O módulo 1 inclui uma síntese integradora de competências para o futuro, mas isso não autoriza criar automaticamente um quarto objeto.
 - Na etapa de ementa, o enunciado não exige critérios de avaliação nem de certificação.
 
-## Registros de decisão e seus limites — 21/11/2026
+## Decisões pedagógicas e histórico
 
-- **Direção metodológica:** `docs/REGISTRO_DECISAO_METODOLOGICA.md`. ADDIE é referência iterativa de desenvolvimento; os Primeiros Princípios de Merrill orientam o uso de problemas significativos e retomadas; 6Ds é uma perspectiva de aplicação profissional. Não declarar implementação, transferência ou avaliação reais do curso.
-- **Estratégia e triagem multimídia da aula 1.1:** `docs/DECISAO_ESTRATEGIA_AULA_1_1_MULTIMIDIA_v1.md`. É uma **decisão de concepção** para protótipo complementar, com roteiro, feedback e recursos multimídia ainda sujeitos a validação; **não altera** a ementa, a matriz, os storyboards nem os três objetos obrigatórios.
-- **Protótipo opcional 1.1:** microaula web autoinstrucional e responsiva, com Learning Experience Design (LXD), aprendizagem baseada em cenário profissional recorrente, interface conversacional/editorial, revelação progressiva e feedback textual formativo. **Sem gamificação** (pontos, medalhas, moedas, rankings ou recompensas decorativas); sem presumir LMS, LXP, SCORM, rastreamento, adaptação automática ou medição de aprendizagem.
-- **Cena-base, ainda hipótese de roteiro:** na Prumo Gestão Integrada (empresa fictícia), Marina pergunta se a proposta revisada pode ser enviada, e Lucas informa apenas que atualizou o arquivo na plataforma. Apresentar primeiro a conversa; depois solicitar interpretação sem pontuação; só então revelar que a proposta foi enviada enquanto a revisão final ainda estava pendente. Distinguir o que foi dito das inferências; não atribuir culpa. Enunciado, feedback, duração e telas dependem de revisão antes de implementar.
-- **Continuidade pedagógica:** situação profissional opcional em 1.1 → vídeo obrigatório 1.2 sobre transformações tecnológicas e competências humanas/digitais → PPT obrigatório 1.3 sobre globalização. O vídeo deve ser compreensível mesmo sem o protótipo 1.1; não forçar o exemplo da Prumo a explicar globalização.
-- **Áudio da aula 1.1:** voz sintética é somente estudo de viabilidade. Se aprovada, oferecer controle de reprodução/pausa, sem autoplay, manter o texto integral visível e evitar entonação que induza a interpretação. Não criar vídeo adicional para 1.1 apenas para demonstrar tecnologia.
-- **Ferramentas em estudo, não contratadas ou autorizadas para produção:** `Pictory Motion Studio` é preferência de teste para o vídeo obrigatório 1.2; `HeyGen Voice`, para eventual áudio da aula 1.1; `Gamma`, alternativa para apresentação. O registro de 21/11 menciona ausência de créditos em InVideo e Learning Studio AI. Não pressupor acesso do Codex às conexões, saldo atual ou viabilidade técnica. Conferir recursos, licenças, créditos, preço, voz, exportação e prévia antes de propor uso; **não consumir créditos nem renderizar material pago sem autorização explícita**.
-
-Estas decisões orientam propostas e verificações no escopo de cada objeto. Nenhuma delas autoriza iniciar espontaneamente o protótipo, gerar mídia, ampliar o curso ou substituir entregas.
+- **Currículo proposto vigente:** `02-ementa-cronograma.md`, seis módulos, 28 unidades e três horas estimadas; não equivale a curso completo ou diagnóstico real. `referencias/estrutura_curricular.md` é espelho auxiliar.
+- **Módulo 1:** três objetos obrigatórios entregues: PDF de Boas-vindas, MP4 Panorama atual e PPTX Globalização; a síntese 1.4 integra o último slide.
+- **Protótipo da Prumo:** demonstração adicional da aula 1.1, com Marina e Lucas. Preservar o cenário e a leitura sem julgamento, sem pontuação ou coleta de respostas. O MP4 complementar já está versionado em `prototipo/midia/`.
+- **Referenciais:** ADDIE iterativo, Primeiros Princípios de Merrill como orientação para cenários e 6Ds como perspectiva de aplicação; não alegar transferência, avaliação com público real ou conformidade de acessibilidade não testada.
+- **Histórico instrucional:** `docs/REGISTRO_DECISAO_METODOLOGICA.md`, `docs/MATRIZ_DI_MODULO_1_v1_1.md` e `docs/STORYBOARD_INTERFACE_AULA_1_1_v2.md`. Essas versões retratam fases anteriores. Ao localizar eventual revisão mais recente, comparar conteúdos e atualizar os documentos de controle em tarefa específica.
+- **Uso de IA:** apoio técnico e editorial, sem substituir decisões pedagógicas da autora; não gerar mídia paga nem alterar escopo sem autorização.
 
 ## O que pode fazer
 - Transformar roteiro validado em HTML/CSS/JavaScript e componentes reutilizáveis, quando solicitado.
@@ -56,33 +55,18 @@ Estas decisões orientam propostas e verificações no escopo de cada objeto. Ne
 ## Relatório de conclusão de cada tarefa
 Informar: (a) arquivos criados/alterados; (b) requisitos atendidos; (c) testes executados e seus resultados; (d) pontos que exigem revisão humana. Não declarar testes ou validações que não tenham sido feitos.
 
-## Caminhos e versões vigentes — 22/11/2026
+## Referências operacionais após a entrega
 
-- Fonte do escopo obrigatório: `avaliacao-tecnica-keeps.pdf`.
-- Ementa e estrutura curricular vigentes: `02-ementa-cronograma.md` (Parte II, seis módulos, 3 horas). `referencias/estrutura_curricular.md` é um espelho sincronizado para consulta.
-- Matriz **vigente do Módulo 1**: `docs/MATRIZ_DI_MODULO_1_v1_1.md`, sincronizada com o percurso de seis módulos em 22/11; `v1.md` é histórico. A matriz não cobre detalhadamente os Módulos 2 a 6.
-- Storyboard do PDF: `docs/STORYBOARD_PDF_BOAS_VINDAS_v1.md`, ainda sujeito à comparação e aprovação.
-- Storyboard **proposto** do vídeo: `docs/STORYBOARD_VIDEO_PANORAMA_ATUAL_v1.md`; narração, locução e duração ainda dependem de validação.
-- Decisões de concepção: `docs/REGISTRO_DECISAO_METODOLOGICA.md` e `docs/DECISAO_ESTRATEGIA_AULA_1_1_MULTIMIDIA_v1.md`. A segunda contém a triagem de ferramentas e limites do protótipo complementar.
-- Guia de apoio: `docs/GUIA_DI_KEEPS.md`; catálogo consultivo: `docs/CRITERIOS_DI_PRODUCAO_KEEPS.md`.
-- Fontes: `referencias/Artigo_01.md`, `referencias/Artigo_02.md`, `referencias/Artigo_03.md`; verificar ressalvas em `links-e-notas.md`.
-- Estado de trabalho: `checklist.md`, snapshot da [Wiki do Notion](https://app.notion.com/p/41e60d80450680bfa717e840777920d1). Não presumir sincronização automática.
+1. Ler a ementa (`02-ementa-cronograma.md`) antes de desenvolver aulas. As fichas de `curso/` são **planejamento**, não implementação concluída.
+2. Conferir a branch, o commit e os arquivos de entrada. A versão em `main` do protótipo é v2, com montagem via `scripts/preparar-site.py`; não inferir que uma revisão local, não versionada, já está publicada.
+3. Preservar os três objetos obrigatórios e o PDF consolidado. A versão inicial da interface, a matriz v1 e os storyboards anteriores são históricos válidos.
+4. Para a próxima fase, desenhar objetivo, conteúdo, exemplo, atividade, feedback e requisitos de acessibilidade por aula. Não converter um esqueleto de ficha em conteúdo aprovado.
+5. A Prumo é fictícia. Não apresentar participantes, necessidades, aprovação de cliente ou desempenho como reais.
+6. Não presumir acesso do Codex a Notion, Figma, Pictory ou outras ferramentas; verificar integrações e permissões.
+7. O enunciado original não consta na árvore Git. Caso seja necessário relê-lo, utilizar a cópia fornecida pela autora, sem inventar um caminho local inexistente.
 
-## Proteger materiais já existentes
+## Hierarquia de decisões
 
-- O PDF `05.1-boas-vindas-habilidades-do-futuro.pdf` **já existe**. Verificar se contém os seis módulos na ordem curricular vigente; o storyboard textual foi atualizado em 22/11, mas o arquivo exportado não foi substituído. Comparar com storyboard e fonte de diagramação antes de editar; preservar a versão anterior.
-- O **vídeo Panorama atual** já possui um MP4 em `05.2-video-panorama-atual.mp4` e link complementar em `05.2-video-panorama-atual.md`; duração, áudio, sincronização e legendas permanecem pendentes de conferência humana. O storyboard específico é `docs/STORYBOARD_VIDEO_PANORAMA_ATUAL_v1.md` (documento de planejamento, não prova de validação).
-- O **PPT Globalização** está no repositório em `05.3-globalizacao-habilidades-do-futuro.pptx`. Preservar o arquivo original; os ajustes documentados e sua conclusão efetiva exigem conferência do PPTX, sem recriação integral. Preservar identidade visual, sequência, diagramas, quatro cartões finais e limite de cinco slides. Alterações solicitadas: título/função de fechamento do slide 5; pergunta final ligada à entrega com pessoas/serviços de diferentes países; contraste de “Possíveis impactos” no slide 4; referências legíveis com hyperlinks; precisão sobre o Fundo Europeu de Ajustamento à Globalização; e verificação da estrutura de leitura/acessibilidade. Preservar originais e gerar revisão identificável; não afirmar que ajustes foram executados enquanto não houver arquivo revisado e validado.
-- `03-slides-globalizacao.md` ainda é um **template desatualizado** e não descreve a apresentação já produzida. Conferir o arquivo PPTX real e a instrução específica da revisão antes de qualquer edição.
-- `01-briefing.md`, `02-ementa-cronograma.md` e `03-reuniao-com-cliente.md` são versões de trabalho. Conferir se o documento consolidado externo incorpora a versão de seis módulos e três horas antes de exportar o arquivo escrito final.
-- Diagnósticos interativos para líderes/colaboradores: **suspensos**. O **protótipo web da aula 1.1** é **opcional e complementar**, não substitui o PDF nem constitui nova entrega obrigatória. O áudio sintético também é opcional. Priorizar as respostas finais, o PDF, o vídeo e a revisão do PPT até **23/11/2026, às 9h (horário de Brasília)**.
+Prevalece o enunciado do exercício para a avaliação já realizada. Para planejamento futuro, partir da ementa vigente e dos objetivos registrados; usar matriz, storyboards e registros de decisão apenas dentro de seus escopos e versões. Em divergência, explicar o conflito em vez de reconciliar silenciosamente. O `checklist.md` distingue pendências técnicas pós-entrega de novas atividades de desenvolvimento.
 
-## Hierarquia para execução
-
-1. Prevalece o enunciado oficial da Keeps.
-2. Depois, a ementa e estrutura curricular propostas e, para cada objeto, a matriz vigente, os artefatos existentes e o storyboard aprovado quando houver. Documento identificado como **proposta** não se torna aprovado pela simples presença no repositório.
-3. Registros metodológicos e decisões da aula 1.1 orientam **somente** seu contexto explicitamente indicado; guia e catálogo são referências de decisão e revisão, **não** autorização de escopo adicional.
-4. Se o material já estiver produzido ou houver versões conflitantes, comparar, documentar discrepâncias e pedir decisão antes de editar.
-5. Notion e Figma são referências externas; o Codex não deve presumir acesso ou sincronização. Não inventar validações, pesquisas, dados ou resultados.
-
-Antes de implementar, declarar arquivos de entrada, versão e arquivos que serão preservados. Em caso de divergência entre conteúdo e documentação de status, apresentar a diferença sem mudar automaticamente o checklist ou o README. Após a tarefa, informar alterações e testes efetivamente realizados.
+**Antes de atuar:** verificar status e diff, delimitar os arquivos afetados e preservar os materiais publicados. **Depois:** informar o que mudou, testes realmente executados, limitações e itens que dependem de revisão humana.
