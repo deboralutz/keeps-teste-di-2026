@@ -175,9 +175,11 @@ main:focus { outline: none; }
 }
 .footer p { max-width: 70ch; margin: 0; }
 .footer a { display: inline-flex; align-items: center; min-height: 44px; }
+.footer nav { display: flex; flex-wrap: wrap; gap: 0 1.15rem; }
 
 .reading h1, .reading h2 { font-family: Georgia, serif; font-weight: 500; }
 .reading { max-width: 52rem; padding-block: 2.5rem 3.75rem; overflow-wrap: anywhere; }
+.reading-footer { max-width: 52rem; }
 .reading h1 { font-size: clamp(2.2rem, 5.2vw, 4.45rem); line-height: 1.04; margin: .75rem 0 1.4rem; letter-spacing: -.035em; }
 .reading h2 { font-size: clamp(1.58rem, 3vw, 2.25rem); line-height: 1.17; margin: 2.2rem 0 .8rem; }
 .reading h3, .reading h4 { line-height: 1.23; margin: 1.55rem 0 .65rem; }

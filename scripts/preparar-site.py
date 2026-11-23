@@ -33,6 +33,7 @@ RESPONSES = [
 
 SITE_FILES = [
     "index.html",
+    "privacidade/index.html",
     "assets/entrega.css",
     "assets/prumo.css",
     "assets/panorama.js",
@@ -111,6 +112,7 @@ def integrate_v2():
     changes = [
         ("</head>", '<link rel="stylesheet" href="../assets/prumo.css">\n</head>'),
         ('<body>', '<body class="lesson-v2">\n<a class="skip-link" href="#main-content">Ir para o conteúdo</a>'),
+        ('\n</div>\n<script>', '\n<footer class="module-footer"><a href="../privacidade/">Privacidade</a></footer>\n</div>\n<script>'),
         (original_header, course_navigation("")),
         ('<main class="mainpanel" id="main-content" tabindex="-1" aria-live="off"></main>',
          '<main class="mainpanel" id="main-content" tabindex="-1"><noscript>'
@@ -188,6 +190,7 @@ def render_response(markdown, title, back_link=("../../#respostas", "← Voltar 
   <main class="inner reading" id="conteudo" tabindex="-1">
 {body}
   </main>
+  <footer class="inner footer reading-footer"><a href="../../privacidade/">Privacidade</a></footer>
 </body>
 </html>
 """
