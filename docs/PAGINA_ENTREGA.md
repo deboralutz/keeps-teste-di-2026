@@ -1,5 +1,7 @@
 # Página de entrega e protótipo do Módulo 1
 
+> **Registro pós-entrega (23/11/2026):** a autora informou que a avaliação já foi enviada. Este documento descreve a montagem e os testes realizados na versão então inspecionada, não uma nova homologação da revisão de progressão mencionada após a entrega. A branch `main` ainda usa o protótipo v2 no script de montagem; verificar a sincronização antes de novos deploys.
+
 O manifesto reúne as respostas das etapas 1, 2 e 3 e os três objetos obrigatórios. A área `/curso/` apresenta o Módulo 1 da Prumo Gestão Integrada, cenário fictício da avaliação técnica. O percurso curricular de referência tem seis módulos e três horas estimadas.
 
 ## Executar localmente
@@ -13,11 +15,11 @@ python3 -m http.server 8000 --bind 127.0.0.1 --directory ../site-keeps
 
 Abra [o manifesto](http://127.0.0.1:8000/) ou [o início do Módulo 1](http://127.0.0.1:8000/curso/). Use um diretório de destino novo para cada montagem. O servidor usa somente a pasta gerada.
 
-A montagem deriva a aula 1.1 do HTML v2 e converte as três respostas Markdown em HTML. Os links do briefing e da ementa para a Prumo apontam para `/respostas/cenario-ficticio/`, uma síntese pública de seu perfil, identidade institucional e papel no curso. Os demais links para anexos internos ficam como texto. Duas referências públicas da ementa tiveram a sintaxe de link normalizada na renderização. O script copia os objetos em seus formatos originais e inclui somente os arquivos necessários ao site. A pasta gerada roda em um servidor estático, sem dependências de execução no servidor ou no navegador.
+Na versão registrada em `main` em 23/11, a montagem deriva a aula 1.1 do HTML v2 e converte as três respostas Markdown em HTML. Os links do briefing e da ementa para a Prumo apontam para `/respostas/cenario-ficticio/`, uma síntese pública de seu perfil, identidade institucional e papel no curso. Os demais links para anexos internos ficam como texto. Duas referências públicas da ementa tiveram a sintaxe de link normalizada na renderização. O script copia os objetos em seus formatos originais e inclui somente os arquivos necessários ao site. A pasta gerada roda em um servidor estático, sem dependências de execução no servidor ou no navegador.
 
 ## Fontes e conferência
 
-Foram conferidos `AGENTS.md`, `README.md`, `checklist.md`, o guia de DI, a ementa, seu espelho curricular, a matriz v1.1 e os storyboards de Boas-vindas, Panorama atual e interface v2. Para Globalização, a referência implementada foi o PPTX existente. O esquema preliminar na matriz e o template `03-slides-globalizacao.md` são documentos de planejamento.
+Foram conferidos `AGENTS.md`, `README.md`, `checklist.md`, o guia de DI, a ementa, seu espelho curricular, a matriz v1.1 e os storyboards de Boas-vindas, Panorama atual e interface v2. Para Globalização, a referência implementada foi o PPTX existente. O esquema preliminar na matriz é histórico. O antigo template `03-slides-globalizacao.md` foi retirado da árvore corrente por estar ultrapassado; seu conteúdo continua no histórico do Git.
 
 | Critério | Resultado e evidência |
 | --- | --- |
@@ -34,16 +36,19 @@ Foram conferidos `AGENTS.md`, `README.md`, `checklist.md`, o guia de DI, a ement
 - **Teclado e fluxo.** Foram verificadas a navegação por Tab, Enter, Espaço e setas, a indicação da aula atual, o foco na mudança de tela ou slide, a seleção sem resposta predefinida, a retenção da escolha ao voltar e a revelação do desfecho somente após escolher uma interpretação. A síntese abre pelo endereço `/curso/globalizacao/#sintese`. Os cinco slides e seus textos ficam disponíveis mesmo com JavaScript desativado.
 - **Mídia e downloads.** Os dois MP4 carregaram, pausaram, aceitaram busca e reproduziram até o fim em Chromium com velocidade acelerada. O navegador reconheceu a faixa WebVTT de Panorama atual e seus dez trechos. Ambos os vídeos foram decodificados integralmente com FFmpeg. Com os MP4 bloqueados no navegador, as alternativas textuais abriram automaticamente. Os downloads de PDF e PPTX foram comparados com os arquivos originais.
 
-## Pendências para a entrega à banca
+## Verificações anotadas antes da entrega — histórico
+
+Os pontos abaixo foram registrados durante a revisão anterior ao envio. Permanecem como ressalvas de qualidade para eventual reuso, **não como tarefas que impeçam ou reabram a entrega realizada**.
 
 - A responsável pelo DI deve conferir a versão escrita consolidada externa e decidir como disponibilizá-la. O manifesto usa as três respostas atualmente versionadas.
 - Conferir a acessibilidade do PDF de Boas-vindas com tecnologia assistiva. A edição v2 mantém texto selecionável e a ordem de leitura, e o arquivo segue sem marcação estrutural.
 - Revisar a locução e a sincronização das legendas com escuta humana em velocidade normal. Conferir acessibilidade do PPTX no PowerPoint e das páginas com tecnologia assistiva e em navegador móvel real.
 - Confirmar a liberação dos materiais e definir domínio e permissões de acesso à banca. Após publicação autorizada, validar a experiência no endereço definitivo e nas condições de acesso dos avaliadores.
 
-## Cloudflare Pages com domínio personalizado
+## Cloudflare Pages com domínio personalizado — procedimento de publicação registrado
 
-Quando a publicação estiver autorizada:
+O endereço da entrega foi informado como já utilizado. O roteiro abaixo é histórico e pode ser consultado se houver necessidade de nova publicação, após conferir a versão do código:
+
 
 1. Gere a pasta estática e confira os arquivos localmente. Use como origem de upload somente a pasta gerada, com `index.html` na raiz.
 2. No painel da Cloudflare, abra **Workers & Pages**, crie um projeto **Pages** por **Direct Upload** e envie a pasta gerada. Essa modalidade usa os arquivos já preparados e não exige integração com o GitHub. A URL `<projeto>.pages.dev` passa a servir o pacote após o deploy. [Documentação de Direct Upload](https://developers.cloudflare.com/pages/get-started/direct-upload/)
