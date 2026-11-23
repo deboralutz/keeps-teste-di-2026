@@ -13,6 +13,7 @@ from tempfile import TemporaryDirectory
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "site"
 PDF = "05.1-boas-vindas-habilidades-do-futuro.pdf"
+PDF_REVISADO = "05.1-boas-vindas-habilidades-do-futuro-v2.pdf"
 PANORAMA = "05.2-video-panorama-atual.mp4"
 PPTX = "05.3-globalizacao-habilidades-do-futuro.pptx"
 CENA = "01-01-uma-situacao-comum-no-trabalho.mp4"
@@ -41,7 +42,7 @@ SITE_FILES = [
 ]
 
 MATERIALS = {
-    PDF: f"midia/{PDF}",
+    PDF_REVISADO: f"midia/{PDF}",
     PANORAMA: f"midia/{PANORAMA}",
     PPTX: f"midia/{PPTX}",
     f"prototipo/midia/{CENA}": f"midia/{CENA}",
@@ -103,8 +104,6 @@ def integrate_v2():
     guide_end = (
         f'<p><a href="{guide}" target="_blank" rel="noopener noreferrer">Abrir guia do curso (PDF, nova aba)</a>'
         f' · <a href="{guide}" download>Baixar PDF</a></p>'
-        '<p class="version-note">O PDF disponível apresenta cinco módulos. Consulte o '
-        '<a href="../respostas/ementa/#estrutura-curricular">percurso vigente de seis módulos</a>.</p>'
         '<div class="nav"><button type="button" class="btn secondary" data-action="back">Voltar</button>'
         '<a class="btn" href="./panorama/">Aula 1.2 · Panorama atual →</a></div>'
     )
@@ -124,7 +123,6 @@ def integrate_v2():
         ('O vídeo ainda não está disponível neste endereço. Consulte a transcrição a seguir. '
          'O arquivo MP4 deverá ser colocado na pasta <code>prototipo/midia/</code>.',
          'O vídeo não pôde ser carregado. Consulte a transcrição abaixo.'),
-        ('com os seis módulos e uma reflexão inicial', 'com uma reflexão inicial'),
         (f'<p><a href="../{PDF}" target="_blank" rel="noopener noreferrer">Abrir guia do curso (PDF)</a></p>'
          "${nav('Voltar','Concluir esta experiência')}", guide_end),
         ('main.focus({preventScroll:true})', "main.querySelector('h1').focus()"),
