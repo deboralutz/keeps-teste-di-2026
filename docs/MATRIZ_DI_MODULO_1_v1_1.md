@@ -1,5 +1,7 @@
 # Matriz de Design Instrucional — Módulo 1
 
+> **Nota pós-entrega (23/11/2026):** matriz da fase de produção, preservada como referência. A pendência de upload do MP4 da aula 1.1, citada abaixo, já foi resolvida; o arquivo está no repositório. Uma revisão posterior da progressão foi informada pela autora, mas ainda não foi localizada em `main`. Antes do próximo planejamento, confrontar matriz, ementa e nova implementação; não tratar a descrição de quatro telas como definitiva.
+
 **Projeto:** Avaliação técnica para Designer Instrucional — Keeps  
 **Curso:** Habilidades do Futuro — Comunicação, inteligência artificial e adaptabilidade no trabalho  
 **Módulo 1:** O trabalho em transformação  
