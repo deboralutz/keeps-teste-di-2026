@@ -1,6 +1,6 @@
 # Fontes e pendências de curadoria
 
-**Estado:** 21/11/2026. O briefing original está em `avaliacao-tecnica-keeps.pdf`.
+**Estado da curadoria:** registro de 21/11/2026; índice revisto em 23/11/2026. O enunciado original foi fornecido externamente e **não está na árvore do GitHub**. Não utilizar o caminho antigo `avaliacao-tecnica-keeps.pdf` como link ou dependência de montagem.
 
 | Tema | Material de estudo | Origem | Atenção |
 |---|---|---|---|
