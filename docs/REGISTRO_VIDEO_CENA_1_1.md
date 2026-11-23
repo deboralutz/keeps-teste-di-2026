@@ -1,5 +1,7 @@
 # Registro da produção audiovisual — Cena inicial da aula 1.1
 
+> **Nota de estado (23/11/2026):** o MP4 complementar está versionado na branch `main`. Referências históricas a upload ainda pendente descrevem a situação anterior, não o estado atual.
+
 **Data:** 22/11/2026  
 **Natureza:** recurso complementar de aprendizagem, produzido para protótipo demonstrativo da Keeps.  
 **Título:** Uma situação comum no trabalho  
