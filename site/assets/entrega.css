@@ -66,6 +66,47 @@ main:focus { outline: none; }
 .reading .document-nav { padding: 1rem 1.15rem; border: 1px solid var(--line); }
 .reading .document-nav ul { margin: 0; padding-left: 1.3rem; }
 
+.proposal-index p {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .45rem;
+  margin: 1rem 0 1.8rem;
+}
+.proposal-index a {
+  padding: .5rem .69rem;
+  border: 1px solid var(--line);
+  border-radius: .35rem;
+  background: #fffdfb;
+  font-size: .88rem;
+  font-weight: 620;
+}
+.proposal-facts ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .65rem;
+  padding: 0;
+}
+.reading .proposal-facts li { margin: 0; padding: .75rem .9rem; border: 1px solid var(--line); background: #fffdfb; }
+.proposal-facts li::marker { content: ""; }
+.proposal-facts li strong { display: block; margin-bottom: .18rem; color: var(--plum); }
+.proposal-objectives ol { padding-left: 1.9rem; }
+.proposal-objectives li { padding: .5rem .15rem; }
+.proposal-objectives li + li { margin: 0; border-top: 1px solid var(--line); }
+.proposal-objectives li::marker { color: var(--plum); font-weight: 750; }
+.proposal-module { margin-block: .55rem; border: 1px solid var(--line); border-radius: .35rem; background: #fffdfb; }
+.proposal-module summary {
+  padding: .78rem .9rem;
+  cursor: pointer;
+  background: #f1e9ef;
+  border-radius: .35rem;
+  color: var(--plum);
+}
+.proposal-module summary h4 { display: inline; margin: 0; }
+.proposal-module[open] summary { border-bottom: 1px solid var(--line); border-end-start-radius: 0; border-end-end-radius: 0; }
+.proposal-module > :not(summary) { margin-inline: .9rem; }
+.proposal-total { margin-top: .85rem; padding: .7rem .9rem; border-left: .25rem solid var(--plum); background: #f1e9ef; }
+.proposal-total p { margin: 0; }
+
 .curriculum-index p { display: flex; flex-wrap: wrap; gap: .55rem; margin: 1rem 0 0; }
 .curriculum-index a {
   padding: .42rem .72rem;
@@ -91,6 +132,7 @@ main:focus { outline: none; }
 .curriculum-table td p + p { margin-top: .65rem; }
 
 @media (max-width: 36rem) {
+  .proposal-facts ul { grid-template-columns: 1fr; }
   .reading .curriculum-table,
   .curriculum-table tbody, .curriculum-table tr, .curriculum-table :is(td, th) { display: block; }
   .curriculum-table :is(thead, colgroup) { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
