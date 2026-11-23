@@ -1,62 +1,51 @@
-# Checklist — fechamento da avaliação técnica Keeps
+# Checklist de situação — Keeps
 
-**Prazo informado:** 23/11/2026, às 9h (Brasília).  
-**Atualizado em:** 22/11/2026. Marcação de produção/existência não implica revisão humana concluída.
+**Atualização documental:** 23/11/2026.  
+**Estado da candidatura:** entrega realizada, segundo informação da autora. Este arquivo não deve voltar a apresentar tarefas pré-envio como se a entrega ainda estivesse aberta.
 
-## Respostas escritas — etapas 1, 2 e 3
+## 1. Entrega — encerrada
 
-- [x] Redigir [1. Briefing](01-briefing.md).
-- [x] Redigir [2. Ementa e cronograma](02-ementa-cronograma.md), com estrutura curricular.
-- [x] Redigir [3. Reunião com o cliente](03-reuniao-com-cliente.md).
-- [x] Preparar versão consolidada editável das três respostas fora do repositório.
-- [ ] Atualizar a versão consolidada externa para **seis módulos e três horas**, conferindo também objetivos, sequência, exemplos, referências, paginação e quebras.
-- [ ] Definir e conferir o arquivo escrito final que será disponibilizado à banca.
+- [x] Preparar as respostas das etapas 1, 2 e 3.
+- [x] Definir a ementa preliminar de seis módulos, três horas estimadas e 28 unidades planejadas.
+- [x] Produzir o PDF de Boas-vindas, o vídeo Panorama atual e o PPT de Globalização.
+- [x] Disponibilizar apresentação consolidada e manifesto digital de entrega.
+- [x] Publicar uma demonstração complementar do Módulo 1, com as aulas introdutórias.
+- [x] Registrar o aviso e a auditoria de privacidade do site.
+- [x] Realizar o envio da avaliação em 23/11/2026 — **informado pela autora**, não auditado a partir de comprovante de envio.
 
-## Objetos obrigatórios — Módulo 1
+Os testes de reprodução, layout e navegação documentados em [PÁGINA_ENTREGA](docs/PAGINA_ENTREGA.md) referem-se às versões então inspecionadas. A existência do arquivo não equivale a revisão humana ou validação universal de acessibilidade.
 
-### 5.1 — PDF de boas-vindas
+## 2. Sincronização pós-entrega — pendências técnicas, sem impacto retroativo no envio
 
-- [x] [PDF](05.1-boas-vindas-habilidades-do-futuro.pdf) presente, com 1 página.
-- [ ] Conferir se o PDF exportado contém os seis módulos na sequência vigente. Se ainda trouxer cinco, reexportar a partir do storyboard sincronizado, preservando a versão original e o limite de até duas páginas (idealmente uma).
-- [ ] Conferir visualmente a versão definitiva: legibilidade, ordem de leitura e acessibilidade pertinente.
+- [ ] **Conferir a revisão recente do Codex sobre progressão pedagógica da aula 1.1.** Em 23/11, a branch `main` ainda aponta para `prototipo/aula-1-1-prumo-prototipo-v2.html` e o script de montagem usa essa versão. Localizar o trabalho recente e incorporar ao repositório apenas depois de verificar seu conteúdo.
+- [ ] Quando a revisão estiver versionada, atualizar a referência no script de montagem e os documentos vigentes (matriz, storyboard e ficha da aula 1.1) **se estiverem divergentes**.
+- [ ] Se houver nova publicação do site, testar a versão publicada em navegador, incluindo fluxo, transcrição, mídia, links e teclado. **Não declarar esses testes realizados antecipadamente.**
 
-### 5.2 — Vídeo Panorama atual
+Essas verificações não significam que a entrega deva ser reenviada.
 
-- [x] [MP4](05.2-video-panorama-atual.mp4) presente no GitHub.
-- [x] [Link para Pictory](05.2-video-panorama-atual.md) registrado.
-- [x] Constatada duplicata por SHA: `05.2-video-panorama-atual.mp4.mp4` (não excluir sem decisão).
-- [ ] Reproduzir o MP4 do início ao fim e verificar duração efetiva, áudio, sincronização e legendas.
-- [ ] Confirmar se o MP4/link final pode ser acessado por avaliadores externos.
+## 3. Verificações de qualidade registradas — opcionais para manutenção
 
-### 5.3 — PPT Globalização
+- [ ] Revisão com tecnologia assistiva do PDF de Boas-vindas, do PPTX e das páginas, se os materiais forem reutilizados.
+- [ ] Revisão humana das legendas e locução em velocidade normal, se houver nova publicação ou reedição.
+- [ ] Reavaliar o aviso de privacidade caso a infraestrutura, os dados tratados ou os recursos de terceiros sejam alterados.
 
-- [x] [PPTX](05.3-globalizacao-habilidades-do-futuro.pptx) presente, com 5 slides.
-- [x] Consta revisão do fechamento e dos hyperlinks na auditoria técnica anterior.
-- [ ] Abrir em modo de apresentação e conferir contraste, diagramas, links, legibilidade e leitura.
-- [ ] Rever acessibilidade pertinente; exportação opcional para PDF, se ajudar o acesso.
+Os apontamentos acima foram preservados como limites documentados, **não como requisitos impeditivos de uma entrega já realizada**.
 
-## Curadoria e coerência
+## 4. Próxima fase — planejamento e roteirização das aulas
 
-- [x] Sincronizadas a ementa, a estrutura de referência, a matriz do Módulo 1, o storyboard textual do PDF e o guia de DI com os seis módulos.
-- [ ] Conferir **os objetos exportados** e o documento escrito consolidado: esta sincronização documental não prova que PDF, vídeo e PPTX estejam atualizados ou validados.
-- [ ] Conferir manualmente links de fontes com acesso automatizado inconclusivo.
-- [ ] Verificar permissões/licenças dos ativos efetivamente utilizados.
-- [ ] Fazer revisão humana final dos textos e dos objetos.
+- [ ] Conferir a progressão das **28 fichas de aula** contra a [ementa vigente](02-ementa-cronograma.md).
+- [ ] Definir para cada aula objetivo observável, conteúdo indispensável, situação/exemplo, atividade e forma de feedback pertinente.
+- [ ] Especificar duração estimada e requisitos de acessibilidade e produção, sem assumir que as três horas já foram validadas.
+- [ ] Planejar a continuidade do caso fictício da Prumo nos Módulos 2 a 6.
+- [ ] Preparar roteiros e storyboards apenas após fechar as decisões instrucionais correspondentes.
 
-## Apresentação e envio
+Ponto de partida: [índice do curso](curso/README.md). **Nenhum item desta seção faz parte da entrega do teste já enviada.**
 
-- [ ] Decidir formato da entrega (documento, página/manifesto ou combinação).
-- [ ] Criar um manifesto de entrega com os seis itens obrigatórios e os complementos claramente separados.
-- [ ] Definir compartilhamento do repositório privado e das peças em Figma, SharePoint e Pictory.
-- [ ] Reunir apenas versões finais verificadas na forma de envio escolhida.
-- [ ] Testar os links sem autenticação e/ou os arquivos como avaliador externo.
-- [ ] Enviar antes de 23/11/2026, às 9h (Brasília).
+## 5. Limpeza documental — 23/11
 
-## Complementos — não exigidos
+- [x] Identificar links e referências que apontavam para arquivos ausentes.
+- [x] Corrigir registros antigos que ainda tratavam o MP4 da aula 1.1 como não enviado ao GitHub.
+- [x] Retirar o template de slides ultrapassado e a cópia redundante do PDF consolidado, mantendo o histórico Git.
+- [x] Preservar versões anteriores de protótipos, storyboards e matrizes como memória das decisões.
 
-- [x] Contexto fictício Prumo documentado em [cliente/](cliente/).
-- [x] [Protótipo HTML da aula 1.1](prototipo/aula-1-1-prumo-prototipo-v1.html) presente.
-- [x] Decisões metodológicas e notas de apresentação documentadas em [docs/](docs/).
-- [ ] Decidir se e como esses complementos serão mostrados na página/manifesto final.
-
-**Limites do enunciado:** PDF até 2 páginas (ideal 1); vídeo até 60 segundos (ideal 30); PPT até 5 slides com abertura e encerramento. A síntese 1.4 já integra o material. Critérios de avaliação e certificação não são exigidos na ementa.
+**Fonte curricular:** [02-ementa-cronograma.md](02-ementa-cronograma.md). A Prumo e suas necessidades são simulações; não afirmar diagnóstico ou avaliação de aprendizagem de participantes reais.
