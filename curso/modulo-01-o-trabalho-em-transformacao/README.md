@@ -12,6 +12,8 @@ Este diretório contém fichas de planejamento por aula; não representa produç
 - [1.3 — Globalização e transformações profissionais](aula-1-3-globalizacao-e-transformacoes-profissionais.md)
 - [1.4 — Competências para o futuro](aula-1-4-competencias-para-o-futuro.md)
 
-**Ordem da aula 1.1:** cena em vídeo com Marina e Lucas (complementar, recebida em MP4) e transcrição na primeira tela → interpretação, consequência e reflexão nas telas seguintes → PDF de boas-vindas como guia consultável → aula 1.2 (*Panorama atual*). O vídeo ainda precisa ser enviado à pasta `prototipo/midia/` e testado no protótipo v2. Na apresentação aos avaliadores, os arquivos ficam também disponíveis separadamente na página-manifesto; essa página não faz parte da aula.
+**Estado do protótipo no GitHub (23/11/2026):** a versão v2 disponível em `main` apresenta a cena em vídeo com Marina e Lucas, interpretação, consequência e reflexão, seguida do PDF como guia consultável e da aula 1.2. O vídeo complementar **já consta em `prototipo/midia/`**. A autora informou que o Codex implementou uma revisão posterior da progressão; antes de atualizar esta descrição para cinco telas, localizar e conferir o código dessa revisão na branch correta.
+
+A página-manifesto da entrega é destinada aos avaliadores e não integra a aula.
 
 Os três objetos obrigatórios do Módulo 1 estão armazenados na raiz do repositório e são preservados: PDF 1.1, vídeo 1.2 e PPT 1.3. A aula 1.4 é uma síntese incorporada ao PPT, não um quarto objeto independente.
