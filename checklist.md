@@ -35,7 +35,10 @@ Os apontamentos acima foram preservados como limites documentados, **não como r
 
 - [x] Consolidar a [Matriz de DI do Módulo 2 — v1.0](docs/MATRIZ_DI_MODULO_2_v1.md), com objetivos, progressão, cenários, atividades, feedbacks e distribuição estimada dos 35 minutos.
 - [x] Elaborar [roteiro instrucional v1 da aula 2.1](docs/ROTEIRO_INSTRUCIONAL_AULA_2_1_v1.md), com atividade e feedbacks específicos.
-- [ ] Revisar e aprovar o roteiro v1 da aula 2.1, conferir sua duração estimada e só então definir sua implementação.
+- [x] Revisar e aprovar o roteiro v1 da aula 2.1 para implementação (autorização da responsável em 23/11/2026).
+- [x] Definir escopo técnico inicial da implementação em [ordem para o Codex](docs/ORDEM_IMPLEMENTACAO_AULA_2_1_v1.md).
+- [ ] Implementar a prévia da aula 2.1 e verificar se sua realização cabe aproximadamente em cinco minutos.
+- [ ] Testar teclado, foco, feedback, responsividade e ausência de envio de dados; revisar a interface antes de qualquer publicação.
 - [ ] Definir informações e respostas do solicitante no episódio B (aulas 2.2–2.4), preservando a continuidade do caso.
 - [ ] Conferir a progressão das **28 fichas de aula** contra a [ementa vigente](02-ementa-cronograma.md).
 - [ ] Definir para cada aula objetivo observável, conteúdo indispensável, situação/exemplo, atividade e forma de feedback pertinente.
