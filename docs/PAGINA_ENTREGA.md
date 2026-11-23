@@ -13,7 +13,7 @@ python3 -m http.server 8000 --bind 127.0.0.1 --directory ../site-keeps
 
 Abra [o manifesto](http://127.0.0.1:8000/) ou [o início do Módulo 1](http://127.0.0.1:8000/curso/). Use um diretório de destino novo para cada montagem. O servidor usa somente a pasta gerada.
 
-A montagem deriva a aula 1.1 do HTML v2 e converte as três respostas Markdown em HTML. Os links para anexos internos ficam como texto ou apontam para o contexto público da simulação. Duas referências públicas da ementa tiveram a sintaxe de link normalizada na renderização. O script copia os objetos em seus formatos originais e inclui somente os arquivos necessários ao site. A pasta gerada roda em um servidor estático, sem dependências de execução no servidor ou no navegador.
+A montagem deriva a aula 1.1 do HTML v2 e converte as três respostas Markdown em HTML. Os links do briefing e da ementa para a Prumo apontam para `/respostas/cenario-ficticio/`, uma síntese pública de seu perfil, identidade institucional e papel no curso. Os demais links para anexos internos ficam como texto. Duas referências públicas da ementa tiveram a sintaxe de link normalizada na renderização. O script copia os objetos em seus formatos originais e inclui somente os arquivos necessários ao site. A pasta gerada roda em um servidor estático, sem dependências de execução no servidor ou no navegador.
 
 ## Fontes e conferência
 
@@ -29,7 +29,7 @@ Foram conferidos `AGENTS.md`, `README.md`, `checklist.md`, o guia de DI, a ement
 
 ## Verificação técnica
 
-- **Montagem e escopo.** Sete páginas HTML e 23 arquivos no total. As três peças obrigatórias, o vídeo complementar e o logotipo da Prumo conferem por SHA-256 com os respectivos arquivos-fonte. A montagem recusou um diretório já existente.
+- **Montagem e escopo.** Oito páginas HTML e 24 arquivos no total. As três peças obrigatórias, o vídeo complementar e o logotipo da Prumo conferem por SHA-256 com os respectivos arquivos-fonte. A montagem recusou um diretório já existente.
 - **HTTP e layout.** 40 URLs locais distintas, incluindo links com fragmentos, responderam com HTTP 200 e os alvos de âncora foram conferidos. As sete páginas foram testadas em Chromium nas larguras de 320, 390, 768 e 1.440 px, sem rolagem horizontal. O manifesto, o protótipo e as prévias dos materiais foram inspecionados visualmente.
 - **Teclado e fluxo.** Foram verificadas a navegação por Tab, Enter, Espaço e setas, a indicação da aula atual, o foco na mudança de tela ou slide, a seleção sem resposta predefinida, a retenção da escolha ao voltar e a revelação do desfecho somente após escolher uma interpretação. A síntese abre pelo endereço `/curso/globalizacao/#sintese`. Os cinco slides e seus textos ficam disponíveis mesmo com JavaScript desativado.
 - **Mídia e downloads.** Os dois MP4 carregaram, pausaram, aceitaram busca e reproduziram até o fim em Chromium com velocidade acelerada. O navegador reconheceu a faixa WebVTT de Panorama atual e seus dez trechos. Ambos os vídeos foram decodificados integralmente com FFmpeg. Com os MP4 bloqueados no navegador, as alternativas textuais abriram automaticamente. Os downloads de PDF e PPTX foram comparados com os arquivos originais.

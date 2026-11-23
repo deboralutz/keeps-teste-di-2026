@@ -143,11 +143,10 @@ def integrate_v2():
     return source
 
 
-def render_response(markdown, title):
-    markdown = markdown.replace(
-        "https://github.com/deboralutz/keeps-teste-di-2026/blob/main/cliente/CENARIO_FICTICIO.md",
-        "../../#contexto",
-    )
+def render_response(markdown, title, back_link=("../../#respostas", "← Voltar às respostas da entrega")):
+    source_folder = "https://github.com/deboralutz/keeps-teste-di-2026/blob/main/cliente/"
+    for filename in ("CENARIO_FICTICIO.md", "ANEXO_PRUMO_IDENTIDADE_INSTITUCIONAL.md"):
+        markdown = markdown.replace(source_folder + filename, "../cenario-ficticio/")
     # Os demais links para anexos privados ficam como texto na versão para a banca.
     markdown = re.sub(
         r"\[([^\]\n]+)\]\(https://github\.com/deboralutz/keeps-teste-di-2026/[^)]+\)", r"\1", markdown
@@ -170,6 +169,7 @@ def render_response(markdown, title):
                '<ul><li><a href="#ementa-cronograma">Parte I · Ementa e cronograma</a></li>'
                '<li><a href="#estrutura-curricular">Parte II · Estrutura curricular detalhada</a></li></ul></nav>')
         body = replace_once(body, "</h1>", f"</h1>\n{toc}\n")
+    back_url, back_text = back_link
     return f"""<!doctype html>
 <html lang="pt-BR">
 <head>
@@ -180,7 +180,7 @@ def render_response(markdown, title):
 </head>
 <body>
   <a class="skip-link" href="#conteudo">Ir para o conteúdo</a>
-  <header class="top inner"><a class="signature" href="../../#respostas">← Voltar às respostas da entrega</a></header>
+  <header class="top inner"><a class="signature" href="{escape(back_url)}">{escape(back_text)}</a></header>
   <main class="inner reading" id="conteudo" tabindex="-1">
 {body}
   </main>
@@ -209,6 +209,12 @@ def populate(output):
 
     for slug, title, original in RESPONSES:
         write(output, f"respostas/{slug}/index.html", render_response(read(ROOT / original), title))
+    scenario = render_response(
+        read(SITE / "cenario-ficticio.md"),
+        "Cenário fictício — Prumo Gestão Integrada",
+        back_link=("../briefing/", "← Voltar ao briefing"),
+    )
+    write(output, "respostas/cenario-ficticio/index.html", scenario)
 
 
 def main():
