@@ -33,6 +33,7 @@ RESPONSES = [
 
 SITE_FILES = [
     "index.html",
+    "favicon.ico",
     "privacidade/index.html",
     "assets/entrega.css",
     "assets/prumo.css",
