@@ -33,6 +33,8 @@ Os apontamentos acima foram preservados como limites documentados, **não como r
 
 ## 4. Próxima fase — planejamento e roteirização das aulas
 
+- [x] Consolidar a [Matriz de DI do Módulo 2 — v1.0](docs/MATRIZ_DI_MODULO_2_v1.md), com objetivos, progressão, cenários, atividades, feedbacks e distribuição estimada dos 35 minutos.
+- [ ] Definir informações e respostas do solicitante no episódio de simulação do Módulo 2; depois roteirizar a aula 2.1.
 - [ ] Conferir a progressão das **28 fichas de aula** contra a [ementa vigente](02-ementa-cronograma.md).
 - [ ] Definir para cada aula objetivo observável, conteúdo indispensável, situação/exemplo, atividade e forma de feedback pertinente.
 - [ ] Especificar duração estimada e requisitos de acessibilidade e produção, sem assumir que as três horas já foram validadas.
