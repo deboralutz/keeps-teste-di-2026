@@ -13,7 +13,6 @@ from tempfile import TemporaryDirectory
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "site"
 PDF = "05.1-boas-vindas-habilidades-do-futuro.pdf"
-PDF_REVISADO = "05.1-boas-vindas-habilidades-do-futuro-v2.pdf"
 PANORAMA = "05.2-video-panorama-atual.mp4"
 PPTX = "05.3-globalizacao-habilidades-do-futuro.pptx"
 CENA = "01-01-uma-situacao-comum-no-trabalho.mp4"
@@ -42,7 +41,7 @@ SITE_FILES = [
 ]
 
 MATERIALS = {
-    PDF_REVISADO: f"midia/{PDF}",
+    PDF: f"midia/{PDF}",
     PANORAMA: f"midia/{PANORAMA}",
     PPTX: f"midia/{PPTX}",
     f"prototipo/midia/{CENA}": f"midia/{CENA}",
