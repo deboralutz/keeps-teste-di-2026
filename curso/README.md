@@ -8,7 +8,7 @@
 ## Navegação
 
 - [Módulo 1 — O trabalho em transformação](modulo-01-o-trabalho-em-transformacao/README.md) — 20 min; 4 aulas
-- [Módulo 2 — Comunicação no ambiente profissional](modulo-02-comunicacao-no-ambiente-profissional/README.md) — 35 min; 5 aulas
+- [Módulo 2 — Comunicação no ambiente profissional](modulo-02-comunicacao-no-ambiente-profissional/README.md) — 35 min; 5 aulas; [matriz instrucional v1.0](../docs/MATRIZ_DI_MODULO_2_v1.md) consolidada para roteirização
 - [Módulo 3 — Organização e gestão da informação](modulo-03-organizacao-e-gestao-da-informacao/README.md) — 30 min; 4 aulas
 - [Módulo 4 — Análise e melhoria de processos](modulo-04-analise-e-melhoria-de-processos/README.md) — 30 min; 5 aulas
 - [Módulo 5 — Inteligência artificial aplicada ao trabalho](modulo-05-inteligencia-artificial-aplicada-ao-trabalho/README.md) — 40 min; 5 aulas
@@ -22,6 +22,8 @@ A [ementa vigente e seu cronograma](../02-ementa-cronograma.md) são a fonte cur
 
 **Módulo 1:** o PDF de boas-vindas, o vídeo e o PPT já possuem arquivos na raiz do repositório. As fichas incluem links para eles. A unidade 1.4 é síntese integrada ao PPT; o protótipo da aula 1.1 é complementar.
 
-**Módulos 2 a 6:** as fichas descrevem somente o planejado, sem alegar aulas produzidas, avaliações realizadas ou validações do cliente.
+**Módulo 2:** a matriz de DI já define objetivos observáveis, progressão, situações da Prumo, práticas e feedbacks; as aulas ainda não estão roteirizadas nem produzidas.
+
+**Módulos 3 a 6:** as fichas descrevem somente o planejado, sem alegar aulas produzidas, avaliações realizadas ou validações do cliente.
 
 **Caso Prumo:** trata-se de organização fictícia utilizada para criar continuidade pedagógica. A progressão do caso está documentada na seção 7 da ementa.
