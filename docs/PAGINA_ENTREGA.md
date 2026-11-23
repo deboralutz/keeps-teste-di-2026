@@ -22,7 +22,7 @@ Foram conferidos `AGENTS.md`, `README.md`, `checklist.md`, o guia de DI, a ement
 | Critério | Resultado e evidência |
 | --- | --- |
 | Comparação com o enunciado original | Não verificável. O arquivo `avaliacao-tecnica-keeps.pdf` citado no projeto não está no repositório. A numeração 1, 2, 3 e 5 segue o README. |
-| Currículo e Boas-vindas | A ementa vigente soma 180 minutos em seis módulos. O PDF original tem uma página A4 e lista cinco módulos, com IA em terceiro e sem o módulo de processos. Sua pergunta inicial também difere do storyboard. O manifesto e o encerramento da aula 1.1 apontam para a ementa vigente ao lado do PDF. |
+| Currículo e Boas-vindas | A ementa vigente soma 180 minutos em seis módulos. A edição v2 do PDF foi preparada a partir do arquivo exportado e mantém uma página A4. O segundo parágrafo inclui análise e melhoria de processos, e a lista segue os seis módulos da ementa. A pergunta de abertura foi preservada. O arquivo anterior foi conservado no repositório e o site usa a nova edição no mesmo endereço. |
 | Aula 1.1 | O MP4 já está versionado no caminho indicado no storyboard, apesar da pendência de upload registrada. Duração técnica de 16,60 s, vídeo H.264 e áudio AAC. A página integrada preserva transcrição, pergunta, feedback, desfecho e reflexão. |
 | Panorama atual | O arquivo de referência e a cópia com dupla extensão têm o mesmo blob. A cópia utilizada tem 44,97 s, vídeo H.264 e áudio AAC. A narração difere do storyboard proposto e o MP4 inclui marca e tela final do Pictory. A alternativa textual e as legendas da página foram preparadas a partir do vídeo existente. |
 | Globalização | O PPTX tem cinco slides. A síntese 1.4 está no quinto, com quatro cartões e a pergunta sobre uma entrega que envolve diferentes países. Foram encontrados quatro hyperlinks nos slides 2, 3 e 4. A página usa imagens exportadas com Inter e Montserrat em LibreOffice, oferece texto e links de referência e disponibiliza o PPTX original. |
@@ -37,7 +37,7 @@ Foram conferidos `AGENTS.md`, `README.md`, `checklist.md`, o guia de DI, a ement
 ## Pendências para a entrega à banca
 
 - A responsável pelo DI deve conferir a versão escrita consolidada externa e decidir como disponibilizá-la. O manifesto usa as três respostas atualmente versionadas.
-- Revisar e reexportar o PDF de Boas-vindas a partir da fonte editável, com os seis módulos na ordem vigente. O PDF atual é anterior à atualização curricular e não contém marcação estrutural.
+- Conferir a acessibilidade do PDF de Boas-vindas com tecnologia assistiva. A edição v2 mantém texto selecionável e a ordem de leitura, e o arquivo segue sem marcação estrutural.
 - Revisar a locução e a sincronização das legendas com escuta humana em velocidade normal. Conferir acessibilidade do PPTX no PowerPoint e das páginas com tecnologia assistiva e em navegador móvel real.
 - Confirmar a liberação dos materiais e definir domínio e permissões de acesso à banca. Após publicação autorizada, validar a experiência no endereço definitivo e nas condições de acesso dos avaliadores.
 

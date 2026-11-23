@@ -52,7 +52,6 @@ main:focus { outline: none; }
 .entries small { color: var(--muted); font-size: .87rem; }
 .item-number { font-size: .79rem; color: var(--accent); font-weight: 750; }
 .object-row a { font-size: .85rem; padding: .3rem .1rem; white-space: nowrap; }
-.version-note { margin: -.24rem 0 .9rem 3.1rem; color: var(--muted); font-size: .87rem; }
 .footer { padding-block: 1.4rem 2.5rem; border-top: 1px solid var(--line); color: var(--muted); font-size: .91rem; }
 .footer p { max-width: 69ch; }
 
@@ -77,5 +76,4 @@ main:focus { outline: none; }
   .object-row .item-number { grid-row: span 2; align-self: start; padding-top: .2rem; }
   .object-row > span:nth-child(2) { grid-column: 2 / -1; }
   .object-row a { justify-self: start; }
-  .version-note { margin-inline-start: 2.85rem; }
 }

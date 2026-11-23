@@ -84,7 +84,6 @@ a { color: var(--purple); text-underline-offset: .17em; }
 .slide-card .reader h3 { margin: .7rem 0; font-size: 1rem; }
 .slide-actions { margin-top: 1rem; }
 
-.lesson-v2 .mainpanel .version-note { color: var(--muted); font-size: .9rem; }
 .lesson-v2 .mainpanel h1 { scroll-margin-top: 1rem; }
 .lesson-v2 .mainpanel :focus-visible { outline-color: var(--focus); }
 .lesson-v2 .mainpanel .eyebrow, .lesson-v2 .sidetag { color: #266665; }
