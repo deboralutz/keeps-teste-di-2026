@@ -21,6 +21,8 @@ a { color: var(--purple); text-underline-offset: .17em; }
 .skip-link:not(:focus), .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
 
 .shell { max-width: 1110px; margin: 0 auto; padding: 26px clamp(1rem, 3vw, 1.5rem) 3.5rem; }
+.module-footer { margin-top: 1.2rem; border-top: 1px solid var(--line); font-size: .9rem; }
+.module-footer a { display: inline-flex; align-items: center; min-height: 44px; }
 .module-header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: .75rem 1.2rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
 .module-brand { display: flex; flex-wrap: wrap; align-items: center; gap: .65rem 1rem; }
 .module-brand img { display: block; width: 106px; height: auto; }
