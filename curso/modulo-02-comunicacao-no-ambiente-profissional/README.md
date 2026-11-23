@@ -15,6 +15,6 @@ Este diretório contém fichas de planejamento por aula; não representa produç
 - [2.4 — Comunicação assertiva e alinhamento de expectativas](aula-2-4-comunicacao-assertiva-e-alinhamento-de-expectativas.md)
 - [2.5 — Aplicação prática: reformulando uma solicitação](aula-2-5-aplicacao-pratica-reformulando-uma-solicitacao.md)
 
-**Roteiro da aula 2.1:** [versão 1.0 para revisão](../../docs/ROTEIRO_INSTRUCIONAL_AULA_2_1_v1.md). Detalha seis blocos em cinco minutos estimados, incluindo atividade e feedback por alternativa. **Próxima tarefa:** revisar editorial e pedagogicamente esse roteiro, testar sua duração e decidir o formato de produção. Não implementar antes da revisão.
+**Roteiro da aula 2.1:** [versão 1.0 aprovada para implementação](../../docs/ROTEIRO_INSTRUCIONAL_AULA_2_1_v1.md), em 23/11/2026. Detalha seis blocos em cinco minutos estimados, incluindo atividade e feedback por alternativa. [Ordem técnica para o Codex](../../docs/ORDEM_IMPLEMENTACAO_AULA_2_1_v1.md). **Próxima tarefa:** implementar uma prévia independente, testar duração, fluxo e acessibilidade e submetê-la à revisão antes de publicar. O roteiro está aprovado; a interface ainda não.
 
 Os materiais e as práticas deste módulo permanecem como proposta curricular, sujeitos a roteirização, validação e produção.
