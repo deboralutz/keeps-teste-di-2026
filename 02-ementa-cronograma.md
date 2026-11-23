@@ -51,7 +51,7 @@ Os seis módulos seguem uma progressão do contexto geral para situações de co
 
 **Conteúdos:** panorama das transformações do trabalho; globalização e seus impactos positivos e negativos; competências para o futuro.
 
-**Experiência prevista:** na aula 1.1, uma cena breve em vídeo apresenta Marina e Lucas conversando sobre uma proposta para um cliente. O participante pode consultar a transcrição na mesma tela e, na etapa seguinte da experiência interativa, interpreta a mensagem antes de conhecer suas consequências. O PDF de boas-vindas fica disponível para leitura e download como guia de consulta dos seis módulos. A aula 1.2 apresenta o vídeo *Panorama atual*; a aula 1.3 utiliza a apresentação *Globalização*, com a síntese integradora da unidade 1.4 no encerramento. A sequência adicional da aula 1.1 ainda depende de produção e integração.
+**Experiência demonstrada no protótipo:** na aula 1.1, uma cena breve em vídeo apresenta Marina e Lucas conversando sobre uma proposta para um cliente. O participante pode consultar a transcrição na mesma tela e, na etapa seguinte da experiência interativa, interpreta a mensagem antes de conhecer suas consequências. O PDF de boas-vindas fica disponível para leitura e download como guia de consulta dos seis módulos. A aula 1.2 apresenta o vídeo *Panorama atual*; a aula 1.3 utiliza a apresentação *Globalização*, com a síntese integradora da unidade 1.4 no encerramento.
 
 **Materiais previstos:** PDF de boas-vindas (preferencialmente uma página, máximo duas), vídeo *Panorama atual* (alvo aproximado de 30 segundos, máximo um minuto) e apresentação *Globalização* (até cinco slides). O vídeo dramatizado e a interação web são recursos **complementares** da aula 1.1, sem substituir o PDF nem o vídeo da aula 1.2. A unidade 1.4 integra o encerramento do PPT.
 
@@ -138,8 +138,8 @@ As referências abaixo fundamentam especialmente a contextualização inicial so
 
 1. **World Economic Forum.** *The Future of Jobs Report 2025.* Relatório sobre transformações profissionais e competências.
 2. **FIESC.** [*Mercado de trabalho priorizará pensamento criativo e influência social, aponta estudo*](https://fiesc.com.br/pt-br/imprensa/mercado-de-trabalho-priorizara-pensamento-criativo-e-influencia-social-aponta-estudo). Síntese brasileira do relatório de 2025.
-3. **Milton Beck.** [*Entre Algoritmos e Boa Comunicação*]([referencias/Artigo_02.md](https://forbes.com.br/carreira/2025/04/entre-algoritmos-e-boa-comunicacao-um-panorama-sobre-as-habilidades-exigidas-pelo-mercado-de-trabalho/)). Forbes Brasil, 2025. Artigo de opinião e reflexão profissional; arquivo local em versão de estudo.
-4. **Parlamento Europeu.** [*Impacto da globalização no emprego e na UE*]([referencias/Artigo_03.md](https://www.europarl.europa.eu/topics/pt/article/20190712STO56968/impacto-da-globalizacao-no-emprego-e-na-ue)). Análise de impactos no contexto europeu.
+3. **Milton Beck.** [*Entre Algoritmos e Boa Comunicação*](https://forbes.com.br/carreira/2025/04/entre-algoritmos-e-boa-comunicacao-um-panorama-sobre-as-habilidades-exigidas-pelo-mercado-de-trabalho/). Forbes Brasil, 2025. Artigo de opinião e reflexão profissional; arquivo local em versão de estudo.
+4. **Parlamento Europeu.** [*Impacto da globalização no emprego e na UE*](https://www.europarl.europa.eu/topics/pt/article/20190712STO56968/impacto-da-globalizacao-no-emprego-e-na-ue). Análise de impactos no contexto europeu.
 
 ---
 
