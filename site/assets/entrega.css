@@ -84,6 +84,7 @@ main:focus { outline: none; }
 .feature :focus-visible { outline-color: #ffc5a8; }
 .action {
   display: inline-flex;
+  max-width: 100%;
   min-height: 48px;
   align-items: center;
   justify-content: space-between;
@@ -105,6 +106,10 @@ main:focus { outline: none; }
   border-top: 1px solid var(--line);
   padding-block: clamp(1.85rem, 3.75vw, 3.35rem);
   scroll-margin-top: 1rem;
+}
+.collection-objects {
+  border-top: 2px solid var(--plum);
+  padding-top: clamp(2.25rem, 4vw, 3.75rem);
 }
 .collection-intro { grid-column: span 4; padding-top: .15rem; }
 .collection h2 {
@@ -149,19 +154,17 @@ main:focus { outline: none; }
   padding: .35rem .55rem;
   text-decoration-color: #a3879a;
 }
-.presentation-download {
-  grid-column: 5 / -1;
-  display: flex;
-  flex-wrap: wrap;
+.prototype-details { grid-column: span 8; }
+.prototype-details p { max-width: 43ch; margin: .15rem 0 .2rem; color: var(--muted); }
+.prototype-link {
+  display: inline-flex;
   align-items: center;
-  justify-content: space-between;
-  gap: .15rem .75rem;
-  margin: .45rem 0 0;
-  padding-inline: .55rem;
-  color: var(--muted);
-  font-size: .94rem;
+  gap: .4rem;
+  min-height: 44px;
+  font-weight: 690;
+  text-decoration-color: #a3879a;
 }
-.presentation-download .download-link { margin-inline-start: 0; white-space: normal; }
+.prototype-link:hover { text-decoration-color: currentColor; }
 .footer {
   display: flex;
   flex-wrap: wrap;
@@ -266,7 +269,7 @@ main:focus { outline: none; }
 
 @media (max-width: 45rem) {
   .manifesto-grid { grid-template-columns: minmax(0, 1fr); }
-  .hero-copy, .feature, .collection-intro, .entries, .presentation-download { grid-column: auto; }
+  .hero-copy, .feature, .collection-intro, .entries, .prototype-details { grid-column: auto; }
   .hero { row-gap: 1.6rem; padding-block: 2.3rem 2.4rem; }
   .hero h1 { font-size: clamp(2.65rem, 10.7vw, 4.3rem); }
   .feature h2 { max-width: 20ch; }
@@ -283,6 +286,4 @@ main:focus { outline: none; }
   .object-row .document-link { grid-template-columns: 1.7rem minmax(0, 1fr); row-gap: .12rem; padding-block: .65rem .3rem; }
   .object-row .document-action { grid-column: 2; display: flex; align-items: center; min-height: 44px; }
   .object-row .download-link { align-self: end; margin-bottom: .3rem; padding-inline: .35rem; }
-  .presentation-download { flex-direction: column; align-items: flex-start; margin: 0; padding-inline: .3rem; }
-  .presentation-download .download-link { align-self: flex-start; }
 }
